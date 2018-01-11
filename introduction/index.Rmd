@@ -1,0 +1,164 @@
+---
+title: "Introduction to Urban Studies"
+subtitle: ""
+date: "January 16, 2018"
+author: "GEOG 10003"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Course introduction
+
+### **Share with your colleagues:**
+* Where are you from?  
+
+* Why are you taking this course?
+
+* What do you hope to get out of this semester?  
+
+---
+
+## Housekeeping
+
+* Content management system: __TCU Online__
+
+-- TCU Online can be accessed via [MyTCU](http://my.tcu.edu) or http://d2l.tcu.edu  
+-- All course affairs will be managed through TCU Online
+ 
+* Syllabus review and course expectations
+
+---
+
+## Course resources
+
+* All readings are available on TCU Online
+
+* Readings supplement in-class content; should be completed before the week in which they are assigned
+
+---
+
+## Any questions? 
+
+* The floor is yours before we move onward...
+
+---
+
+## Course structure
+
+* We will explore major themes in the field of urban studies...
+
+* ...through case studies of some of the world's most iconic and dynamic cities
+
+---
+
+## Urban form
+
+* Example: http://mapfrappe.com/
+
+<img src=img/dallas-paris.png>
+
+---
+
+## Neighborhoods
+
+{image here of Greenwich village}
+
+---
+
+## Labor markets and real estate
+
+{image of the Google bus or expensive SF housing sign}
+
+---
+
+## Environmental management
+
+{image of flooding in Houston}
+
+---
+
+## Suburbanization
+
+{image of DFW suburbs}
+
+---
+
+## Deindustrialization
+
+{decline in Detroit}
+
+---
+
+## Cultural diversity
+
+{immigrant businesses in Canada}
+
+---
+
+## Megacities in the developing world
+
+{slums in Mexico City}
+
+---
+
+## Mega-events and infrastructure
+
+{Rio Olympics image}
+
+---
+
+## Political economy and cities
+
+
+---
+
+## Urban spectacle in the Middle East
+
+
+---
+
+## The African city
+
+
+---
+
+## Environment and resources in Indian cities
+
+
+---
+
+
+## China's urban boom
+
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #035004; 
+}
+
+a {
+  color: #1a730f; 
+}
+
+.inverse {
+  background-color: #035004; 
+
+}
+</style>
+
+
+
+
+
+
+
