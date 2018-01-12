@@ -67,69 +67,95 @@ options(htmltools.dir.version = FALSE)
 
 ## Neighborhoods
 
-{image here of Greenwich village}
+<img src="https://cdn.images.express.co.uk/img/dynamic/136/590x/New-York-606431.jpg" style="width: 800px">
+
+.footnote[Source: Daily Express]
 
 ---
 
 ## Labor markets and real estate
 
-{image of the Google bus or expensive SF housing sign}
+<img src="http://ww2.hdnux.com/photos/26/44/36/5916605/5/920x1240.jpg" style="width: 700px">
+
+.footnote[Source: San Francisco Chronicle]
 
 ---
 
 ## Environmental management
 
-{image of flooding in Houston}
+<img src="http://static2.businessinsider.com/image/59a364da79bbfd2b008b53ae-2400/rtx3dkue.jpg" style="width: 700px">
+
+.footnote[Source: Reuters/Business Insider]
 
 ---
 
 ## Suburbanization
 
-{image of DFW suburbs}
+<iframe width="800" height="500" src="https://www.youtube.com/embed/y7f3dBf8k1Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
 ## Deindustrialization
 
-{decline in Detroit}
+<img src="http://mediad.publicbroadcasting.net/p/michigan/files/styles/x_large/public/201511/20151119_PackardPlant_Gunner.jpg" style="width: 650px">
+
+.footnote[Source: Michigan Radio]
 
 ---
 
-## Cultural diversity
+## Cultural diversity and immigration
 
-{immigrant businesses in Canada}
+<img src="https://i.pinimg.com/originals/16/dd/df/16dddfcf0a6599abbc0249d1902ed17a.jpg" style="width: 700px">
+
+.footnote[Source: Pinterest.com]
 
 ---
 
 ## Megacities in the developing world
 
-{slums in Mexico City}
+<img src="https://pro2-bar-s3-cdn-cf4.myportfolio.com/7110bd9a9c83d97ed90b4758be565c85/58acf63e93bc14ca40c0c4da_rw_1920.jpg" style="width: 750px">
+
+.footnote[Source: Unequal Scenes(http://unequalscenes.com/)]
 
 ---
 
 ## Mega-events and infrastructure
 
-{Rio Olympics image}
+<img src="http://images.performgroup.com/di/library/sporting_news/fb/14/rio-olympics-2016-relive-the-opening-ceremony-in-photos_tzdoner9nexy1mn6gvih8nysf.jpg?t=1560659566" style="width: 650px">
+
+.footnote[Source: The Sporting News]
 
 ---
 
 ## Political economy and cities
 
+<img src="https://www.calvertjournal.com/images/uploads/news/_crop/socialist-modernism-bacu-photography_dezeen_3408_slideshow_5.jpg" style="width: 700px">
+
+.footnote[Source: CalvertJournal.com]
 
 ---
 
 ## Urban spectacle in the Middle East
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Dubai_skyline_2015_%28crop%29.jpg" style="width: 600px">
+
+.footnote[Source: Wikimedia Commons]
 
 ---
 
-## The African city
+## Urbanization in Africa
 
+<img src="https://news.bbcimg.co.uk/news/special/shorthands/36505/media/lagos1920street-l-mr_eexujmu.jpg" style="width: 700px">
+
+.footnote[Source: [BBC](http://www.bbc.co.uk/news/resources/idt-sh/lagos)]
 
 ---
 
 ## Environment and resources in Indian cities
 
+<img src="https://voiceforwater.files.wordpress.com/2015/10/7.jpg" style="width: 700px">
+
+.footnote[Source: [Voice for Water](https://voiceforwater.wordpress.com/2015/10/13/water-access-strategies-in-delhis-informal-settlements/)]
 
 ---
 
@@ -137,7 +163,9 @@ options(htmltools.dir.version = FALSE)
 ## China's urban boom
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Shanghai-pudong_night.jpg" style="width: 650px">
 
+.footnote[Source: Wikimedia Commons]
 
 
 <style>
