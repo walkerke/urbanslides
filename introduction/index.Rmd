@@ -61,7 +61,7 @@ options(htmltools.dir.version = FALSE)
 
 * Example: http://mapfrappe.com/
 
-<img src=img/dallas-paris.png>
+<img src=img/dallas-paris.PNG>
 
 ---
 
