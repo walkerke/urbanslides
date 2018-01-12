@@ -2,7 +2,7 @@
 title: "Introduction to Urban Studies"
 subtitle: ""
 date: "January 16, 2018"
-author: "GEOG 10003"
+author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
     seal: yes

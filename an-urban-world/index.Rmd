@@ -1,0 +1,42 @@
+---
+title: "An Urban World"
+subtitle: ""
+date: "January 18, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## Course introduction
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #035004; 
+}
+
+a {
+  color: #1a730f; 
+}
+
+.inverse {
+  background-color: #035004; 
+
+}
+</style>
+
+
+
+
+
+
+
