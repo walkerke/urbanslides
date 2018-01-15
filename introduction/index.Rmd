@@ -171,15 +171,15 @@ options(htmltools.dir.version = FALSE)
 <style>
 
 h1, h2, h3 {
-  color: #035004; 
+  color: #386890; 
 }
 
 a {
-  color: #1a730f; 
+  color: #90b4d2; 
 }
 
 .inverse {
-  background-color: #035004; 
+  background-color: #386890; 
 
 }
 </style>
