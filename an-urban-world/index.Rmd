@@ -57,6 +57,50 @@ class: middle, inverse, center
 
 ---
 
+## Is this a city?  
+
+<img src="http://i.telegraph.co.uk/multimedia/archive/02500/Leptis-3_2500348k.jpg" style="width: 700px">
+
+.footnote[Source: [The Telegraph](http://www.telegraph.co.uk/culture/culturepicturegalleries/9909936/Roman-ruins-in-Libya-aerial-photographs-by-Jason-Hawkes.html)]
+
+---
+
+## Is this a city?  
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1516215647669!6m8!1m7!1soDdK_pFE646ZKfZGjUFcPg!2m2!1d30.02242488592553!2d-100.2084943248186!3f191.35369848575675!4f5.394188047962146!5f0.7820865974627469" width="800" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---
+
+## Is this a city?  
+
+<img src="https://dallasnews.imgix.net/NM_20aeri14.jpg" style="width: 650px">
+
+.footnote[Source: [DallasNews.com](https://www.dallasnews.com/news/news/2014/05/21/suburbs-near-dallas-among-fastest-growing-cities-in-u.s.)]
+
+---
+
+## Urban definitions
+
+United Nations (https://esa.un.org/unpd/wup/): 
+
+> _There is no common global definition of what constitutes an urban settlement... The criteria for classifying
+an area as urban may be based on one or a combination of characteristics, such as: a
+minimum population threshold; population density; proportion employed in non-agricultural
+sectors; the presence of infrastructure such as paved roads, electricity, piped water or
+sewers; and the presence of education or health services._
+
+US Census: _urban areas_ and _urban clusters_
+
+---
+
+## Urban definitions
+
+Lewis Mumford, "What is a City?" (1937)
+
+> _The city in its complete sense, then, is a geographic plexus, an economic organization, an institutional process, a theater of social action, and an aesthetic symbol of collective unity._
+
+---
+
 ## Urban definitions
 
 * Megacity
