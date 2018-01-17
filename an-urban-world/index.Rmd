@@ -15,17 +15,40 @@ options(htmltools.dir.version = FALSE)
 
 ## Global urbanization
 
-{historical chart}
+[The History of Urbanization - Max Galka/Metrocosm.com](http://metrocosm.com/map-history-cities.html)
+
+---
+class: center, middle, inverse
+
+## Why do humans live in cities?  
 
 ---
 
-## Urbanization by region
+## Recent urbanization
 
-{historical chart}
+<img src="img/urban-recent.PNG" style="width: 800px">
+
+.footnote[Source: UN Population Prospects, the 2014 revision]
 
 ---
 
-## Early cities
+## Recent urbanization by region
+
+<img src="img/urban-regions.PNG" style="width: 550px">
+
+.footnote[Source: UN Population Prospects, the 2014 revision]
+
+---
+
+## The growth of global cities
+
+[World City Populations 1950-2030 (Duncan Smith/UCL)](http://luminocity3d.org/WorldCity/#3/12.00/10.00)
+
+---
+
+## World's largest cities over time
+
+<img src="img/pop.gif" style="width: 600px">
 
 ---
 class: middle, inverse, center
@@ -34,13 +57,11 @@ class: middle, inverse, center
 
 ---
 
-## What is a city?  
-
-{definitions here}
-
----
-
 ## Urban definitions
+
+* Megacity
+
+* Global city
 
 * Central business district
 
@@ -49,8 +70,76 @@ class: middle, inverse, center
 * Suburbs & exurbs
 
 ---
+class: middle, center, inverse
 
+# How do we study cities?  
 
+---
+
+## Tools of urban studies
+
+* Urban & social theory
+
+* Mapping and geographic information science
+
+* Quantitative analysis
+
+* Qualitative methods
+
+---
+
+## Example: Chicago
+
+<img src="img/chicago-headline.PNG" style="width: 800px">
+
+.footnote[Source: The Atlantic/CityLab]
+
+---
+
+## Life expectancy in Chicago
+
+<img src="img/chicago-lex.PNG" style="width: 390px">
+
+.footnote[Source: The New York Times]
+
+---
+
+## Racial segregation in Chicago
+
+<img src="img/chicago-race.PNG" style="width: 500px">
+
+.footnote[Source: https://demographics.virginia.edu/DotMap/]
+
+---
+
+## Scale, demographics, and perceptions of place
+
+<img src="img/chicago-538.PNG" style="width: 450px">
+
+.footnote[Source: [FiveThirtyEight](https://fivethirtyeight.com/features/the-most-diverse-cities-are-often-the-most-segregated/)]
+
+---
+
+## Lending discrimination in Chicago
+
+<img src="img/chicago-holc.PNG" style="width: 600px">
+
+.footnote[Source: [Mapping Inequality project, University of Richmond](https://dsl.richmond.edu/panorama/redlining/#loc=11/41.8609/-87.6774&opacity=0.8&city=chicago-il)]
+
+---
+
+## Qualitative methods
+
+About Washington Park in Chicago, from 1940 HOLC rating documents: 
+
+> _This venture has the realtors guessing as to what the ultimate result will be when so many of this race are drawn into this section from the already negro-blighted district; particularly its effect on the section east and south of Cottage Grove, and to park and water frontage on Lake Michigan. Already Washington Park at the south, a very fine park, has been almost completely monopolized by the colored race._
+
+.footnote[Source: [Mapping Inequality Project](https://dsl.richmond.edu/panorama/redlining/#loc=11/41.8609/-87.6774&opacity=0.8&city=chicago-il&area=D74&sort=295,45)]
+
+---
+class: middle, center, inverse
+
+# Next up: Chicago...
 
 
 
