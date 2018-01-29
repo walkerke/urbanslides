@@ -1,0 +1,269 @@
+---
+title: "New York"
+subtitle: "Neighborhoods and demographic change"
+date: "January 30, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* The neighborhood
+
+* The city in popular culture
+
+* Gentrification
+
+* Demographic inversion
+
+
+---
+
+## New York
+
+<center><img src=img/ny-skyline.jpg style="width: 600px;" /></center>
+
+---
+
+## New York
+
+<img src=img/nyc.PNG style="width: 500px">
+
+---
+
+## Early New York: _Mannahatta_ 
+
+* https://welikia.org/explore/mannahatta-map/
+
+<img src="http://culturenow.org/exhibitions_folder/images/mannahatta/big/1manahatta_tip_big.jpg" style="width: 400px">
+
+.footnote[Source: [culturenow.org](http://culturenow.org/exhibitions&exhibition=mannahatta)]
+
+---
+
+## Early New York
+
+<img src="http://thegreatestgrid.mcny.org/greatest-grid/img/detail/1.1.4.jpg" style="widtht: 700px">
+
+.footnote[Source: [Museum of the City of New York](http://thegreatestgrid.mcny.org/greatest-grid/18th-century-city/5#map)]
+---
+
+## The Commissioner's Plan of 1811
+
+* Interactive: http://thegreatestgrid.mcny.org/greatest-grid/interactive-1811-plan
+
+---
+
+## Early New York
+
+<img src="http://www.brianrose.com/blog/wp-content/uploads/2012/04/orchard1909.jpg" style="width: 550px">
+
+.footnote[Source: [brianrose.com](http://www.brianrose.com/blog/2012/04/new-yorklower-east-side-49/)]
+
+---
+
+## NYC neighborhoods
+
+* [NYC planning's Community District Profiles](https://communityprofiles.planning.nyc.gov/)
+
+---
+class: middle, center, inverse
+
+# What makes a good neighborhood?
+
+---
+
+## Neighborhoods
+
+<iframe width="750" height="500" src="https://www.youtube.com/embed/YA45UBu5cJM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Jane Jacobs
+
+<img src="https://inhabitat.com/wp-content/blogs.dir/1/files/2016/05/jane-jacobs.jpg" style="width: 550px">
+
+.footnote[Source: [inhabitat.com](https://inhabitat.com/feature-documentary-celebrates-urban-design-icon-jane-jacobs-100th-birthday/)]
+
+---
+
+## Robert Moses
+
+<img src="https://smoothjazzy.files.wordpress.com/2007/01/robert-moses.jpg" style="width: 650px">
+
+.footnote[Source: smoothjazzy.wordpress.com]
+
+---
+
+## The Lower Manhattan Expressway (LOMEX) plan
+
+<img src="https://untappedcities-wpengine.netdna-ssl.com/wp-content/uploads/2013/09/lower-manhattan-expressway-robert-moses-nyc-untapped-cities.jpg" style="width: 550px">
+
+.footnote[Source: [untapped cities](https://untappedcities.com/2013/09/11/nyc-that-never-was-robert-moses-lower-manhattan-expressway-lomex/)]
+
+---
+class: middle, center, inverse
+
+## Demographic change in New York City
+
+---
+
+## Who comes to - and leaves - NYC?
+
+* [Application from the NYC Planning Labs](https://migration.planning.nyc.gov/#age)
+
+---
+
+## Gentrification
+
+<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/2/1396458198592/6cbe9522-6aab-4972-a496-490eea8a2833-1020x318.jpeg?w=1920&q=55&auto=format&usm=12&fit=max&s=60beda5b3b5ed0f66322712893895351" style="width: 800px">
+
+* [See the changes on Google Maps](https://www.google.com/maps/@40.724334,-73.9908516,3a,75y,267.34h,97.32t/data=!3m7!1e1!3m5!1sI9zyMEawuqPQJ6N-LcTakA!2e0!5s20090601T000000!7i13312!8i6656)
+
+.footnote[Source: [James and Karla Murray/The Guardian](https://www.theguardian.com/cities/gallery/2014/apr/03/new-york-storefronts-what-a-difference-a-decade-makes)]
+---
+
+## Educational attainment in NYC
+
+<img src=img/education.PNG style="width: 700px">
+
+Map: http://personal.tcu.edu/kylewalker/maps/education/index.html#11.01/40.7770/-74.0066
+
+---
+class: middle, center, inverse
+
+## The "demographic inversion" hypothesis
+
+---
+
+## Manhattan in popular culture
+
+<img src="https://1.bp.blogspot.com/-sQw4mzvZcN4/Uq5UJUKWeuI/AAAAAAAABJQ/BRfgNhDxa64/s1600/Taxi+D.JPG" style="width: 600px">
+
+.footnote[Source: http://donstradley.blogspot.com]
+
+---
+
+## Manhattan in popular culture
+
+<img src="http://holysupermarket.com/wp-content/uploads/2017/09/6362009871505389111689071181_Friends-TV-show-on-NBC-canceled-no-season-11.jpg" style="width: 750px">
+
+---
+
+## Manhattan in popular culture
+
+<img src="https://www.usmagazine.com/wp-content/uploads/sex-and-the-city-movie-54915ed0-42af-42af-bc5e-e2108a4fef53.jpg" style="width: 500px">
+
+.footnote[Source: _US Magazine_]
+
+---
+class: middle, center, inverse
+
+## Why the change?  
+
+---
+
+## Crime rates in NYC
+
+* 2017: 290 homicides in NYC, lowest since 1950s; crime rate falling consistently for 27 straight years (New York Times)
+
+<img src="img/crime.PNG" style="width: 750px">
+
+.footnote[Source: [Brennan Center for Justice, NYU](https://www.brennancenter.org/sites/default/files/analysis/What_Caused_The_Crime_Decline.pdf)]
+
+---
+
+## The cultural significance of neighborhoods
+
+<img src="https://www.apollotheater.org/wp-content/uploads/2015/06/apollo-archive-feature.jpg" style="width: 650px">
+
+.footnote[Source: [apollotheater.org](https://www.apollotheater.org/event/historic-tours/)]
+
+---
+
+## Neighborhood change
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1516996962032!6m8!1m7!1sdvvLXs6_xQJBR4FIqN_NRQ!2m2!1d40.80972877810193!2d-73.9502429665164!3f23.422417391162313!4f7.916654040546177!5f0.7820865974627469" width="700" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---
+
+## Brooklyn
+
+[Zillow real estate reference](https://www.zillow.com/homes/for_sale/Boerum-Hill-Brooklyn-New-York-NY/272994_rid/globalrelevanceex_sort/40.684077,-73.99018,40.68236,-73.992704_rect/18_zm/0_mmm/)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1517057194539!6m8!1m7!1s6aJ54Ty2OPacn1Yy3tMn5Q!2m2!1d40.6830258524386!2d-73.99129199884027!3f162.70817500535236!4f-11.818304397362141!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---
+
+## Neighborhood change in Brooklyn
+
+<img src=img/bk_education1.PNG style="width: 200px; float: left;">
+
+<img src=img/bk_education2.PNG style="width:300px">
+
+.footnote[Source: [_The New York Times_](https://www.nytimes.com/2015/11/29/nyregion/gentrification-in-a-brooklyn-neighborhood-forces-residents-to-move-on.html)]
+
+---
+
+## Neighborhood change and identity
+
+<iframe width="800" height="500" src="http://www.youtube.com/embed/xHfAT6ixY14" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Queens in popular culture
+
+<img src="http://www.cbsstore.com/imgcache/product/resized/000/043/926/catl/the-king-of-queens-season-2-dvd-747_1000.jpg" style="width: 400px">
+
+.footnote[Source: CBSStore.com]
+
+---
+
+## Immigration and language in NYC
+
+* [Language map by NYC community area - NYC Planning](https://www1.nyc.gov/assets/planning/html/data-maps/nyc-population/viz.html)
+
+---
+
+## Immigrant geographies in Queens
+
+<center><img src=img/flushing-1.jpg style="width: 600px;" /></center>
+
+
+---
+class: middle, center, inverse
+
+# Next up: the San Francisco Bay Area
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
