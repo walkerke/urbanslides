@@ -1,0 +1,172 @@
+---
+title: "Houston"
+subtitle: "Environmental management and the city"
+date: "February 13, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* Zoning
+
+* Urban environmental management
+
+---
+
+## Houston
+
+<img src="http://www.houstontx.gov/abouthouston/images/BuffaloBayouSunrise.jpg" style="width: 800px">
+
+.footnote[Source: [City of Houston](http://www.houstontx.gov/abouthouston/)]
+
+---
+
+## Houston
+
+<img src="img/houston-area.PNG" style="width: 600px">
+
+---
+
+## Houston
+
+<img src="https://res.cloudinary.com/simpleview/image/upload/v1472567465/clients/houston/10462823_10153446676104098_4312894453136426279_n_acd10337-7500-4a17-868c-3561059e4460.jpg" style="width: 600px">
+
+.footnote[Source: [Visit Houston](https://www.visithoustontexas.com/about-houston/history/)]
+
+---
+
+## Houston and industry
+
+<img src="https://s.hdnux.com/photos/33/33/62/7191689/9/920x920.jpg" style="width: 600px">
+
+.footnote[Source: [Houston Chronicle](https://www.houstonchronicle.com/business/columnists/tomlinson/article/Gasoline-prices-mean-big-break-for-Americans-but-5917427.php)]
+
+---
+
+## Zoning
+
+* Example: [Zoning in New York City](https://zola.planning.nyc.gov/about#9.72/40.7125/-73.733)
+
+---
+
+## Houston and urban development
+
+> _The city of Houston does not have zoning but development is governed by codes that address how property can be subdivided. The City codes do not address land use._
+
+* Development letter: http://www.houstontx.gov/planning/Forms/devregs/2018_no_zoning_letter.pdf
+
+---
+
+## Houston and urban development
+
+* [Gallery of images of Houston's lack of zoning laws - Houston Chronicle](https://www.chron.com/news/houston-texas/houston/article/Weirdest-images-from-Houston-s-lack-of-zoning-laws-9171688.php#photo-10773147)
+
+---
+
+## Population change in Houston
+
+<img src="img/change.png" style="width: 700px">
+
+---
+
+## Population change in Houston
+
+<img src="img/metro_change.png" style="width: 650px">
+
+---
+class: inverse, middle, center
+
+## Hurricane Harvey and its aftermath
+
+---
+
+## Hurricane Harvey
+
+<img src=img/harvey-path.gif style="width: 700px">
+
+.footnote[Source: [_The New York Times_](https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html)]
+
+---
+
+## Flooding in Houston
+
+<img src="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/08/29/Investigative/Images/Harvey_38748-171b4.jpg" style="width: 550px">
+
+.footnote[Source: [The Washington Post](https://www.washingtonpost.com/graphics/2017/investigations/harvey-urban-planning/?utm_term=.48535b9525bc)]
+
+---
+
+## Flooding in Houston
+
+<img src=img/houston-rain.gif style="width: 700px">
+
+[Interactive version](https://www.nytimes.com/interactive/2017/08/24/us/hurricane-harvey-texas.html)
+
+.footnote[Source: _The New York Times_]
+
+---
+class: middle, center, inverse
+
+## Why was Houston at risk?  
+
+---
+
+## Environmental management and Houston
+
+<img src="https://apps.texastribune.org/harvey-reservoirs/assets/images/addicks-development-north-2000-05a9d996df.jpg" style="width: 550px">
+
+.footnote[Source: [Texas Tribune/ProPublica](https://apps.texastribune.org/harvey-reservoirs/)]
+
+---
+
+## Environmental risk and urban development
+
+<iframe src="https://www.nbcnews.com/widget/video-embed/1085531715787" width="750" height="500" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Environmental risk and urban planning
+
+<img src=img/houston-development.gif style="width: 700px">
+
+.footnote[Source: [The Washington Post](https://www.washingtonpost.com/graphics/2017/investigations/harvey-urban-planning/?utm_term=.48535b9525bc)]
+
+---
+
+class: middle, center, inverse
+
+# Next up: Dallas-Fort Worth
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
