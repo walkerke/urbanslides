@@ -1,0 +1,228 @@
+---
+title: "Dallas-Fort Worth"
+subtitle: "Suburbanization and edge cities"
+date: "February 20, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* Suburbanization
+
+* The "American Dream"
+
+* Automobility
+
+* Edge cities
+
+---
+
+## Dallas-Fort Worth
+
+<img src=img/dfw.PNG style="width: 600px">
+
+---
+
+## Dallas 
+
+<img src="https://www.dmagazine.com/wp-content/uploads/2014/09/Dallas-D-Red-Skyline.jpg" style="width: 700px">
+
+.footnote[Source: [_D Magazine_](https://www.dmagazine.com/frontburner/2014/09/why-dallas-was-chosen-the-best-skyline-in-the-world/)]
+
+---
+
+## Fort Worth
+
+<img src="https://sundancesquare.com/wp-content/uploads/Plaza.jpg" style="width: 600px">
+
+.footnote[Source: sundancesquare.com]
+
+---
+
+## Dallas and Fort Worth
+
+<img src="https://assets3.thrillist.com/v1/image/882418/size/tmg-slideshow_l.jpg" style="width: 650px">
+
+.footnote[Source: [Thrillist](https://www.thrillist.com/entertainment/dallas/time-to-decide-once-and-for-all-dallas-or-ft-worth)]
+
+---
+class: middle, center, inverse
+
+## The American suburb
+
+---
+class: middle, center, inverse
+
+## Where are the suburbs in DFW? 
+
+---
+
+## Early suburbs 
+
+<img src="http://philadelphiaencyclopedia.org/wp-content/uploads/2015/09/media_m_fischetti_visitphila.jpg" style="width: 750px">
+
+.footnote[Source: [philadelphiaencyclopedia.org](https://philadelphiaencyclopedia.org/archive/streetcar-suburbs-2/)]
+
+---
+
+## Post-war suburbanization
+
+<img src="http://levittownalive.com/images/home-collage/30-levittown-aerial.jpg" style="width: 800px">
+
+.footnote[Source: levittownalive.com]
+
+---
+
+## Urban growth in the Metroplex
+
+<iframe src="popchange.html" height = "550" width = "900" frameborder="0" scrolling="no"></iframe>
+
+---
+
+## Urban growth in the Metroplex
+
+<img src=img/map.gif style="width: 650px">
+
+---
+class: middle, center, inverse
+
+## The "American Dream"
+
+---
+
+## Ideology and urban space
+
+<img src="http://www.mothersblog.gr/media/com_news/story/2016/04/08/35471/main/72d2e3f28c86d01d2d80af27a1cdfee3.jpg" style="width: 700px">
+
+---
+
+## Ideology and urban space
+
+> "No one who owns his own house and lot can be a Communist. He has too much to do."
+
+-- William Levitt, 1948
+
+---
+
+## Ideology and urban space
+
+<img src="https://static01.nyt.com/images/2009/07/24/opinion/24opedlarge.jpg" style="width: 600px">
+
+.footnote[Source: [_The New York Times_](http://www.nytimes.com/2009/07/24/opinion/24safire.html)]
+
+---
+
+## Ideology and urban policy
+
+<img src="http://2.bp.blogspot.com/-G8cOdEMHA68/Uuc_W51f8CI/AAAAAAAAFX0/N8x7I2a8up0/s1600/1950---g-4g26677-u-72.jpg" style="width: 600px">
+
+.footnote[[Image source](http://atomic-annhilation.blogspot.com/2014/01/1950-city-life-belts.html)]
+
+---
+
+## Images of suburbia
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/y7f3dBf8k1Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Edge cities
+
+---
+
+## Edge cities 
+
+<img src="https://assets.hospitalityonline.com/photos/employers/258014/403431_l.jpg" style="width: 700px">
+
+.footnote[Source: hospitalityonline.com]
+
+---
+
+## Corporate headquarters in DFW
+
+<img src=img/fortune.PNG style="width: 800px">
+
+.footnote[Source: [Fortune Magazine](http://fortune.com/fortune500/visualizations/)]
+
+---
+
+## Jobs in DFW
+
+<img src=img/jobs.PNG style="width: 800px">
+
+.footnote[Source: [Robert Manduca, "Where Are The Jobs?"](http://www.robertmanduca.com/projects/jobs.html)]
+
+---
+
+## Commuting in DFW
+
+<img src="img/traffic.PNG" style="width: 750px">
+
+---
+
+## Commuting in metropolitan America
+
+<img src=img/driving.png style="width: 500px">
+
+---
+
+## Automobility
+
+<img src="http://dallashighfive.org/wp-content/uploads/2017/03/cropped-dallas-high-five-header-2.jpg" style="width: 750px">
+
+.footnote[Source: [dallashighfive.org](http://dallashighfive.org/)]
+
+---
+
+## Automobility and cities
+
+<iframe width="800" height="550" src="https://www.youtube.com/embed/odF4GSX1y3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## The contemporary suburb
+
+* [Racial/ethnic diversity in DFW](https://walkerke.shinyapps.io/neighborhood_diversity/)
+
+* [Immigration in suburbia](http://personal.tcu.edu/kylewalker/immigrant-america/)
+
+---
+
+class: middle, center, inverse
+
+# Next up: Detroit
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
