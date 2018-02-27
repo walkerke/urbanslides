@@ -54,6 +54,15 @@ options(htmltools.dir.version = FALSE)
 .footnote[Source: [earlyamericanautomobiles.com](http://www.earlyamericanautomobiles.com/americanautomobiles19.htm)]
 
 ---
+
+## Detroit's population over time
+
+<img src="http://www.dailydetroit.com/wp-content/uploads/2017/05/detroit-population-1920-2016.png" style="width: 700px">
+
+.footnote[Source: [Daily Detroit](http://www.dailydetroit.com/2017/05/25/detroit-continues-lose-population-according-new-census-data/)]
+
+---
+
 class: middle, center, inverse
 
 ## The Great Migration
@@ -121,6 +130,14 @@ Key terms:
 
 ---
 
+## Population change in Detroit
+
+<img src="https://familyinequality.files.wordpress.com/2014/11/detroit-pop1.jpg" style="width: 450px">
+
+.footnote[Source: [Family Inequality blog](https://familyinequality.wordpress.com/2014/12/01/detroits-decline/)]
+
+---
+
 ## Racial segregation in Detroit
 
 <img src=img/detroit-racial.PNG style="width: 800px">
@@ -148,6 +165,14 @@ class: middle, center, inverse
 
 ---
 
+## The "Rust Belt"
+
+<img src="https://images.flatworldknowledge.com/trowbridge2_1.0/trowbridge2_1.0-fig12_001.jpg" style="width: 450px">
+
+.footnote[Source: [Flat World Knowledge](https://catalog.flatworldknowledge.com/bookhub/reader/15119?e=trowbridge2_1.0-ch12_s02)]
+
+---
+
 ## The automobile industry and Detroit
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--xmuUNeaq--/c_scale,fl_progressive,q_80,w_800/18dtuu07dvsfgjpg.jpg" style="width: 650px">
@@ -168,6 +193,13 @@ class: middle, center, inverse
 
 * [Video: Detroit's Packard Automobile Plant](https://aeon.co/videos/a-poetic-tour-through-detroits-abandoned-ghostly-packard-automotive-plant)
 
+---
+
+## Detroit and the "Great Divergence"
+
+<img src="https://familyinequality.files.wordpress.com/2014/11/detroit-marriage-divorce.jpg?w=500&h=437" style="width: 500px">
+
+.footnote[Source: [Family Inequality blog](https://familyinequality.wordpress.com/2014/12/01/detroits-decline/)]
 
 ---
 class: middle, center, inverse
