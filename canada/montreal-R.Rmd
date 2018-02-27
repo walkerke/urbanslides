@@ -1,0 +1,144 @@
+---
+title: "Montreal"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+First, we load up the packages and set the API key.  
+
+```{r}
+library(cancensus)
+library(tidyverse)
+library(sf)
+options(cancensus.api_key = "CensusMapper_6293253518cbfcfc86b62e83f056f92f")
+```
+
+"CA16" is the code for the 2016 Census; the CMA code for Montreal is 24462.  
+
+We can browse possible variables with: 
+
+```{r, eval = FALSE}
+View(list_census_vectors("CA16"))
+```
+
+We want language spoken most often at home for several common languages in Quebec.  
+
+This will get us the following codes for: 
+
+* English: v_CA16_1364
+* French: v_CA16_1367
+* Arabic: v_CA16_1658
+* Spanish: v_CA16_1958
+* Italian: v_CA16_1949
+* Haitian Creole: v_CA16_1736
+* Greek: v_CA16_1883
+* Chinese: v_CA16_2057
+* Other: total (v_CA16_527) minus the rest
+* Multiple: v_CA16_2147
+
+And we grab the data by Census tract: 
+
+```{r}
+language <- c("v_CA16_1364", "v_CA16_1367", "v_CA16_1658", "v_CA16_1958", 
+              "v_CA16_1949", "v_CA16_1736", "v_CA16_1883", "v_CA16_2057", 
+              "v_CA16_527", "v_CA16_2147")
+
+montreal <- get_census(dataset = "CA16", regions = list(CMA = "24462"), 
+                       vectors = language, level = "CT", geo_format = "sf", 
+                       labels = "short")
+```
+
+Let's write out to an RDS: 
+
+```{r}
+write_rds(montreal, "montreal.rds")
+```
+
+Next, we need to generate dots.  Let's try first for English speakers in Montreal.  
+
+```{r}
+english_dots <- montreal %>%
+  st_transform(32618) %>%
+  mutate(english = as.integer(v_CA16_1364 / 200)) %>%
+  mutate(english = ifelse(is.na(english), 0, english)) %>%
+  st_sample(., .$english) %>%
+  st_sf()
+```
+
+And map them: 
+
+```{r}
+library(tmap)
+library(tmaptools)
+
+url <- "https://api.mapbox.com/styles/v1/kwalkertcu/cj0jov12u007n2sqppuxe3fvr/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia3dhbGtlcnRjdSIsImEiOiJMRk9JSmRvIn0.l1y2jHZ6IARHM_rA1-X45A"
+
+osm <- read_osm(bb(montreal), type = url)
+
+b1 <- tm_shape(osm) + 
+  tm_raster() + 
+  tm_shape(english_dots) + 
+  tm_dots(alpha = 0.4, col = "red") + 
+  tm_layout(title = "English as first language in the Montreal area") + 
+  tm_credits("1 dot = 200 people. Data source: 2016 Canadian Census via the R cancensus package")
+
+save_tmap(b1, "img/english.jpg")
+
+```
+
+And French: 
+
+```{r}
+
+french_dots <- montreal %>%
+  st_transform(32618) %>%
+  mutate(french = as.integer(v_CA16_1367 / 200)) %>%
+  mutate(french = ifelse(is.na(french), 0, french)) %>%
+  st_sample(., .$french) %>%
+  st_sf()
+
+b2 <- tm_shape(osm) + 
+  tm_raster() + 
+  tm_shape(french_dots) + 
+  tm_dots(alpha = 0.4, col = "#1C5BA2") + 
+  tm_layout(title = "French as first language in the Montreal area") + 
+  tm_credits("1 dot = 200 people. Data source: 2016 Canadian Census via the R cancensus package")
+
+save_tmap(b2, "img/french.jpg")
+
+```
+
+From here, we'll be able to walk through, generate dots, and load to ArcGIS Online.  Let's write to a shapefile just in case though.  
+
+* English: v_CA16_1364
+* French: v_CA16_1367
+* Arabic: v_CA16_1658
+* Spanish: v_CA16_1958
+* Italian: v_CA16_1949
+* Haitian Creole: v_CA16_1736
+* Greek: v_CA16_1883
+* Chinese: v_CA16_2057
+* Other: total (v_CA16_527) minus the rest
+* Multiple: v_CA16_2147
+
+```{r}
+montreal_out <- montreal %>%
+  select(GeoUID, english = v_CA16_1364, 
+         french = v_CA16_1367, 
+         arabic = v_CA16_1658, 
+         spanish = v_CA16_1958, 
+         italian = v_CA16_1949, 
+         creole = v_CA16_1736, 
+         greek = v_CA16_1883, 
+         chinese = v_CA16_2057, 
+         multiple = v_CA16_2147, 
+         total = v_CA16_527) %>%
+  mutate(other = total - (english + french + arabic + spanish + italian + creole + greek + chinese))
+  
+
+st_write(montreal_out, "data/montreal.shp", delete_layer = TRUE)
+```
+

@@ -2,7 +2,9 @@ library(tidycensus)
 library(tmap)
 library(tmaptools)
 library(sf)
+library(tigris)
 library(magick)
+library(tidyverse)
 options(tigris_use_cache = TRUE)
 
 ctys <- c("Dallas", "Tarrant", "Collin County", "Denton", 
@@ -36,15 +38,13 @@ url <- "https://api.mapbox.com/styles/v1/kwalkertcu/cj0jov12u007n2sqppuxe3fvr/ti
 
 osm <- read_osm(bb(p90), type = url)
 
-
 walk(dfs, function(x) {
   
   dots <- x %>%
     st_transform(26914) %>%
     mutate(value = as.integer(value / 200)) %>%
     st_sample(., .$value) %>%
-    st_sf() %>%
-    mutate(col = "x")
+    st_sf() 
   
   b1 <- tm_shape(osm) + 
     tm_raster() + 
@@ -53,7 +53,7 @@ walk(dfs, function(x) {
     tm_layout(title = unique(x$year)) + 
     tm_credits("1 dot = 200 people. Data source: Census/ACS via the R tidycensus package")
   
-  save_tmap(b1, paste0("img/", unique(x$year), ".jpg"), dpi = 300)
+  save_tmap(b1, paste0("img/", unique(x$year), ".jpg"), dpi = 96)
   
 })
 
@@ -62,6 +62,5 @@ i00 <- image_read("img/2000.jpg")
 i10 <- image_read("img/2010.jpg")
 i16 <- image_read("img/2012-2016.jpg")
 
-frames <- image_morph(c(i90, i00, i10, i16), frames = 10)
-image_animate(frames)
+image_animate(c(i90, i00, i10, i16), fps = 0.5)
 

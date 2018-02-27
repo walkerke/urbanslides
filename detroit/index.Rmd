@@ -1,0 +1,239 @@
+---
+title: "Detroit"
+subtitle: "Race and deindustrialization"
+date: "February 27, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* The Great Migration
+
+* Racial segregation
+
+* Deindustrialization
+
+* Urban decline and renewal
+
+---
+
+## Detroit
+
+<img src="https://www.michigan.org/sites/default/files/teasers/detroit%20comeback.jpg" style="width: 800px">
+
+.footnote[Source: Michigan.org]
+
+---
+
+## Detroit
+
+<img src=img/detroit-map.PNG style="width: 500px">
+
+---
+
+## History of Detroit
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bird%27s_eye_view_of_Detroit%2C_Michigan%2C_1889_-_._Calvert_Lithographing_Co..jpg/1280px-Bird%27s_eye_view_of_Detroit%2C_Michigan%2C_1889_-_._Calvert_Lithographing_Co..jpg" style="width: 650px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## History of Detroit
+
+<img src="http://www.earlyamericanautomobiles.com/images/amer1549.jpg" style="width: 800px">
+
+.footnote[Source: [earlyamericanautomobiles.com](http://www.earlyamericanautomobiles.com/americanautomobiles19.htm)]
+
+---
+class: middle, center, inverse
+
+## The Great Migration
+
+---
+
+## The Great Migration
+
+<img src="img/great-migration.jpg" style="width: 650px">
+
+.footnote[Source: [analepsis.org](http://analepsis.org/2012/03/25/the-great-migration-series-by-jacob-lawrence-hum225/)]
+
+---
+
+## The Great Migration
+
+<img src="https://www.census.gov/dataviz/visualizations/020/res/graphics/020_blackpop_northern_cities_horiz-01.png" style="width: 750px">
+
+.footnote[Source: [US Census Bureau](https://www.census.gov/dataviz/visualizations/020/)]
+
+---
+
+## The Great Migration
+
+<img src="img/detroit-gm.PNG" style="width: 800px">
+
+.footnote[Source: [ProPublica](http://projects.propublica.org/graphics/city-maps)]
+
+---
+class: middle, center, inverse
+
+## Racial segregation
+
+---
+
+## Segregation
+
+* **Segregation**: the geographical separation of two or more groups of people in a given space
+
+ * Roles of sorting and discrimination in urban segregation
+ 
+* Racial segregation declining in most cities; segregation by income on the rise
+
+---
+
+## Segregation and housing policy
+
+<img src="img/redlining.PNG" style="width: 650px">
+
+.footnote[Source: [Mapping Inequality project](https://dsl.richmond.edu/panorama/redlining/#loc=11/42.3778/-83.1483&opacity=0.8&city=detroit-mi)]
+
+---
+
+## Segregation and housing policy
+
+Key terms: 
+
+* Restrictive covenants
+
+* Blockbusting and racial steering
+
+* The Fair Housing Act
+
+* "White flight"
+
+---
+
+## Racial segregation in Detroit
+
+<img src=img/detroit-racial.PNG style="width: 800px">
+
+.footnote[Source: [UVA/The Racial Dot Map](http://demographics.virginia.edu/DotMap/)]
+
+---
+
+## 8 Mile Road
+
+<img src="http://detroiturbex.com/content/neighborhoods/8milewall/img/6.jpg" style="width: 650px">
+
+.footnote[Source: [DetroitUrbex.com](http://detroiturbex.com/content/neighborhoods/8milewall/index.html)]
+
+---
+
+## 8 Mile Road
+
+<iframe width="750" height="525" src="https://www.youtube.com/embed/9gMBXg-HF4o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Deindustrialization
+
+---
+
+## The automobile industry and Detroit
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--xmuUNeaq--/c_scale,fl_progressive,q_80,w_800/18dtuu07dvsfgjpg.jpg" style="width: 650px">
+
+.footnote[Source: [Jalopnik](https://jalopnik.com/5243287/gms-renaissance-center-hq-view-from-the-top)]
+
+---
+
+## Automobile manufacturing
+
+<img src="https://www.mackinac.org/media/images/2015/MoreThanAuto2.jpg" style="width: 600px">
+
+.footnote[Source: [Mackinac Center for Public Policy](https://www.mackinac.org/21310)]
+
+---
+
+## Deindustrialization and Detroit
+
+* [Video: Detroit's Packard Automobile Plant](https://aeon.co/videos/a-poetic-tour-through-detroits-abandoned-ghostly-packard-automotive-plant)
+
+
+---
+class: middle, center, inverse
+
+## Urban decline and renewal
+
+---
+
+## Urban decline
+
+<img src="img/satellite.PNG" style="width: 700px">
+
+---
+
+## Clearing urban "blight"
+
+<img src="img/montlieu.gif" style="width: 700px">
+
+---
+
+## Population change in Detroit
+
+<iframe src="wayne_change.html" height = "500" width = "750" frameborder = "0" scrolling="no"></iframe>
+
+---
+
+## Urban renewal
+
+* [Mapping the Motor City project](https://motorcitymapping.org/#t=overview&s=detroit&f=all)
+
+---
+
+## Urban renewal in Detroit
+
+<img src="https://cbsdetroit.files.wordpress.com/2015/03/hudsons-rendering.jpg" style="width: 800px">
+
+.footnote[Source: [CBS Detroit](http://detroit.cbslocal.com/2017/11/21/city-council-approves-four-transformational-dan-gilbert-projects-in-detroit/)]
+
+---
+
+class: middle, center, inverse
+
+# Next up: Vancouver and Montreal
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
