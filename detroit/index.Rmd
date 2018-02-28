@@ -138,6 +138,12 @@ Key terms:
 
 ---
 
+## Population change in Detroit
+
+<img src="img/detroit1.gif" style="width: 650px">
+
+---
+
 ## Racial segregation in Detroit
 
 <img src=img/detroit-racial.PNG style="width: 800px">

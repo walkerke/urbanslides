@@ -1,0 +1,201 @@
+---
+title: "Vancouver and Montreal"
+subtitle: "Immigration and cultural diversity"
+date: "March 6, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* International migration
+
+* Immigrant enclaves
+
+* Urban diversity
+
+* Cultural geography
+
+---
+
+## Canadian cities
+
+{info}
+
+---
+
+## Vancouver
+
+{image}
+
+---
+
+## Vancouver
+
+{geography}
+
+---
+
+## History of Vancouver
+
+{info}
+
+---
+class: middle, center, inverse
+
+## Immigration and cities
+
+---
+
+## International migration
+
+{discuss}
+
+---
+
+## International migration to Canada
+
+{discuss}
+
+---
+
+## Migration terminology
+
+* ***Push*** & ***pull*** factors
+
+* *Transnationalism*
+
+* *Migration networks* & *chain migration*
+
+---
+
+## Transnational migration in Canada
+
+* Both Toronto and Vancouver are set to become 'majority-minority' cities by 2031
+
+* Vancouver's ethnic Chinese population to double to 800,000 by 2031
+
+* Richmond, BC: first majority-Chinese city outside Asia
+
+---
+
+## Immigrant enclaves
+
+{discuss}
+
+---
+
+## "Chinatown" and "Little Italy"
+
+{discuss}
+
+---
+
+## "Ethnoburbs"
+
+{discuss}
+
+---
+
+## Immigration controversies in Vancouver
+
+<!-- Look for video on real estate controversies in Vancouver.  Options: 
+
+https://www.youtube.com/watch?v=qbois8rETEM
+
+https://www.youtube.com/watch?v=uocULxOGrb4
+
+https://www.youtube.com/watch?v=GiQQLGzP07c -->
+
+<iframe width="700" height="500" src="http://www.youtube.com/embed/uocULxOGrb4" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Montreal
+
+{image}
+
+---
+
+## Montreal 
+
+{map}
+
+---
+
+## History of Montreal
+
+{info}
+
+---
+class: middle, center, inverse
+
+## Cultural diversity and cities
+
+---
+
+## Religion and cities
+
+{info}
+
+---
+
+## Language and cities
+
+{info}
+
+---
+
+## Linguistic diversity in Montreal
+
+{discuss}
+
+---
+
+## Language controversies in Quebec:
+
+Videos: 
+
+https://www.youtube.com/watch?v=AlTbrP5ocXQ
+
+https://www.youtube.com/watch?v=kMnANYKT2lo
+
+---
+
+
+class: middle, center, inverse
+
+# Next up: Mexico City
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
