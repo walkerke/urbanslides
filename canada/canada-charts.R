@@ -39,3 +39,4 @@ ggplot(pop10, aes(x = pop, y = reorder(name, pop))) +
         plot.caption = element_text(size = 7))
   
 
+ggsave("img/metros.png")
