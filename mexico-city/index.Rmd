@@ -1,0 +1,236 @@
+---
+title: "Vancouver and Montreal"
+subtitle: "Immigration and cultural diversity"
+date: "March 6, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* International migration
+
+* Immigrant enclaves
+
+* Cultural geography
+
+* Language and cities
+
+---
+
+## Canadian cities
+
+<img src=img/metros.png style="width: 650px">
+
+---
+
+## Vancouver
+
+<img src="https://i2.wp.com/www.prospectsolutions.ca/wp-content/uploads/2015/03/Fotolia_39036826_Subscription_Monthly_M.jpg?ssl=1" style="width: 800px">
+
+.footnote[Source: [ProspectSolutions.ca](https://www.prospectsolutions.ca/vancouver-bc-skyline-from-stanley-park/)]
+
+---
+
+## Vancouver
+
+<img src=img/vancouver.PNG style="width: 550px">
+
+---
+
+class: middle, center, inverse
+
+## Immigration and cities
+
+---
+
+## International migration
+
+* Nearly 46 million immigrants live in the United States -- about 1 in every 5 immigrants worldwide
+
+* In 2013, the U.S. was around 14 percent foreign-born; Canada, 21 percent
+
+* [Mapping Immigrant America](http://personal.tcu.edu/kylewalker/immigrant-america)
+
+---
+
+## International migration to Canada
+
+<iframe src="https://plot.ly/~jasonkirby/1673.embed" height="500" width="750" frameborder="0" scrolling="no"></iframe>
+
+.footnote[Source: [Maclean's](http://www.macleans.ca/news/canada/the-changing-face-of-canadian-immigration-in-one-chart/)]
+
+---
+
+## Migration terminology
+
+* ***Push*** & ***pull*** factors
+
+* *Transnationalism*
+
+* *Migration networks* & *chain migration*
+
+---
+
+## Transnational migration in Canada
+
+* Both Toronto and Vancouver are set to become 'majority-minority' cities by 2031
+
+* Vancouver's ethnic Chinese population to double to 800,000 by 2031
+
+* Richmond, BC: first majority-Chinese city outside Asia
+
+---
+class: middle, center, inverse
+
+## Immigrant enclaves
+
+---
+
+## Immigration in Vancouver
+
+* [Map: Chinese population as percent of total](https://censusmapper.ca/maps/1119#12/49.2158/-123.1358)
+
+---
+
+## "Chinatown" and "Little Italy"
+
+<img src="https://bcpassport.com/wp-content/uploads/vancouverchinatown.jpg" style="width: 600px">
+
+.footnote[Source: [bcpassport.com](https://bcpassport.com/neighbourhoods/vancouver-chinatown/)]
+
+---
+
+## "Ethnoburbs"
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1520309479761!6m8!1m7!1sH2E_95GdW8zbPYby_3xcSg!2m2!1d49.14383947812461!2d-123.1477447094846!3f127.44618613606863!4f3.3502541761028084!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---
+
+## Immigration controversies in Vancouver
+
+* [Video: immigration and affordability](http://www.youtube.com/embed/uocULxOGrb4)
+
+* [Video: immigration and language](http://www.vancouversun.com/news/douglas+todd+richmond+toughens+stance+chinese+language+signs/11597065/story.html)
+
+---
+
+## Housing affordability in Vancouver
+
+<img src="http://vancitycondoguide.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-29-at-1.28.34-PM.png" style="width: 700px">
+
+.footnote[Source: Royal Bank of Canada]
+
+---
+
+## Montreal
+
+<img src="http://www.100resilientcities.org/wp-content/uploads/2017/06/montreal.jpg" style="width: 500px">
+
+.footnote[Source: [100 Resilient Cities](http://www.100resilientcities.org/cities/montreal/)]
+
+---
+
+## Montreal 
+
+<img src=img/montreal.PNG style="width: 550px">
+
+---
+
+class: middle, center, inverse
+
+## Cultural diversity and cities
+
+---
+
+## Religion and cities
+
+<img src="https://ldschurchtemples.org/saltlake/images/salt-lake-mormon-temple.jpg?1520310522" style="width: 575px">
+
+.footnote[Source: [LDSChurchTemples.org](https://ldschurchtemples.org/saltlake/)]
+
+---
+
+## Language and Canadian cities
+
+* Canada: official languages of English _and_ French
+
+* [Dot map of Canada's languages](http://vt.anagraph.io/recensement/languesmaternelles/)
+
+---
+
+## French in Montreal
+
+<img src=img/french.jpg style="width: 600px">
+
+---
+
+## English in Montreal 
+
+<img src=img/english.jpg style="width: 600px">
+
+---
+
+## Language and Quebec
+
+* Quebec: the __Official Language Act__
+
+* The _Parti Québécois_ and _Bloc Québécois_
+
+---
+
+## Language and Quebec
+
+<img src="https://cdn.mtlblog.com/uploads/60469_ccc1b293974ed37748690f81a202e384737e8ae2.jpg_970x400.jpg" style="width: 800px">
+
+.footnote[Source: [MTLBlog.org](https://www.mtlblog.com/news/how-bilingual-is-montreal-the-truth-is-shocking)]
+
+---
+
+## Language controversies in Quebec:
+
+Videos: 
+
+https://www.youtube.com/watch?v=AlTbrP5ocXQ
+
+https://www.youtube.com/watch?v=kMnANYKT2lo
+
+---
+
+
+class: middle, center, inverse
+
+# Next up: Mexico City
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
