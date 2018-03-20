@@ -1,7 +1,7 @@
 ---
-title: "Vancouver and Montreal"
-subtitle: "Immigration and cultural diversity"
-date: "March 6, 2018"
+title: "Mexico City"
+subtitle: "Migration and urban expansion"
+date: "March 20, 2018"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -15,16 +15,221 @@ options(htmltools.dir.version = FALSE)
 
 ## This week's key themes
 
-* International migration
+* Urbanization in the developing world
 
-* Immigrant enclaves
+* Rural-to-urban migration
 
-* Cultural geography
+* Migration and labor markets
 
-* Language and cities
+* The informal economy and informal settlements
 
 ---
 
+## Mexico City
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg/1024px-Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg" style="width: 600px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## Mexico City
+
+<img src=img/mexico-city.PNG style="width: 450px">
+
+---
+
+## Mexico City 
+
+<img src="http://joelgehringer.com/blog/wp-content/uploads/2016/05/tenochtitlan.jpg" style="width: 725px">
+
+.footnote[Source: [joelgehringer.com](http://joelgehringer.com/blog/the-city-of-dreams/)/various]
+
+---
+
+## The Latin American city model
+
+<img src=img/latam-city.jpg style="width: 400px" />
+
+---
+
+## Global urbanization
+
+<img src="https://walkerke.github.io/urbanslides/an-urban-world/img/urban-recent.PNG" style="width: 800px">
+
+.footnote[Source: UN Population Prospects, the 2014 revision]
+
+---
+
+## Urbanization by region
+
+<img src="https://walkerke.github.io/urbanslides/an-urban-world/img/urban-regions.PNG" style="width: 550px">
+
+.footnote[Source: UN Population Prospects, the 2014 revision]
+
+---
+
+## Megacities
+
+* Urban agglomerations of 10 million people or more
+
+* Massive *rural-to-urban migration* in much of the Global South
+
+* Megacities in Latin America: Mexico City (Mexico); Sao Paolo, Rio de Janeiro (Brazil); Buenos Aires (Argentina); Bogota (Colombia); Lima (Peru)
+
+---
+
+## Megacities 
+
+[World City Populations 1950-2030 - Duncan Smith](http://luminocity3d.org/WorldCity/#4/-13.15/-48.16)
+
+---
+
+## Rural to urban migration
+
+Given our discussion of migration this semester, why might people leave rural areas for cities?  
+
+---
+
+## 'Sectors' of the economy
+
+* Primary sector
+
+* Secondary sector
+
+* Tertiary sector
+
+* Quaternary sector
+
+---
+
+## Manufacturing in Mexico and the U.S.
+
+<img src=img/manufacturing.png style="width: 800px">
+
+---
+
+## Sector employment in North America
+
+<img src=img/sectors.png style="width: 800px">
+
+---
+
+## NAFTA
+
+* NAFTA: **N**orth **A**merican **F**ree **T**rade **A**greement 
+
+---
+
+## Urban expansion in Mexico City
+
+<video width="650" height="450" controls="controls">
+<source src="http://atlasofurbanexpansion.org/file-manager/userfiles/data_page/Animations/Mexico.mp4" type="video/mp4">
+</video>
+
+.footnote[Source: [Atlas of Urban Expansion](http://atlasofurbanexpansion.org/historical-data)]
+
+---
+
+## Urban expansion in Mexico City
+
+<img src=img/expansion.gif style="width: 550px">
+
+.footnote[Source: [Atlas of Urban Expansion](http://atlasofurbanexpansion.org/cities/view/Mexico_City)]
+
+---
+
+## Rural to urban migration in Mexico City
+
+<iframe width="750" height="500" src="https://www.youtube.com/embed/8JTr13ryswc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Megacities: a study in contrasts
+
+<img src="http://i.dailymail.co.uk/i/pix/2016/12/13/16/3B54BF6500000578-4029410-image-m-33_1481646725575.jpg" style="width: 600px">
+
+.footnote[Source: [Johnny Miller/Daily Mail](http://www.dailymail.co.uk/news/article-4029410/Mexico-s-wealth-gap-laid-bare-Extraordinary-photos-rich-live-destitute-unequal-society.html)]
+
+---
+
+## Megacities: a study in contrasts
+
+<img src="http://i.dailymail.co.uk/i/pix/2016/12/13/16/3B54BF8100000578-4029410-image-m-42_1481647247686.jpg" style="width: 550px">
+
+.footnote[Source: [Johnny Miller/Daily Mail](http://www.dailymail.co.uk/news/article-4029410/Mexico-s-wealth-gap-laid-bare-Extraordinary-photos-rich-live-destitute-unequal-society.html)]
+
+<!-- Have a look at Rio in Google Maps; show street view.  Compare area around Ipanema/Copacabana with Rocinha favela; look at Street View, Earth View -->
+
+---
+
+## Slums in the global south
+
+Key terms: 
+
+* Informal settlements
+
+* The informal economy
+
+<!-- Discuss: informal economy, rural to urban migration, etc.   -->
+
+
+---
+
+## Slums in the global south 
+
+Worldwide: about 1 in 8 people live in slums (around 1 billion); around 30 percent of urban dwellers in the developing world
+
+Slums (UN definition): households lacking one or more of the following: 
+
+--
+
+* Access to improved water source
+
+--
+
+* Access to improved sanitation facilities
+
+--
+
+* Sufficient living area
+
+--
+
+* Housing durability
+
+--
+
+* Security of tenure
+
+
+---
+
+## The informal economy in Mexico City
+
+<iframe width="750" height="500" src="https://www.youtube.com/embed/v6KXU9eL4Y8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## The informal economy in Mexico City
+
+<iframe width="750" height="500" src="https://www.youtube.com/embed/fzzZ0PIYUAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Urban planning and Mexico City
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Ecobici_03_2014_Mex_8171.JPG" style="width: 600px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## Managing the megacity
+
+<img src="https://cdn.citylab.com/media/img/citylab/2017/06/28_neza_gg/940.jpg" style="width: 600px">
+
+.footnote[Source: [CityLab](https://www.citylab.com/equity/2017/06/how-a-slum-became-a-city/529488/)]
 
 ---
 
