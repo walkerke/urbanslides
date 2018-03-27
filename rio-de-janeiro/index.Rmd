@@ -69,6 +69,14 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
+## Tourism and Rio de Janeiro
+
+<img src="img/onion.PNG" style="width: 450px">
+
+.footnote[Source: [_The Onion_](https://www.theonion.com/woman-who-loves-brazil-has-only-seen-four-square-miles-1819565601)]
+
+---
+
 ## The 2014 World Cup
 
 <img src="https://statics.sportskeeda.com/wp-content/uploads/2014/07/2014-world-cup-171-goals-1405335278.jpg" style="width: 650px">
