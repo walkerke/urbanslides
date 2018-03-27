@@ -1,0 +1,170 @@
+---
+title: "Rio de Janeiro"
+subtitle: "Mega-events and urban inequalities"
+date: "March 27, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* Tourism as urban economic strategy
+
+* Mega-events and urban development
+
+* Brazilian _favelas_
+
+---
+
+## Rio de Janeiro
+
+<img src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/South%20America/Brazil/Rio%20de%20Janeiro/Rio%20lead%202-xlarge.jpg" style="width: 600px">
+
+.footnote[Source: [The Telegraph](https://www.telegraph.co.uk/travel/destinations/south-america/brazil/rio-de-janeiro/)]
+
+---
+
+## Rio de Janeiro
+
+<img src="img/rio-map.PNG" style="width: 700px">
+
+---
+
+## Rio de Janeiro
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Nicolas-Antoine_Taunay.jpg" style="width: 550px">
+
+.footnote[Source: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/86/Nicolas-Antoine_Taunay.jpg)]
+
+---
+
+## Tourism and Rio de Janeiro
+
+<img src="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/02/28/ad/beaches-ipanema-brazil.rend.hgtvcom.616.462.suffix/1491583328232.jpeg" style="width: 600px">
+
+.footnote[Source: [The Travel Channel](https://www.travelchannel.com/interests/beaches/articles/ipanema-beach-brazil)]
+
+---
+
+## Tourism and Rio de Janeiro
+
+<img src="http://www.jmnoticia.com.br/wp-content/uploads/2017/06/Carnaval-Rio-de-Janeiro.jpg" style="width: 700px">
+
+.footnote[Source: [jmnoticia.com.br](http://www.jmnoticia.com.br/wp-content/uploads/2017/06/Carnaval-Rio-de-Janeiro.jpg)]
+
+---
+
+## Tourism and Rio de Janeiro
+
+<img src="img/tourism.PNG" style="width: 800px">
+
+.footnote[Source: [World Travel & Tourism Council](https://www.wttc.org/-/media/files/reports/economic-impact-research/cities-2017---regional/latin-america-city-travel-and-tourism-impact-2017.pdf?la=en)]
+
+---
+
+## The 2014 World Cup
+
+<img src="https://statics.sportskeeda.com/wp-content/uploads/2014/07/2014-world-cup-171-goals-1405335278.jpg" style="width: 650px">
+
+.footnote[[Image source](https://www.sportskeeda.com/football/2014-fifa-world-cup-equals-record-most-goals-scored-tournament-history)]
+
+---
+
+## The 2016 Summer Olympics
+
+<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/Games/Summer/Rio_2016/2016-09-06-slider-rio-2016-games.jpg" style="width: 750px">
+
+.footnote[Source: [olympic.org](https://www.olympic.org/rio-2016)]
+
+---
+class: middle, center, inverse
+
+## Hosting mega-events: costs and benefits
+
+---
+
+## The cost of the Olympics
+
+<iframe src="https://www.cbsnews.com/videos/are-costs-of-the-olympics-worth-it-for-host-cities/" id="cbsNewsVideo" frameborder="0" width="750" height="500"></iframe>
+
+---
+
+## Olympic infrastructure 
+
+<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/News/2017/08/15/2017-08-15-transport-rio-2016-thumbnail.jpg" style="width: 650px">
+
+.footnote[Source: [olympic.org](https://www.olympic.org/news/olympic-games-transport-rio-to-a-new-level)]
+
+---
+
+## Olympic infrastructure
+
+<iframe width="750" height="500" src="https://www.youtube.com/embed/YHguBnA4UM4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Race in Brazil
+
+* [The Brazilian Racial Dot Map](http://patadata.org/maparacial/en.html)
+
+---
+
+## Inequality in Rio de Janeiro
+
+<img src=img/ipanema.png style="width: 700px" />
+
+<!-- Have a look at Rio in Google Maps; show street view.  Compare area around Ipanema/Copacabana with Rocinha favela; look at Street View, Earth View -->
+
+---
+
+## The Olympics and the _favelas_
+
+<iframe width='750' height='500' scrolling='no' src='https://www.washingtonpost.com/video/c/embed/dabedf24-584a-11e6-8b48-0cb344221131' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+
+## _Favela_ tourism
+
+<img src="https://media-cdn.urbanadventures.com/data/65/tour_427/c-fakepath-img_2580-2-.jpg" style="width: 650px">
+
+.footnote[Source: [Urban Adventures](https://www.urbanadventures.com/rio-de-janeiro-tour-favela-tour-experience)]
+
+---
+
+
+class: middle, center, inverse
+
+# Next up: Paris & Berlin
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
