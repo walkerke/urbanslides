@@ -92,7 +92,7 @@ class: middle, center, inverse
 
 ## The cost of the Olympics
 
-<iframe src="https://www.cbsnews.com/videos/are-costs-of-the-olympics-worth-it-for-host-cities/" id="cbsNewsVideo" frameborder="0" width="750" height="500"></iframe>
+<iframe src="https://www.cbsnews.com/videos/are-costs-of-the-olympics-worth-it-for-host-cities/" id="cbsNewsVideo" frameborder="0" width="750" height="500"></iframe> 
 
 ---
 
