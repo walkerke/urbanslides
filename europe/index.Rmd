@@ -76,6 +76,15 @@ class: middle, center, inverse
 .footnote[Source: [Giovisits.com](http://www.giovisits.com/2017/07/london-brief-history-part-4-politics.html)]
 
 ---
+
+## The Demographic Transition and Urban Europe
+
+<iframe src="https://ourworldindata.org/grapher/the-demographic-transition" style="width: 100%; height: 450px; border: 0px none;"></iframe>
+
+.footnote[Source: [Our World in Data](https://ourworldindata.org/world-population-growth)]
+
+---
+
 class: middle, center, inverse
 
 ## Paris
