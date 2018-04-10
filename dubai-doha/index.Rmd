@@ -1,0 +1,285 @@
+---
+title: "Dubai & Doha"
+subtitle: "Natural resources and urban spectacle"
+date: "April 10, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* The world's first cities
+
+* Cities and Islam
+
+* Natural resources and urban economies
+
+* Urban spectacle in the Middle East
+
+* Labor migration and inequality in boomtowns
+
+---
+
+## The 'cradle of civilization'
+
+<img src=img/meso.png style="width: 650px" />
+
+<span class="footnote">Source: Wikimedia Commons</span>
+
+<!-- (discuss agriculture in fertile crescent, Tigris & Euphrates; major religious traditions; civilizational advances, historically, that came out of this realm) -->
+
+---
+
+## Early urbanization
+
+[The History of Urbanization - Max Galka/Metrocosm.com](http://metrocosm.com/map-history-cities.html)
+
+---
+
+## Early urbanization
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Uruk_Archaealogical_site_at_Warka%2C_Iraq_MOD_45156521.jpg" style="width: 600px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## Early urbanization
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanging_Gardens_of_Babylon.jpg" style="width: 650px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## Urban culture
+
+<img src="https://www.metmuseum.org/toah/images/hb/hb_1988.433.3.jpg" style="width: 550px">
+
+.footnote[Source: [The Metropolitan Museum of Art](https://www.metmuseum.org/toah/images/hb/hb_1988.433.3.jpg)]
+
+---
+
+## Urban culture
+
+<img src="https://daily.jstor.org/wp-content/uploads/2016/03/Babylonian_1050x700.jpg" style="width: 600px">
+
+.footnote[Source: [JSTOR](https://daily.jstor.org/advanced-mathematics-of-ancient-babylon/)]
+
+
+
+---
+class: middle, center, inverse
+
+## Natural resources and urban economies
+
+---
+
+### Oil reserves by country, 2016 (billions of barrels)
+
+<iframe src="oil_waffle.html" frameborder="0" height="500" width="800"></iframe>
+
+.footnote[Source: [US EIA](http://www.eia.gov/beta/international/data/browser/#/?pa=0000000000000000000008&c=ruvvvvvfvtvnvv1urvvvvfvvvvvvfvvvou20evvvvvvvvvnvvuvo&ct=0&tl_id=5-A&vs=INTL.57-6-AFG-BB.A&ord=SA&cy=2014&vo=0&v=H&start=1980)]
+
+---
+
+### Gas reserves by country, 2016 (trillions of cubic meters)
+
+<iframe src="gas_waffle.html" frameborder="0" height="500" width="800"></iframe>
+
+---
+
+## Wealth in the Middle East
+
+<iframe width='100%' height='500' frameborder='0' src='http://kwalkertcu.cartodb.com/viz/b788b5be-cd74-11e4-90ce-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+---
+class: middle, center, inverse
+
+## Dubai
+
+---
+
+## Dubai
+
+<img src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/Middle%20East/Dubai/Dubai-xlarge.jpg" style="width: 550px">
+
+.footnote[Source: [The Telegraph](https://www.telegraph.co.uk/travel/destinations/middle-east/united-arab-emirates/dubai/)]
+
+---
+
+## Dubai
+
+<img src="img/dubai-map.PNG" style="width: 800px">
+
+---
+
+## Dubai
+
+<img src="https://www.skidubai.com/image/catalog/dubai-old-photo.jpg" style="width: 750px">
+
+.footnote[Source: [Ski Dubai](https://www.skidubai.com/about-dubai/history.html)]
+
+---
+class: middle, center, inverse
+
+## Urban spectacle in the Middle East
+
+---
+
+## Construction in Dubai
+
+<img src="http://www.arabianbusiness.com/sites/default/files/styles/full_img/public/images/2017/03/21/Dubai_construction.jpg" style="width: 650px">
+
+.footnote[Source: [Arabian Business/Bloomberg](http://www.arabianbusiness.com/uae-construction-companies-are-feeling-pain-673360.html)]
+
+---
+
+## Urban spectacle in Dubai
+
+<iframe width="700" height="450" src="https://www.youtube.com/embed/EctE3dEAwEY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+---
+
+## Economics of Dubai
+
+<img src=img/bloomberg.PNG style="width: 800px">
+
+.footnote[Source: [Bloomberg View](https://www.bloomberg.com/view/articles/2018-01-14/dubai-s-the-very-model-of-a-modern-mideast-economy)]
+
+---
+
+## Economics of Dubai
+
+<img src="http://dubaialluaeonecom.c.presscdn.com/wp-content/uploads/2015/02/Jafza-Jabel-Ali-Free-Zone-Authority-Dubai-UAE.png" style="width: 600px">
+
+.footnote[[Image source](http://dubaialluaeonecom.c.presscdn.com/wp-content/uploads/2015/02/Jafza-Jabel-Ali-Free-Zone-Authority-Dubai-UAE.png)]
+
+---
+
+class: middle, center, inverse
+
+## Doha
+
+---
+
+## Doha
+
+<img src="http://alwatannews.net/uploads/images/2017/07/04/1095865.jpg" style="width: 550px">
+
+.footnote[Source: [alwatannews.net](http://alwatannews.net/article/722313/Gulf/%D9%85%D9%87%D9%84%D8%A9-%D9%82%D8%B7%D8%B1-%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D9%85%D8%B3%D8%A7%D8%A1-%D9%88%D9%85%D8%B3%D8%A7%D8%B9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AB-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%84)]
+
+---
+
+## Doha
+
+<img src=img/doha-map.PNG style="width: 600px">
+
+---
+
+## History of Doha
+
+<img src="http://www.qatarembassy.or.th/imgs/qatar_info_history2.jpg" style="width: 650px">
+
+.footnote[Source: [Qatar Embassy to Thailand](http://www.qatarembassy.or.th/en/qatarinfo_history.html)]
+
+---
+class: middle, center, inverse
+
+## Labor migration and inequality in boomtowns
+
+---
+
+## Migration to Southwest Asia
+
+* [Migration statistics from the Pew Research Center](http://www.pewsocialtrends.org/2013/12/17/migration-tables/)
+
+* [Origins of migrants in the region](http://peoplemov.in)
+
+
+<!-- * Basic stats about the extensive migrant populations in this realm; how they are building everything (under auspicious circumstances) -->
+
+---
+
+## Population pyramid of Qatar
+
+<iframe src="qatar.html" frameborder="0" seamless scrolling="no" height="550" width="1000"></iframe>
+
+---
+
+## Building Doha
+
+<img src="http://www.constructionweekonline.com/pictures/gallery/People/qatar_doha_web.jpg" style="width: 650px">
+
+.footnote[Source: [Construction Week Online](http://www.constructionweekonline.com/article-7256-city-update-doha/)]
+
+---
+
+## The 2022 World Cup
+
+<center><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Qatar_2022_bid_logo.svg/518px-Qatar_2022_bid_logo.svg.png" style="width: 300px"></center>
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
+## Stadium construction in Doha
+
+<img src="http://www.arabnews.com/sites/default/files/2017/07/15/951431-818509720.jpg" style="width: 700px">
+
+.footnote[Source: [Arab News](http://www.arabnews.com/node/1129671/middle-east)]
+
+---
+
+## Labor migration and the World Cup
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OjqQLVRZyyw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Human rights and Qatar
+
+<img src="https://secure.i.telegraph.co.uk/multimedia/archive/02691/fifaprotest2_2691541b.jpg" style="width: 550px">
+
+.footnote[Source: [The Telegraph](https://www.telegraph.co.uk/sport/football/world-cup/10353367/Fifas-crunch-meeting-on-2022-World-Cup-in-Qatar-overshadowed-by-human-rights-storm.html)]
+
+---
+
+
+class: middle, center, inverse
+
+# Next up: Lagos
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+

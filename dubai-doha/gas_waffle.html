@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" type="text/javascript"></script>
+<script src="assets/js/d3-waffle.js" type="text/javascript"></script>
+
+<style>
+
+  body {
+    font-family: helvetica;
+  }
+  
+  .container {
+    width: 100%;
+  }
+  
+</style>
+
+<div id="container"></div>
+
+<script>
+  
+var data = [
+  {"name":"Russia","value":48},
+  {"name":"Iran","value":34},
+  {"name":"Qatar","value":25},
+  {"name":"United States","value":10},
+  {"name":"Saudi Arabia","value":8},
+  {"name":"Turkmenistan","value":8},
+  {"name":"United Arab Emirates","value":6},
+  {"name":"Venezuela","value":6},
+  {"name":"Nigeria","value":5},
+  {"name":"Algeria","value":5}, 
+  {"name":"Other","value":46}
+  ]   
+  
+var chart = d3waffle()
+            .rows(12)
+            .height(300)
+            .scale(1);
+
+d3.select("#container")
+            .datum(data)
+            .call(chart);  
+  
+</script>
