@@ -40,7 +40,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Geography of population change
 
-* [Interactive map: global population growth and decline](https://tcugis.maps.arcgis.com/apps/Embed/index.html?webmap=aad6f706a5b4455bbde2df81b140a291&extent=-125.4199,-34.3071,101.5137,73.3279&zoom=true&previewImage=false&scale=false&legend=true&disable_scroll=false&theme=light)
+* [Interactive map: global population growth and decline](https://tcugis.maps.arcgis.com/apps/Embed/index.html?webmap=aad6f706a5b4455bbde2df81b140a291&extent=-125.4199,-34.3071,101.5137,73.3279&zoom=true&previewImage=false&scale=false&legend=true&disable_scroll=false&theme=light) 
 
 ---
 
