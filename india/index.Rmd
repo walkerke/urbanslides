@@ -1,0 +1,225 @@
+---
+title: "Mumbai & Delhi"
+subtitle: "Resource access and the environment"
+date: "April 24, 2018"
+author: "GEOG 10023"
+output: 
+  xaringan::moon_reader: 
+    seal: yes
+  
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## This week's key themes
+
+* Urban environmental sustainability
+
+* Urbanization in India
+
+* Waste management in megacities
+
+* Geographies of water access and pollution
+
+
+---
+class: middle, center, inverse
+
+## Urban environmental sustainability
+
+---
+
+## Environmental sustainability
+
+{discussion}
+
+---
+
+## Cities and the environment
+
+{discussion}
+
+---
+
+## "Sustainable" cities
+
+{discussion}
+
+---
+class: middle, center, inverse
+
+## Mumbai
+
+---
+
+## Mumbai
+
+{image}
+
+---
+
+## Mumbai
+
+{map}
+
+---
+
+## Mumbai
+
+{history}
+
+---
+
+## Urbanization in India
+
+{show and explore map}
+
+---
+
+## Urbanization in India 
+
+{charts perhaps}
+
+---
+
+## Urban growth in Mumbai
+
+{images}
+
+---
+
+## Development in Mumbai
+
+{discussion of high-end and middle-class development}
+
+---
+
+## Slums in Mumbai
+
+{Dharavi}
+
+---
+class: middle, center, inverse
+
+## Waste management in megacities
+
+---
+
+## Cities and waste
+
+{discussion/images of waste generation, perhaps by income}
+
+---
+
+## Waste management in Mumbai
+
+{discussion/images}
+
+---
+
+## Waste management in Mumbai
+
+{video if you can find a good one}
+
+---
+class: middle, center, inverse
+
+## Delhi
+
+---
+
+## Delhi
+
+{image}
+
+---
+
+## Delhi
+
+{map}
+
+---
+
+## Delhi
+
+{history}
+
+---
+class: middle, center, inverse
+
+## Water access in Delhi
+
+---
+
+## Water and the Indian megacity
+
+{discussion of general strain on resources}
+
+---
+
+## Water and the Indian megacity
+
+{discussion of privatization/possibly a video}
+
+---
+
+## Water in Delhi
+
+{discussion of wealthy people washing their trees}
+
+---
+class: middle, center, inverse
+
+## Pollution and megacities
+
+---
+
+## Pollution in India 
+
+{general discussion}
+
+---
+
+## Pollution in Delhi
+
+{discussion/video if appropriate}
+
+---
+
+## The Ganges and the Yamuna Rivers
+
+{discussion}
+
+---
+
+class: middle, center, inverse
+
+# Next up: Shanghai and Hong Kong
+
+
+
+
+<style>
+
+h1, h2, h3 {
+  color: #386890; 
+}
+
+a {
+  color: #90b4d2; 
+}
+
+.inverse {
+  background-color: #386890; 
+
+}
+</style>
+
+
+
+
+
+
+
