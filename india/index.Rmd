@@ -33,19 +33,25 @@ class: middle, center, inverse
 
 ## Environmental sustainability
 
-{discussion}
+<img src="https://www.syniverse.com/assets/images/diagrams/global-sustainability640.jpg" style="width: 700px">
+
+.footnote[Source: [Syniverse](https://www.syniverse.com/environmental-sustainability)]
 
 ---
 
 ## Cities and the environment
 
-{discussion}
+<img src="https://cdn.modernfarmer.com/wp-content/uploads/2016/09/portland-ugb-hero.jpg" style="width: 500px">
+
+.footnote[Source: [Modern Farmer](https://modernfarmer.com/2016/09/portland-urban-growth-boundary/)]
 
 ---
 
 ## "Sustainable" cities
 
-{discussion}
+<img src="https://news.nationalgeographic.com/content/dam/news/2015/03/27/greenroofgallery/01greenroof.jpg" style="width: 450px">
+
+.footnote[Source: [National Geographic](https://news.nationalgeographic.com/energy/2015/03/150328-green-roofs-france-buildings-energy/)]
 
 ---
 class: middle, center, inverse
@@ -56,49 +62,59 @@ class: middle, center, inverse
 
 ## Mumbai
 
-{image}
+<img src="https://d27p8o2qkwv41j.cloudfront.net/wp-content/uploads/2017/02/Mumbai-Skyline-e1487567791138.jpg" style="width: 800px">
+
+.footnote[Source: [PropTiger.com](https://www.proptiger.com/guide/post/mumbais-top-5-tallest-buildings)]
 
 ---
 
 ## Mumbai
 
-{map}
+<img src="img/mumbai-map.PNG" style="width: 500px">
 
 ---
 
 ## Mumbai
 
-{history}
+<img src="http://images.indianexpress.com/2017/08/victoria_terminus_bombay_in_1950.jpg" style="width: 525px">
+
+.footnote[Source: [IndianExpress.com](http://indianexpress.com/article/research/mumbai-flood-2017-if-bombays-drainage-system-led-to-the-plague-of-1896-august-29-showed-mumbai-isnt-any-better-off/)]
 
 ---
 
 ## Urbanization in India
 
-{show and explore map}
+<img src=img/india-cities.PNG style="width: 400px">
+
+.footnote[Source: [World City Populations 1950-2030](http://luminocity3d.org/WorldCity/#5/22.431/73.564)]
 
 ---
 
 ## Urbanization in India 
 
-{charts perhaps}
+<img src="http://4.bp.blogspot.com/-_l6a8cCDDl4/Txbx1hZl5rI/AAAAAAAAFis/ziJ4eP_t2Fs/s1600/urbanization.gif" style="width: 700px">
+
+.footnote[Source: [The Economist](https://www.economist.com/blogs/graphicdetail/2012/01/daily-chart-6)]
 
 ---
 
 ## Urban growth in Mumbai
 
-{images}
+<img src=img/mumbai-extent.gif style="width: 700px">
+
+.footnote[Source: [Atlas of Urban Expansion](http://atlasofurbanexpansion.org/cities/view/Mumbai)]
 
 ---
 
 ## Development in Mumbai
 
-{discussion of high-end and middle-class development}
+<iframe src="https://www.google.com/maps/embed?pb=!4v1524504024751!6m8!1m7!1sgK5_Mq5bixwhHpG8w72OFA!2m2!1d19.06085455399321!2d72.86416448620318!3f275.24868535891056!4f2.484371098238057!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ---
 
 ## Slums in Mumbai
 
-{Dharavi}
+<iframe src="https://www.google.com/maps/embed?pb=!4v1524504167095!6m8!1m7!1sCAoSLEFGMVFpcE1PYzVNRkY5RWFmTHZidlQ2ek9YMTg0OXRsUENqVjQzbWV1clkw!2m2!1d19.0472763!2d72.8541326!3f314.00349942108517!4f-7.139196454383551!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ---
 class: middle, center, inverse
@@ -109,19 +125,23 @@ class: middle, center, inverse
 
 ## Cities and waste
 
-{discussion/images of waste generation, perhaps by income}
+<img src=img/waste.PNG style="width: 600px">
+
+.footnote[Source: [The World Bank](https://siteresources.worldbank.org/INTURBANDEVELOPMENT/Resources/336387-1334852610766/Chap3.pdf)]
 
 ---
 
 ## Waste management in Mumbai
 
-{discussion/images}
+<img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/08/21/Pictures/htmetro_725124bc-8673-11e7-817c-4caf18ee223c.JPG" style="width: 600px">
+
+.footnote[Source: [Hindustan Times](https://www.hindustantimes.com/mumbai-news/102-bulk-waste-generators-in-mumbai-s-powai-only-iit-b-composts-garbage/story-KVDWQOuYWPKRMjrMOAKSKI.html)]
 
 ---
 
 ## Waste management in Mumbai
 
-{video if you can find a good one}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yUY7wwdZCvg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 class: middle, center, inverse
@@ -132,19 +152,23 @@ class: middle, center, inverse
 
 ## Delhi
 
-{image}
+<img src="https://d15gqlu8dfiqiu.cloudfront.net/s3fs-public/styles/banner/public/images/chapters/Delhi-Travel-Massive.jpg" style="width: 650px">
+
+.footnote[Source: [Travel Massive](https://travelmassive.com/chapters/delhi)]
 
 ---
 
 ## Delhi
 
-{map}
+<img src=img/delhi-map.PNG style="width: 600px">
 
 ---
 
 ## Delhi
 
-{history}
+<img src="http://3.bp.blogspot.com/-JyR7EQ5VGV0/UI1Re0NgfdI/AAAAAAAABBA/uhQsm4lecGQ/s1600/india-mutiny-jama-masjid-of-delhi-antique-print-1857-93818-p.jpg" style="width: 650px">
+
+.footnote[[Image source](http://nalin-jharoka.blogspot.com/2012/10/history-of-delhi-1857-jama-masjid.html)]
 
 ---
 class: middle, center, inverse
@@ -155,19 +179,25 @@ class: middle, center, inverse
 
 ## Water and the Indian megacity
 
-{discussion of general strain on resources}
+<img src="img/water-cities.PNG" style="width: 350px">
+
+.footnote[Source: [International Water Association](https://www.thesourcemagazine.org/the-value-of-247-water/)]
 
 ---
 
 ## Water and the Indian megacity
 
-{discussion of privatization/possibly a video}
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAeMpTfANllQ/v1/-1x-1.jpg" style="width: 700px">
+
+.footnote[Source: [Bloomberg News](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAeMpTfANllQ/v1/-1x-1.jpg)]
 
 ---
 
 ## Water in Delhi
 
-{discussion of wealthy people washing their trees}
+<img src=img/water-chart.PNG style="width: 800px">
+
+.footnote[Source: [USAID/Safe Water Network](http://www.safewaternetwork.org/sites/default/files/Safe%20Water%20Network_Delhi%20City%20Report.PDF)]
 
 ---
 class: middle, center, inverse
@@ -176,21 +206,25 @@ class: middle, center, inverse
 
 ---
 
-## Pollution in India 
+## Pollution in Delhi 
 
-{general discussion}
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/161107155444-new-delhi-pollution-1107-00-exlarge-169.jpg" style="width: 700px">
+
+.footnote[Source: [CNN](https://www.cnn.com/2016/11/07/asia/india-new-delhi-smog-pollution/index.html)]
 
 ---
 
 ## Pollution in Delhi
 
-{discussion/video if appropriate}
+<img src="https://cdn.vox-cdn.com/thumbor/Vlv0F9U7gEdjG9Mepmuiu5FZhSU=/0x0:1801x1496/920x0/filters:focal(0x0:1801x1496):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9729937/air_quality__2_.jpg" style="width: 550px">
+
+.footnote[Source: [Vox.com](https://www.vox.com/energy-and-environment/2017/11/22/16666808/india-air-pollution-new-delhi)]
 
 ---
 
-## The Ganges and the Yamuna Rivers
+## The Yamuna River
 
-{discussion}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHCaIvPN2rY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
