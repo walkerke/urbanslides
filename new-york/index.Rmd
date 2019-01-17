@@ -1,7 +1,7 @@
 ---
 title: "New York"
 subtitle: "Neighborhoods and demographic change"
-date: "January 30, 2018"
+date: "January 29, 2019"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -220,9 +220,9 @@ class: middle, center, inverse
 
 ## Queens in popular culture
 
-<img src="http://www.cbsstore.com/imgcache/product/resized/000/043/926/catl/the-king-of-queens-season-2-dvd-747_1000.jpg" style="width: 400px">
+<img src="https://target.scene7.com/is/image/Target/GUEST_dc7d9ae0-61c7-409a-9be9-4951e3698da6?wid=488&hei=488&fmt=pjpeg" style="width: 400px">
 
-.footnote[Source: CBSStore.com]
+.footnote[Source: Target.com]
 
 ---
 
