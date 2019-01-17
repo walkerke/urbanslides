@@ -153,7 +153,7 @@ class: middle, center, inverse
 
 ## Perceptions of place
 
-<img src="http://irregulartimes.com/wp-content/uploads/2016/09/donaldtrumponcrime.png" style="width: 650px">
+<img src="img/trump.PNG" style="width: 650px">
 
 ---
 
@@ -217,9 +217,9 @@ class: center, middle, inverse
 
 ## Alternative models
 
-<img src="https://people.hofstra.edu/geotrans/eng/ch6en/conc6en/img/sectornuclei.png" style="width: 600px">
+<img src="https://transportgeography.org/wp-content/uploads/sectornuclei.png" style="width: 600px">
 
-.footnote[Source: [Hofstra University](https://people.hofstra.edu/geotrans/eng/ch6en/conc6en/sectornuclei.html)]
+.footnote[Source: [_The Geography of Transport Systems_](https://transportgeography.org/?page_id=4920)]
 
 ---
 
