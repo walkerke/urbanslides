@@ -1,7 +1,7 @@
 ---
 title: "Dallas-Fort Worth"
 subtitle: "Suburbanization and edge cities"
-date: "February 20, 2018"
+date: "February 19, 2019"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -41,7 +41,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Fort Worth
 
-<img src="https://sundancesquare.com/wp-content/uploads/Plaza.jpg" style="width: 600px">
+<img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/fortworth/SundancePlaza_Nov_2_13_49510_a0d0845b-5056-a348-3abdfa14e03feebf.jpg" style="width: 600px">
 
 .footnote[Source: sundancesquare.com]
 
