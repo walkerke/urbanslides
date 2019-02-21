@@ -149,7 +149,7 @@ class: middle, center, inverse
 
 ## Corporate headquarters in DFW
 
-<img src=img/fortune.PNG style="width: 800px">
+<img src=img/fortune500.PNG style="width: 800px">
 
 .footnote[Source: [Fortune Magazine](http://fortune.com/fortune500/visualizations/)]
 
