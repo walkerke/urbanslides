@@ -1,7 +1,7 @@
 ---
 title: "Vancouver and Montreal"
 subtitle: "Immigration and cultural diversity"
-date: "March 6, 2018"
+date: "March 5, 2019"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -33,9 +33,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Vancouver
 
-<img src="https://i2.wp.com/www.prospectsolutions.ca/wp-content/uploads/2015/03/Fotolia_39036826_Subscription_Monthly_M.jpg?ssl=1" style="width: 800px">
+<img src="https://academic.ubc.ca/sites/vpa.ubc.ca/files/images/vancouver_skyline-pres-ex.jpg" style="width: 800px">
 
-.footnote[Source: [ProspectSolutions.ca](https://www.prospectsolutions.ca/vancouver-bc-skyline-from-stanley-park/)]
+.footnote[Source: [University of British Columbia](https://academic.ubc.ca/about-vancouver)]
 
 ---
 
@@ -118,7 +118,7 @@ class: middle, center, inverse
 
 * [Video: immigration and affordability](http://www.youtube.com/embed/uocULxOGrb4)
 
-* [Video: immigration and language](http://www.vancouversun.com/news/douglas+todd+richmond+toughens+stance+chinese+language+signs/11597065/story.html)
+* [Video: immigration and language](https://globalnews.ca/video/1625488/should-richmond-force-businesses-to-put-english-on-signs)
 
 ---
 
@@ -152,9 +152,9 @@ class: middle, center, inverse
 
 ## Religion and cities
 
-<img src="https://ldschurchtemples.org/saltlake/images/salt-lake-mormon-temple.jpg?1520310522" style="width: 575px">
+<img src="https://www.lds.org/bc/content/locations/salt-lake-city-temple-square/images/temple-square-733x436-Temple-109.jpg" style="width: 575px">
 
-.footnote[Source: [LDSChurchTemples.org](https://ldschurchtemples.org/saltlake/)]
+.footnote[Source: [LDS.org](https://www.lds.org/locations/salt-lake-city-temple-square?lang=eng)]
 
 ---
 
@@ -188,9 +188,9 @@ class: middle, center, inverse
 
 ## Language and Quebec
 
-<img src="https://cdn.mtlblog.com/uploads/60469_ccc1b293974ed37748690f81a202e384737e8ae2.jpg_970x400.jpg" style="width: 800px">
+<img src="https://www.khllifestyle.com/application/files/8414/6254/0960/Its__Arret__not__Stop_.jpg" style="width: 450px">
 
-.footnote[Source: [MTLBlog.org](https://www.mtlblog.com/news/how-bilingual-is-montreal-the-truth-is-shocking)]
+.footnote[Source: [KHL Lifestyle](https://www.khllifestyle.com/blog-entries/montreal-cest-si-cool)]
 
 ---
 

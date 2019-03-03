@@ -4,7 +4,9 @@
     <title>Vancouver and Montreal</title>
     <meta charset="utf-8">
     <meta name="author" content="GEOG 10023" />
-    <link href="index_files/remark-css/example.css" rel="stylesheet" />
+    <meta name="date" content="2019-03-05" />
+    <link href="index_files/remark-css/default.css" rel="stylesheet" />
+    <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
   <body>
     <textarea id="source">
@@ -13,7 +15,7 @@ class: center, middle, inverse, title-slide
 # Vancouver and Montreal
 ## Immigration and cultural diversity
 ### GEOG 10023
-### March 6, 2018
+### March 5, 2019
 
 ---
 
@@ -40,9 +42,9 @@ class: center, middle, inverse, title-slide
 
 ## Vancouver
 
-&lt;img src="https://i2.wp.com/www.prospectsolutions.ca/wp-content/uploads/2015/03/Fotolia_39036826_Subscription_Monthly_M.jpg?ssl=1" style="width: 800px"&gt;
+&lt;img src="https://academic.ubc.ca/sites/vpa.ubc.ca/files/images/vancouver_skyline-pres-ex.jpg" style="width: 800px"&gt;
 
-.footnote[Source: [ProspectSolutions.ca](https://www.prospectsolutions.ca/vancouver-bc-skyline-from-stanley-park/)]
+.footnote[Source: [University of British Columbia](https://academic.ubc.ca/about-vancouver)]
 
 ---
 
@@ -125,7 +127,7 @@ class: middle, center, inverse
 
 * [Video: immigration and affordability](http://www.youtube.com/embed/uocULxOGrb4)
 
-* [Video: immigration and language](http://www.vancouversun.com/news/douglas+todd+richmond+toughens+stance+chinese+language+signs/11597065/story.html)
+* [Video: immigration and language](https://globalnews.ca/video/1625488/should-richmond-force-businesses-to-put-english-on-signs)
 
 ---
 
@@ -159,9 +161,9 @@ class: middle, center, inverse
 
 ## Religion and cities
 
-&lt;img src="https://ldschurchtemples.org/saltlake/images/salt-lake-mormon-temple.jpg?1520310522" style="width: 575px"&gt;
+&lt;img src="https://www.lds.org/bc/content/locations/salt-lake-city-temple-square/images/temple-square-733x436-Temple-109.jpg" style="width: 575px"&gt;
 
-.footnote[Source: [LDSChurchTemples.org](https://ldschurchtemples.org/saltlake/)]
+.footnote[Source: [LDS.org](https://www.lds.org/locations/salt-lake-city-temple-square?lang=eng)]
 
 ---
 
@@ -195,9 +197,9 @@ class: middle, center, inverse
 
 ## Language and Quebec
 
-&lt;img src="https://cdn.mtlblog.com/uploads/60469_ccc1b293974ed37748690f81a202e384737e8ae2.jpg_970x400.jpg" style="width: 800px"&gt;
+&lt;img src="https://www.khllifestyle.com/application/files/8414/6254/0960/Its__Arret__not__Stop_.jpg" style="width: 450px"&gt;
 
-.footnote[Source: [MTLBlog.org](https://www.mtlblog.com/news/how-bilingual-is-montreal-the-truth-is-shocking)]
+.footnote[Source: [KHL Lifestyle](https://www.khllifestyle.com/blog-entries/montreal-cest-si-cool)]
 
 ---
 
@@ -237,22 +239,40 @@ a {
     </textarea>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create();
-if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {window.dispatchEvent(new Event('resize'));});
-(function() {var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler"); if (!r) return; s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }"; d.head.appendChild(s);})();</script>
-
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-  }
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
 });
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);
