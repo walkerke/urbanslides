@@ -1,7 +1,7 @@
 ---
 title: "Rio de Janeiro"
 subtitle: "Mega-events and urban inequalities"
-date: "March 27, 2018"
+date: "March 26, 2019"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -140,9 +140,9 @@ class: middle, center, inverse
 
 ## _Favela_ tourism
 
-<img src="https://media-cdn.urbanadventures.com/data/65/tour_427/c-fakepath-img_2580-2-.jpg" style="width: 650px">
+<img src="https://1.bp.blogspot.com/-D1d08Vz-g2w/VYI6FTyzstI/AAAAAAAAClg/ozDw3wanbCE/s640/obitourists3.jpg" style="width: 650px">
 
-.footnote[Source: [Urban Adventures](https://www.urbanadventures.com/rio-de-janeiro-tour-favela-tour-experience)]
+.footnote[[Image source](http://lifeinrocinha.blogspot.com/2015/06/how-favela-tourism-can-benefit-community.html)]
 
 ---
 
