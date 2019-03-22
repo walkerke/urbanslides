@@ -4,7 +4,7 @@
     <title>Paris &amp; Berlin</title>
     <meta charset="utf-8">
     <meta name="author" content="GEOG 10023" />
-    <meta name="date" content="2018-04-03" />
+    <meta name="date" content="2019-04-02" />
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -15,7 +15,7 @@ class: center, middle, inverse, title-slide
 # Paris &amp; Berlin
 ## The European and (post-)Socialist City
 ### GEOG 10023
-### April 3, 2018
+### April 2, 2019
 
 ---
 
@@ -64,9 +64,9 @@ class: middle, center, inverse
 
 ## Ancient Rome
 
-&lt;img src="https://amedia.britannica.com/45/154245-004-D76E7A57.jpg" style="width: 850px"&gt;
+&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Roman_Capriccio_The_Pantheon_and_Other_Monuments_by_Giovanni_Paolo_Panini.jpg/1200px-Roman_Capriccio_The_Pantheon_and_Other_Monuments_by_Giovanni_Paolo_Panini.jpg" style="width: 600px"&gt;
 
-.footnote[Source: [Britannica.com](https://www.britannica.com/place/ancient-Rome)]
+.footnote[Source: Wikimedia Commons]
 
 ---
 
@@ -259,9 +259,9 @@ class: middle, center, inverse
 
 ## La Défense
 
-&lt;img src="https://s-ec.bstatic.com/data/landmark/840x460/152/15236.jpg" style="width: 750px"&gt;
+&lt;img src="https://upload.wikimedia.org/wikipedia/en/f/f4/La_Grande_Arche_de_la_D%C3%A9fense_and_the_Yaacov_Agam_Fountain_%281977%29.jpg" style="width: 750px"&gt;
 
-.footnote[Source: Booking.com]
+.footnote[Source: Wikimedia Commons]
 
 ---
 
@@ -275,7 +275,7 @@ class: middle, center, inverse
 
 ## Berlin's tech boom
 
-&lt;iframe width="725" height="500" src="https://www.youtube.com/embed/3_kfUdU54cM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BVlk0zNgDa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 ---
 
@@ -314,19 +314,30 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   d.head.appendChild(s);
 })();</script>
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
   }
-});
+})();
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);
