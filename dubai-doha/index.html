@@ -4,7 +4,7 @@
     <title>Dubai &amp; Doha</title>
     <meta charset="utf-8">
     <meta name="author" content="GEOG 10023" />
-    <meta name="date" content="2018-04-10" />
+    <meta name="date" content="2019-04-09" />
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -15,7 +15,7 @@ class: center, middle, inverse, title-slide
 # Dubai &amp; Doha
 ## Natural resources and urban spectacle
 ### GEOG 10023
-### April 10, 2018
+### April 9, 2019
 
 ---
 
@@ -226,7 +226,7 @@ class: middle, center, inverse
 
 ## Building Doha
 
-&lt;img src="http://www.constructionweekonline.com/pictures/gallery/People/qatar_doha_web.jpg" style="width: 650px"&gt;
+&lt;img src="https://www.constructionweekonline.com/sites/default/files/cwo/styles/full_img/public/images/2018/08/13/qatar_doha_web.jpg?itok=W99zBJQY" style="width: 650px"&gt;
 
 .footnote[Source: [Construction Week Online](http://www.constructionweekonline.com/article-7256-city-update-doha/)]
 
@@ -234,7 +234,7 @@ class: middle, center, inverse
 
 ## The 2022 World Cup
 
-&lt;center&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Qatar_2022_bid_logo.svg/518px-Qatar_2022_bid_logo.svg.png" style="width: 300px"&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Qatar_2022_FIFA_World_Cup_bid_logo.svg/800px-Qatar_2022_FIFA_World_Cup_bid_logo.svg.png" style="width: 300px"&gt;&lt;/center&gt;
 
 .footnote[Source: Wikimedia Commons]
 
@@ -298,19 +298,30 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   d.head.appendChild(s);
 })();</script>
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
   }
-});
+})();
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);
