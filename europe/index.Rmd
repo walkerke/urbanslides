@@ -129,7 +129,7 @@ class: middle, center, inverse
 
 ---
 
-## Paris: _les arondissements_
+## Paris: _les arrondissements_
 
 <img src="https://media.architecturaldigest.com/photos/5931758d1fd5d77c248c51da/master/w_768/Paris_Personalities_StGermain.jpg" style="width: 600px">
 
