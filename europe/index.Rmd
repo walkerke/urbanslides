@@ -187,7 +187,7 @@ class: middle, center, inverse
 
 Ideological traditions in 20th century Europe: 
 
-* Capitalism & liberalism
+* Liberalism & capitalism
 
 * Socialism & communism
 
