@@ -1,7 +1,7 @@
 ---
 title: "Mumbai & Delhi"
 subtitle: "Resource access and the environment"
-date: "April 24, 2018"
+date: "April 23, 2019"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 

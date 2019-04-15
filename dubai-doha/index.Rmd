@@ -1,7 +1,7 @@
 ---
 title: "Dubai & Doha"
 subtitle: "Natural resources and urban spectacle"
-date: "April 10, 2018"
+date: "April 9, 2019"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
