@@ -55,9 +55,9 @@ class: middle, center, inverse
 
 ## Ancient Rome
 
-<img src="https://amedia.britannica.com/45/154245-004-D76E7A57.jpg" style="width: 850px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Roman_Capriccio_The_Pantheon_and_Other_Monuments_by_Giovanni_Paolo_Panini.jpg/1200px-Roman_Capriccio_The_Pantheon_and_Other_Monuments_by_Giovanni_Paolo_Panini.jpg" style="width: 600px">
 
-.footnote[Source: [Britannica.com](https://www.britannica.com/place/ancient-Rome)]
+.footnote[Source: Wikimedia Commons]
 
 ---
 
@@ -129,7 +129,7 @@ class: middle, center, inverse
 
 ---
 
-## Paris: _les arondissements_
+## Paris: _les arrondissements_
 
 <img src="https://media.architecturaldigest.com/photos/5931758d1fd5d77c248c51da/master/w_768/Paris_Personalities_StGermain.jpg" style="width: 600px">
 
@@ -187,7 +187,7 @@ class: middle, center, inverse
 
 Ideological traditions in 20th century Europe: 
 
-* Capitalism & liberalism
+* Liberalism & capitalism
 
 * Socialism & communism
 
@@ -250,9 +250,9 @@ class: middle, center, inverse
 
 ## La Défense
 
-<img src="https://s-ec.bstatic.com/data/landmark/840x460/152/15236.jpg" style="width: 750px">
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f4/La_Grande_Arche_de_la_D%C3%A9fense_and_the_Yaacov_Agam_Fountain_%281977%29.jpg" style="width: 750px">
 
-.footnote[Source: Booking.com]
+.footnote[Source: Wikimedia Commons]
 
 ---
 
@@ -266,7 +266,7 @@ class: middle, center, inverse
 
 ## Berlin's tech boom
 
-<iframe width="725" height="500" src="https://www.youtube.com/embed/3_kfUdU54cM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVlk0zNgDa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
