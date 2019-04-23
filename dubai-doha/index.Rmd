@@ -185,13 +185,6 @@ class: middle, center, inverse
 
 ---
 
-## History of Doha
-
-<img src="http://www.qatarembassy.or.th/imgs/qatar_info_history2.jpg" style="width: 650px">
-
-.footnote[Source: [Qatar Embassy to Thailand](http://www.qatarembassy.or.th/en/qatarinfo_history.html)]
-
----
 class: middle, center, inverse
 
 ## Labor migration and inequality in boomtowns
@@ -236,6 +229,12 @@ class: middle, center, inverse
 <img src="http://www.arabnews.com/sites/default/files/2017/07/15/951431-818509720.jpg" style="width: 700px">
 
 .footnote[Source: [Arab News](http://www.arabnews.com/node/1129671/middle-east)]
+
+---
+
+## Qatar 2022: "Journey to Amazing"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zNmFgW_KWBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
