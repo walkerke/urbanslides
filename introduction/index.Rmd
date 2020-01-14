@@ -59,8 +59,6 @@ options(htmltools.dir.version = FALSE)
 
 ## Urban form
 
-* Example: http://mapfrappe.com/
-
 <img src=img/dallas-paris.PNG>
 
 ---
