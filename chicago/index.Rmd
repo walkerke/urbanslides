@@ -1,7 +1,7 @@
 ---
 title: "Chicago"
 subtitle: "Urban form and models"
-date: "January 22, 2019"
+date: "January 21, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -217,7 +217,7 @@ class: center, middle, inverse
 
 ## Alternative models
 
-<img src="https://transportgeography.org/wp-content/uploads/sectornuclei.png" style="width: 600px">
+<img src="https://transportgeography.org/wp-content/uploads/sector_nuclei_land_use-1024x723.png" style="width: 600px">
 
 .footnote[Source: [_The Geography of Transport Systems_](https://transportgeography.org/?page_id=4920)]
 
