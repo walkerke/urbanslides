@@ -1,7 +1,7 @@
 ---
 title: "The San Francisco Bay Area"
 subtitle: "Labor markets and real estate"
-date: "February 5, 2019"
+date: "February 4, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -84,7 +84,7 @@ class: middle, center, inverse
 
 ## Agglomeration economies
 
-<img src="https://transportgeography.org/wp-content/uploads/agglomeration_economies.png" style="width: 450px">
+<img src="https://transportgeography.org/wp-content/uploads/economies_agglomeration.png" style="width: 450px">
 
 .footnote[Source: [_The Geography of Transport Systems_](https://transportgeography.org/?page_id=1559)]
 
