@@ -143,7 +143,7 @@ class: middle, center, inverse
 
 ---
 
-## Manhattan in popular culture
+## NYC in popular culture
 
 <img src="https://1.bp.blogspot.com/-sQw4mzvZcN4/Uq5UJUKWeuI/AAAAAAAABJQ/BRfgNhDxa64/s1600/Taxi+D.JPG" style="width: 600px">
 
@@ -151,13 +151,21 @@ class: middle, center, inverse
 
 ---
 
-## Manhattan in popular culture
+## NYC in popular culture
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/813Wx3D1ZeL._RI_.jpg" style="width: 600px">
+
+.footnote[Source: Amazon.com]
+
+---
+
+## NYC in popular culture
 
 <img src="http://holysupermarket.com/wp-content/uploads/2017/09/6362009871505389111689071181_Friends-TV-show-on-NBC-canceled-no-season-11.jpg" style="width: 750px">
 
 ---
 
-## Manhattan in popular culture
+## NYC in popular culture
 
 <img src="https://www.usmagazine.com/wp-content/uploads/sex-and-the-city-movie-54915ed0-42af-42af-bc5e-e2108a4fef53.jpg" style="width: 500px">
 
