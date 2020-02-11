@@ -137,7 +137,7 @@ class: middle, center, inverse
 
 ## Environmental risk and urban development
 
-<iframe src="https://www.nbcnews.com/widget/video-embed/1085531715787" width="750" height="500" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IEKJx8qmoTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
