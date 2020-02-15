@@ -1,7 +1,7 @@
 ---
 title: "Dallas-Fort Worth"
 subtitle: "Suburbanization and edge cities"
-date: "February 19, 2019"
+date: "February 18, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -171,21 +171,21 @@ class: middle, center, inverse
 
 ## Commuting in metropolitan America
 
-<img src=img/driving.png style="width: 500px">
+<img src=img/driving.png style="width: 650px">
 
 ---
 
 ## Automobility
 
-<img src="http://dallashighfive.org/wp-content/uploads/2017/03/cropped-dallas-high-five-header-2.jpg" style="width: 750px">
+<img src="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/AhMzHlfmJ8xkXXUoq7uyBUO8TUI=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/G35D46D7WVTS7RZYWLPTE3ZX5M.jpg" style="width: 700px">
 
-.footnote[Source: [dallashighfive.org](http://dallashighfive.org/)]
+.footnote[Source: [_Dallas Morning News_](https://www.dallasnews.com/news/curious-texas/2019/05/24/why-are-north-texas-highways-named-and-numbered-curious-texas-investigates/)]
 
 ---
 
 ## Automobility and cities
 
-<iframe width="800" height="550" src="https://www.youtube.com/embed/odF4GSX1y3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/odF4GSX1y3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
