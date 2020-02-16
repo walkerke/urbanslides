@@ -1,7 +1,7 @@
 ---
 title: "Detroit"
 subtitle: "Race and deindustrialization"
-date: "February 26, 2019"
+date: "February 25, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -240,9 +240,9 @@ class: middle, center, inverse
 
 ## Urban renewal in Detroit
 
-<img src="https://cbsdetroit.files.wordpress.com/2015/03/hudsons-rendering.jpg" style="width: 800px">
+<img src="https://www.gannett-cdn.com/presto/2018/12/12/PDTF/ae976e0b-ecc0-4ff0-9e2f-4c6a002f47a2-Monroe_Blocks_4_residential_building.jpg?width=1280" style="width: 575px">
 
-.footnote[Source: [CBS Detroit](http://detroit.cbslocal.com/2017/11/21/city-council-approves-four-transformational-dan-gilbert-projects-in-detroit/)]
+.footnote[Source: [_Detroit Free Press_](https://www.freep.com/picture-gallery/news/local/michigan/detroit/2018/12/12/monroe-blocks-project-downtown-detroit/2294522002/)]
 
 ---
 

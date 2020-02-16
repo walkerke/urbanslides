@@ -14,7 +14,7 @@ w10 <- get_acs(geography = "tract",
 
 w16 <- get_acs(geography = "tract", 
                variables = "B01003_001", 
-               year = 2016, 
+               year = 2018, 
                state = "MI", 
                county = "Wayne", 
                geometry = TRUE) %>%
@@ -33,7 +33,7 @@ pal <- colorBin(palette = "PRGn",
 popup <- paste0("Population, 2006-10: ", 
                 wchange$estimate10, 
                 "<br/>", 
-                "Population: 2012-2016: ", 
+                "Population: 2014-2018: ", 
                 wchange$estimate16)
 
 w1 <- leaflet() %>%
