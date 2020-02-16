@@ -1,7 +1,7 @@
 ---
 title: "Vancouver and Montreal"
 subtitle: "Immigration and cultural diversity"
-date: "March 5, 2019"
+date: "March 4, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -118,7 +118,7 @@ class: middle, center, inverse
 
 * [Video: immigration and affordability](http://www.youtube.com/embed/uocULxOGrb4)
 
-* [Video: immigration and language](https://globalnews.ca/video/1625488/should-richmond-force-businesses-to-put-english-on-signs)
+* [Video: immigration and language](https://www.cbc.ca/player/play/2658605906)
 
 ---
 
@@ -162,7 +162,7 @@ class: middle, center, inverse
 
 * Canada: official languages of English _and_ French
 
-* [Dot map of Canada's languages](http://vt.anagraph.io/recensement/languesmaternelles/)
+* [Dot map of Canada's languages](https://langues-maternelles-2016.anagraph.io/)
 
 ---
 
