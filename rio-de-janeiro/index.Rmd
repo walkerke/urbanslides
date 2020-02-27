@@ -1,7 +1,7 @@
 ---
 title: "Rio de Janeiro"
 subtitle: "Mega-events and urban inequalities"
-date: "March 26, 2019"
+date: "March 24, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -100,7 +100,7 @@ class: middle, center, inverse
 
 ## The cost of the Olympics
 
-<iframe src="https://www.cbsnews.com/videos/are-costs-of-the-olympics-worth-it-for-host-cities/" id="cbsNewsVideo" frameborder="0" width="750" height="500"></iframe> 
+<iframe src="https://www.cbsnews.com/video/are-costs-of-the-olympics-worth-it-for-host-cities/" id="cbsNewsVideo" allowfullscreen allow="fullscreen" frameborder="0" width="620" height="349"></iframe>
 
 ---
 
