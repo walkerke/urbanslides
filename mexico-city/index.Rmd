@@ -1,7 +1,7 @@
 ---
 title: "Mexico City"
 subtitle: "Migration and urban expansion"
-date: "March 17, 2020"
+date: "March 24, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -84,10 +84,9 @@ options(htmltools.dir.version = FALSE)
 [World City Populations 1950-2030 - Duncan Smith](http://luminocity3d.org/WorldCity/#4/-13.15/-48.16)
 
 ---
+class: middle, center, inverse
 
-## Rural to urban migration
-
-Given our discussion of migration this semester, why might people leave rural areas for cities?  
+## The economics of rural-to-urban migration
 
 ---
 
@@ -236,14 +235,6 @@ class: middle, center, inverse
 ## The informal economy in Mexico City
 
 <iframe width="750" height="500" src="https://www.youtube.com/embed/fzzZ0PIYUAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
-## Urban planning and Mexico City
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Ecobici_03_2014_Mex_8171.JPG" style="width: 600px">
-
-.footnote[Source: Wikimedia Commons]
 
 ---
 
