@@ -118,6 +118,8 @@ class: middle, center, inverse
 
 * NAFTA: **N**orth **A**merican **F**ree **T**rade **A**greement 
 
+* 2020 update: the [USMCA](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/fact-sheets/modernizing)
+
 ---
 
 ## Urban expansion in Mexico City
