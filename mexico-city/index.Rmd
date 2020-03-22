@@ -13,6 +13,18 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+## Course updates
+
+* Online course delivery for the remainder of the semester; chats and discussion threads available on TCU Online
+
+* Exam 2 canceled; the second exam (formerly Exam 3) will be a take-home exam due during Finals Week
+
+* Mapping assignment #3 deadline postponed to April 9
+
+* P/NC option available to all students, including majors & minors
+
+---
+
 ## This week's key themes
 
 * Urbanization in the developing world
