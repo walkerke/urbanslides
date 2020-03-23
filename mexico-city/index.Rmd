@@ -136,11 +136,7 @@ class: middle, center, inverse
 
 ## Urban expansion in Mexico City
 
-<video width="650" height="450" controls="controls">
-<source src="http://atlasofurbanexpansion.org/file-manager/userfiles/data_page/Animations/Mexico.mp4" type="video/mp4">
-</video>
-
-.footnote[Source: [Atlas of Urban Expansion](http://atlasofurbanexpansion.org/historical-data)]
+[Animation from the Atlas of Urban Expansion](http://atlasofurbanexpansion.org/file-manager/userfiles/data_page/Animations/Mexico.mp4)
 
 ---
 
