@@ -87,7 +87,7 @@ options(htmltools.dir.version = FALSE)
 
 ## The 2016 Summer Olympics
 
-<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/Games/Summer/Rio_2016/2016-09-06-slider-rio-2016-games.jpg" style="width: 750px">
+<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/Games/Summer/Rio_2016/2016-09-06-slider-rio-2016-games.jpg?interpolation=lanczos-none&resize=1920:640" style="width: 750px">
 
 .footnote[Source: [olympic.org](https://www.olympic.org/rio-2016)]
 
@@ -106,7 +106,7 @@ class: middle, center, inverse
 
 ## Olympic infrastructure 
 
-<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/News/2017/08/15/2017-08-15-transport-rio-2016-thumbnail.jpg" style="width: 650px">
+<img src="https://stillmed.olympic.org/media/Images/OlympicOrg/News/2017/08/15/2017-08-15-transport-rio-2016-thumbnail.jpg?interpolation=lanczos-none&resize=*:*" style="width: 650px">
 
 .footnote[Source: [olympic.org](https://www.olympic.org/news/olympic-games-transport-rio-to-a-new-level)]
 
