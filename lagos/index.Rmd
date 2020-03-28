@@ -34,7 +34,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Global population growth
 
-<iframe src="http://walkerke.github.io/teaching-with-datavis/un-projections/regions.html" width="1000" height="450" frameborder = "0" scrolling = "no"></iframe>
+<img src=img/global-growth.png>
+
+.footnote[[Link to interactive version](http://walkerke.github.io/teaching-with-datavis/un-projections/regions.html)]
 
 ---
 
