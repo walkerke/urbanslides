@@ -1,7 +1,7 @@
 ---
 title: "Paris & Berlin"
 subtitle: "The European and (post-)Socialist City"
-date: "April 2, 2019"
+date: "April 2, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -139,7 +139,7 @@ class: middle, center, inverse
 
 ## _Les banlieues de Paris_
 
-<img src="https://timedotcom.files.wordpress.com/2015/11/paris-la-courneuve.jpg" style="width: 600px">
+<img src="https://api.time.com/wp-content/uploads/2015/11/paris-la-courneuve.jpg" style="width: 600px">
 
 .footnote[Source: [Time Magazine](http://time.com/4115066/paris-attacks-muslim-banlieue-suburb-backlash/)]
 
@@ -158,9 +158,9 @@ class: middle, center, inverse
 
 ## Berlin
 
-<img src="https://www.blueairweb.com/Media/Default/Destinations/BERLIN_main_fcfcd813efcdae6494cfa0960ce483e6-4.jpg" style="width: 600px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg" style="width: 600px">
 
-.footnote[Source: [BlueAir.com](https://www.blueairweb.com/en/gb/destinations/txl)]
+.footnote[Source: Wikimedia Commons]
 
 ---
 

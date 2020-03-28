@@ -1,7 +1,7 @@
 ---
 title: "Mumbai & Delhi"
 subtitle: "Resource access and the environment"
-date: "April 23, 2019"
+date: "April 21, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -41,7 +41,7 @@ class: middle, center, inverse
 
 ## Cities and the environment
 
-<img src="https://cdn.modernfarmer.com/wp-content/uploads/2016/09/portland-ugb-hero.jpg" style="width: 500px">
+<img src="https://modernfarmer.com/wp-content/uploads/2016/09/portland-ugb-hero.jpg" style="width: 500px">
 
 .footnote[Source: [Modern Farmer](https://modernfarmer.com/2016/09/portland-urban-growth-boundary/)]
 
