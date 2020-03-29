@@ -123,6 +123,14 @@ class: middle, center, inverse
 
 ---
 
+## The environmental Kuznets curve
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Environmental_Kuznets_Curve.png" style="width: 650px">
+
+.footnote[Source: Wikimedia Commons]
+
+---
+
 ## Cities and waste
 
 <img src=img/waste.PNG style="width: 600px">
