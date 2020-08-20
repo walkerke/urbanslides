@@ -100,20 +100,6 @@ Lewis Mumford, "What is a City?" (1937)
 > _The city in its complete sense, then, is a geographic plexus, an economic organization, an institutional process, a theater of social action, and an aesthetic symbol of collective unity._
 
 ---
-
-## Urban definitions
-
-* Megacity
-
-* Global city
-
-* Central business district
-
-* Metropolitan area
-
-* Suburbs & exurbs
-
----
 class: middle, center, inverse
 
 # How do we study cities?  
@@ -145,6 +131,12 @@ class: middle, center, inverse
 <img src="img/chicago-lex.PNG" style="width: 390px">
 
 .footnote[Source: The New York Times]
+
+---
+
+## Income inequality in Chicago
+
+<iframe src="img/il_income.html" height = "500" width = "800" frameborder="0" scrolling="no"></iframe>
 
 ---
 
