@@ -1,7 +1,7 @@
 ---
 title: "New York"
 subtitle: "Neighborhoods and demographic change"
-date: "January 28, 2020"
+date: "September 1, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
