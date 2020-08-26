@@ -1,7 +1,7 @@
 ---
 title: "The San Francisco Bay Area"
 subtitle: "Labor markets and real estate"
-date: "February 4, 2020"
+date: "September 8, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
