@@ -2,22 +2,23 @@ library(tidycensus)
 library(tidyverse)
 library(extrafont)
 
-city16 <- get_acs(geography = "place", 
+city18 <- get_acs(geography = "place", 
                    variables = "B01003_001", 
-                   survey = "acs1") %>%
+                   survey = "acs1",
+                   year = 2018) %>%
   filter(estimate > 500000) %>%
-  rename(estimate16 = estimate)
+  rename(estimate18 = estimate)
 
-city12 <- get_acs(geography = "place", 
+city10 <- get_acs(geography = "place", 
                    variables = "B01003_001", 
                    survey = "acs1", 
-                   year = 2012) %>%
-  rename(estimate12 = estimate) %>%
-  select(GEOID, estimate12)
+                   year = 2010) %>%
+  rename(estimate10 = estimate) %>%
+  select(GEOID, estimate10)
   
   
-cities <- inner_join(city16, city12, by = "GEOID") %>%
-  mutate(pctchange = round(100 * ((estimate16 - estimate12) / estimate12), 1)) %>%
+cities <- inner_join(city18, city10, by = "GEOID") %>%
+  mutate(pctchange = round(100 * ((estimate18 - estimate10) / estimate10), 2)) %>%
   filter(GEOID != "41980") %>%
   mutate(type = case_when(
     GEOID == "4835000" ~ "Houston", 
@@ -31,7 +32,7 @@ color <- ifelse(cities$NAME == "Houston", "navy", "grey30")
 face <- ifelse(cities$NAME == "Houston", "bold", "plain")
 
 
-ggplot(cities, aes(x = pctchange, y = reorder(NAME, pctchange), 
+g1 <- ggplot(cities, aes(x = pctchange, y = reorder(NAME, pctchange), 
                    color = type)) + 
   geom_segment(aes(x = 0, y = reorder(NAME, pctchange), 
                    xend = pctchange, yend = reorder(NAME, pctchange), 
@@ -41,9 +42,9 @@ ggplot(cities, aes(x = pctchange, y = reorder(NAME, pctchange),
   scale_color_manual(values = c("red", "#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "Percent change between 2012 and 2016", 
+  labs(x = "Percent change between 2010 and 2018", 
        y = "", 
-       title = "Municipal population change, 2012-2016", 
+       title = "Municipal population change, 2010-2018", 
        subtitle = "Cities with populations above 500,000", 
        caption = "Data acquired with the R tidycensus package. Chart by @kyle_e_walker.") + 
   theme(panel.grid.major.x = element_blank(), 
@@ -53,21 +54,22 @@ ggplot(cities, aes(x = pctchange, y = reorder(NAME, pctchange),
         plot.caption = element_text(size = 7), 
         axis.text.y = element_text(color = color, face = face))
 
-ggsave("img/change.png", width = 9, height = 6)
+ggsave("houston/img/change.png", g1, width = 9, height = 6)
 
 
-metro16 <- get_acs(geography = "metropolitan statistical area/micropolitan statistical area", 
+metro18 <- get_acs(geography = "cbsa", 
                    variables = "B01003_001", 
-                   survey = "acs1") %>%
+                   survey = "acs1",
+                   year = 2018) %>%
   filter(estimate > 1500000) %>%
-  rename(estimate16 = estimate)
+  rename(estimate18 = estimate)
 
-metro13 <- get_acs(geography = "metropolitan statistical area/micropolitan statistical area", 
+metro10 <- get_acs(geography = "cbsa", 
                    variables = "B01003_001", 
                    survey = "acs1", 
-                   year = 2013) %>%
-  rename(estimate13 = estimate) %>%
-  select(GEOID, estimate13)
+                   year = 2010) %>%
+  rename(estimate10 = estimate) %>%
+  select(GEOID, estimate10)
 
 # metro10 <- map_df(c(state.abb, "DC"), function (x) {
 #   
@@ -78,8 +80,8 @@ metro13 <- get_acs(geography = "metropolitan statistical area/micropolitan stati
 #   
 # })
 
-metros <- inner_join(metro16, metro13, by = "GEOID") %>%
-  mutate(pctchange = round(100 * ((estimate16 - estimate13) / estimate13), 1)) %>%
+metros <- inner_join(metro18, metro10, by = "GEOID") %>%
+  mutate(pctchange = round(100 * ((estimate18 - estimate10) / estimate10), 2)) %>%
   filter(GEOID != "41980") %>%
   mutate(type = case_when(
     GEOID == "26420" ~ "Houston", 
@@ -104,7 +106,7 @@ ggplot(metros, aes(x = pctchange, y = reorder(NAME, pctchange),
   scale_color_manual(values = c("red", "#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "Percent change between 2013 and 2016", 
+  labs(x = "Percent change between 2010 and 2018", 
        y = "", 
        title = "Metropolitan population change, 2013-2016", 
        subtitle = "Metro areas with populations above 1.5 million", 
