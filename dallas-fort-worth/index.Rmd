@@ -1,7 +1,7 @@
 ---
 title: "Dallas-Fort Worth"
 subtitle: "Suburbanization and edge cities"
-date: "February 18, 2020"
+date: "September 22, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -33,9 +33,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Dallas 
 
-<img src="https://www.dmagazine.com/wp-content/uploads/2014/09/Dallas-D-Red-Skyline.jpg" style="width: 700px">
+<img src="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/EHGVhZ3cG8Fx7e6a-82Y-loFzP4=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/UK3L6DUT3HZJCYXIOKQNHXXCTE.jpg" style="width: 700px">
 
-.footnote[Source: [_D Magazine_](https://www.dmagazine.com/frontburner/2014/09/why-dallas-was-chosen-the-best-skyline-in-the-world/)]
+.footnote[Source: [_Dallas Morning News_](https://www.dallasnews.com/business/real-estate/2018/05/17/new-report-dallas-skyline-has-most-room-to-grow-of-any-u-s-city/)]
 
 ---
 

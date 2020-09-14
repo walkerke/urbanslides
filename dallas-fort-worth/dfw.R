@@ -66,7 +66,7 @@ ggplot(metros, aes(x = estimate, y = reorder(NAME, estimate),
                    color = type)) + 
   geom_point(size = 3) + 
   theme_minimal(base_family = "Verdana") + 
-  scale_color_manual(values = c("navy", "#90b4d2"), guide = FALSE) + 
+  scale_color_manual(values = c("#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
   labs(x = "2018 1-year ACS estimate", 

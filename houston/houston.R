@@ -64,12 +64,12 @@ metro18 <- get_acs(geography = "cbsa",
   filter(estimate > 1500000) %>%
   rename(estimate18 = estimate)
 
-metro10 <- get_acs(geography = "cbsa", 
+metro13 <- get_acs(geography = "cbsa", 
                    variables = "B01003_001", 
                    survey = "acs1", 
-                   year = 2010) %>%
-  rename(estimate10 = estimate) %>%
-  select(GEOID, estimate10)
+                   year = 2013) %>%
+  rename(estimate13 = estimate) %>%
+  select(GEOID, estimate13)
 
 # metro10 <- map_df(c(state.abb, "DC"), function (x) {
 #   
@@ -80,8 +80,8 @@ metro10 <- get_acs(geography = "cbsa",
 #   
 # })
 
-metros <- inner_join(metro18, metro10, by = "GEOID") %>%
-  mutate(pctchange = round(100 * ((estimate18 - estimate10) / estimate10), 2)) %>%
+metros <- inner_join(metro18, metro13, by = "GEOID") %>%
+  mutate(pctchange = round(100 * ((estimate18 - estimate13) / estimate13), 2)) %>%
   filter(GEOID != "41980") %>%
   mutate(type = case_when(
     GEOID == "26420" ~ "Houston", 
@@ -96,7 +96,7 @@ color <- ifelse(metros$NAME == "Houston", "navy", "grey30")
 face <- ifelse(metros$NAME == "Houston", "bold", "plain")
 
 
-ggplot(metros, aes(x = pctchange, y = reorder(NAME, pctchange), 
+g2 <- ggplot(metros, aes(x = pctchange, y = reorder(NAME, pctchange), 
                    color = type)) + 
   geom_segment(aes(x = 0, y = reorder(NAME, pctchange), 
                    xend = pctchange, yend = reorder(NAME, pctchange), 
@@ -106,9 +106,9 @@ ggplot(metros, aes(x = pctchange, y = reorder(NAME, pctchange),
   scale_color_manual(values = c("red", "#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "Percent change between 2010 and 2018", 
+  labs(x = "Percent change between 2013 and 2018", 
        y = "", 
-       title = "Metropolitan population change, 2013-2016", 
+       title = "Metropolitan population change, 2013-2018", 
        subtitle = "Metro areas with populations above 1.5 million", 
        caption = "Data acquired with the R tidycensus package. Chart by @kyle_e_walker.") + 
   theme(panel.grid.major.x = element_blank(), 
@@ -118,4 +118,4 @@ ggplot(metros, aes(x = pctchange, y = reorder(NAME, pctchange),
         plot.caption = element_text(size = 7), 
         axis.text.y = element_text(color = color, face = face))
 
-ggsave("img/metro_change.png", width = 9, height = 7)
+ggsave("houston/img/metro_change.png", g2, width = 9, height = 7)

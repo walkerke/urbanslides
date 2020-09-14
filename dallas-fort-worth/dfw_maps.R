@@ -21,7 +21,7 @@ p00 <- get_decennial(geography = "tract", variables = "P001001",
                      year = 2000) %>%
   mutate(year = "2000")
 
-p10 <- get_decennial(geography = "tract", variables = "P0010001", 
+p10 <- get_decennial(geography = "tract", variables = "P001001", 
                      state = "TX", county = ctys, geometry = TRUE, 
                      year = 2010) %>%
   mutate(year = "2010")
