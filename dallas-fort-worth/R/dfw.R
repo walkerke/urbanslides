@@ -40,4 +40,4 @@ ggplot(metros, aes(x = estimate, y = reorder(NAME, estimate),
         plot.caption = element_text(size = 7), 
         axis.text.y = element_text(color = color, face = face))
 
-ggsave("dallas-fort-worth/img/driving.png", width = 7, height = 7)
+ggsave("dallas-fort-worth/img/driving.png", width = 9, height = 7)
