@@ -1,7 +1,7 @@
 ---
 title: "Mexico City"
 subtitle: "Migration and urban expansion"
-date: "March 24, 2020"
+date: "October 13, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -12,18 +12,6 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
-
-## Course updates
-
-* Online course delivery for the remainder of the semester; chats and discussion threads available on TCU Online
-
-* Exam 2 canceled; the second exam (formerly Exam 3) will be a take-home exam due during Finals Week
-
-* Mapping assignment #3 deadline postponed to April 9
-
-* P/NC option available to all students, including majors & minors
-
----
 
 ## This week's key themes
 
@@ -250,9 +238,9 @@ class: middle, center, inverse
 
 ## Managing the megacity
 
-<img src="https://cdn.citylab.com/media/img/citylab/2017/06/28_neza_gg/940.jpg" style="width: 600px">
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imdbo64OITk8/v0/-1x-1.jpg" style="width: 600px">
 
-.footnote[Source: [CityLab](https://www.citylab.com/equity/2017/06/how-a-slum-became-a-city/529488/)]
+.footnote[Source: [CityLab](https://www.bloomberg.com/news/articles/2017-06-28/how-a-slum-became-a-city)]
 
 ---
 
