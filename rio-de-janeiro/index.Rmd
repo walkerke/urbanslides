@@ -1,7 +1,7 @@
 ---
 title: "Rio de Janeiro"
 subtitle: "Mega-events and urban inequalities"
-date: "March 31, 2020"
+date: "October 20, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
