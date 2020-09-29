@@ -57,7 +57,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Detroit's population over time
 
-<img src="http://www.dailydetroit.com/wp-content/uploads/2017/05/detroit-population-1920-2016.png" style="width: 700px">
+<img src="img/detroit-population-1920-2016.png" style="width: 700px">
 
 .footnote[Source: [Daily Detroit](http://www.dailydetroit.com/2017/05/25/detroit-continues-lose-population-according-new-census-data/)]
 
@@ -154,7 +154,7 @@ Key terms:
 
 ## 8 Mile Road
 
-<img src="http://detroiturbex.com/content/neighborhoods/8milewall/img/6.jpg" style="width: 650px">
+<img src="img/8milewall.jpg" style="width: 650px">
 
 .footnote[Source: [DetroitUrbex.com](http://detroiturbex.com/content/neighborhoods/8milewall/index.html)]
 
