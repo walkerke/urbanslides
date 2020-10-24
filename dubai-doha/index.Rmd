@@ -1,7 +1,7 @@
 ---
 title: "Dubai & Doha"
 subtitle: "Natural resources and urban spectacle"
-date: "April 9, 2020"
+date: "November 3, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -210,7 +210,7 @@ class: middle, center, inverse
 
 ## Building Doha
 
-<img src="https://www.constructionweekonline.com/sites/default/files/cwo/styles/full_img/public/images/2018/08/13/qatar_doha_web.jpg?itok=W99zBJQY" style="width: 650px">
+<img src="https://www.constructionweekonline.com/public/styles/full_img/public/images/2018/08/13/qatar_doha_web.jpg?itok=p1f1F_Ix" style="width: 650px">
 
 .footnote[Source: [Construction Week Online](http://www.constructionweekonline.com/article-7256-city-update-doha/)]
 

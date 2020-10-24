@@ -1,7 +1,7 @@
 ---
 title: "Paris & Berlin"
 subtitle: "The European and (post-)Socialist City"
-date: "April 2, 2020"
+date: "October 27, 2020"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -147,7 +147,7 @@ class: middle, center, inverse
 
 ## _Les banlieues de Paris_
 
-* [Video: CNN Money World](http://money.cnn.com/video/news/2017/04/12/france-banlieues-vote.cnnmoney/index.html)
+* [Video: CNN World](https://www.cnn.com/videos/world/2017/04/12/france-election-banlieues-vote-bell-pkg.cnn)
 
 ---
 class: middle, center, inverse

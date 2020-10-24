@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
   <head>
     <title>Paris &amp; Berlin</title>
     <meta charset="utf-8" />
     <meta name="author" content="GEOG 10023" />
-    <meta name="date" content="2020-04-02" />
+    <meta name="date" content="2020-10-27" />
+    <script src="index_files/header-attrs/header-attrs.js"></script>
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -15,7 +16,7 @@ class: center, middle, inverse, title-slide
 # Paris &amp; Berlin
 ## The European and (post-)Socialist City
 ### GEOG 10023
-### April 2, 2020
+### October 27, 2020
 
 ---
 
@@ -156,7 +157,7 @@ class: middle, center, inverse
 
 ## _Les banlieues de Paris_
 
-* [Video: CNN Money World](http://money.cnn.com/video/news/2017/04/12/france-banlieues-vote.cnnmoney/index.html)
+* [Video: CNN World](https://www.cnn.com/videos/world/2017/04/12/france-election-banlieues-vote-bell-pkg.cnn)
 
 ---
 class: middle, center, inverse
@@ -301,6 +302,13 @@ a {
 
 }
 &lt;/style&gt;
+
+
+
+
+
+
+
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
@@ -343,9 +351,25 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     deleted = true;
   });
-})();</script>
-
-<script>
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
 (function() {
   var links = document.getElementsByTagName('a');
   for (var i = 0; i < links.length; i++) {
@@ -353,8 +377,7 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
       links[i].target = '_blank';
     }
   }
-})();
-</script>
+})();</script>
 
 <script>
 slideshow._releaseMath = function(el) {
