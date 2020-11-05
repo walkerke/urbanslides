@@ -137,7 +137,7 @@ class: middle, center, inverse
 
 ## Makoko
 
-<img src="https://static.designboom.com/wp-content/uploads/2013/03/makoko-floating-school-designboom-04.jpg" style="width: 700px">
+<img src="https://static.designboom.com/wp-content/uploads/2013/03/NLE-architects-makoko-floating-school-designboom-a.jpg" style="width: 700px">
 
 .footnote[Source: [designboom.com](https://www.designboom.com/architecture/nle-architects-floating-school-in-makoko/)]
 
