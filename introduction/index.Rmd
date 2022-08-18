@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Urban Studies"
 subtitle: ""
-date: "August 18, 2020"
+date: "August 23, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -111,7 +111,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Megacities in the developing world
 
-<img src="https://pro2-bar-s3-cdn-cf4.myportfolio.com/7110bd9a9c83d97ed90b4758be565c85/58acf63e93bc14ca40c0c4da_rw_1920.jpg" style="width: 750px">
+<img src="https://images.adsttc.com/media/images/5fdc/fa3e/63c0/1783/2e00/06d0/slideshow/UnequalScenesBR12.jpg?1608317489" style="width: 600px">
 
 .footnote[Source: Unequal Scenes(http://unequalscenes.com/)]
 
@@ -127,9 +127,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Political economy and cities
 
-<img src="https://www.calvertjournal.com/images/uploads/news/_crop/socialist-modernism-bacu-photography_dezeen_3408_slideshow_5.jpg" style="width: 700px">
+<img src="http://livinggermany.org/wp-content/uploads/2017/07/20c1b63b-a4aa-4c96-9b1a-8f421d3879a51.jpg" style="width: 700px">
 
-.footnote[Source: CalvertJournal.com]
+.footnote[Source: LivingGermany.org]
 
 ---
 
