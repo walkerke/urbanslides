@@ -4,7 +4,8 @@
     <title>An Urban World</title>
     <meta charset="utf-8" />
     <meta name="author" content="GEOG 10023" />
-    <meta name="date" content="2020-08-20" />
+    <meta name="date" content="2022-08-23" />
+    <script src="index_files/header-attrs/header-attrs.js"></script>
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
   </head>
@@ -12,9 +13,15 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
+.title[
 # An Urban World
+]
+.author[
 ### GEOG 10023
-### August 20, 2020
+]
+.date[
+### August 23, 2022
+]
 
 ---
 
@@ -67,7 +74,7 @@ class: middle, inverse, center
 
 ## Is this a city?  
 
-&lt;img src="http://i.telegraph.co.uk/multimedia/archive/02500/Leptis-3_2500348k.jpg" style="width: 700px"&gt;
+&lt;img src="https://www.telegraph.co.uk/multimedia/archive/02500/Leptis-3_2500348k.jpg" style="width: 700px"&gt;
 
 .footnote[Source: [The Telegraph](http://www.telegraph.co.uk/culture/culturepicturegalleries/9909936/Roman-ruins-in-Libya-aerial-photographs-by-Jason-Hawkes.html)]
 
@@ -150,9 +157,9 @@ class: middle, center, inverse
 
 ## Racial segregation in Chicago
 
-&lt;img src="img/chicago-race.PNG" style="width: 500px"&gt;
+&lt;img src="img/chicago-race.PNG" style="width: 400px"&gt;
 
-.footnote[Source: https://demographics.virginia.edu/DotMap/]
+.footnote[Source: https://www.cnn.com/interactive/2021/us/census-race-ethnicity-map/]
 
 ---
 
@@ -203,6 +210,13 @@ a {
 
 }
 &lt;/style&gt;
+
+
+
+
+
+
+
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
@@ -246,6 +260,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable

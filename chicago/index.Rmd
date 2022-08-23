@@ -1,7 +1,7 @@
 ---
 title: "Chicago"
 subtitle: "Urban form and models"
-date: "August 25, 2020"
+date: "August 30, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -35,9 +35,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Chicago
 
-<img src="http://www.geomarketing.com/wp-content/uploads/2014/04/chicago-skyline-day-high-res.jpg" style="width: 700px">
+<img src="https://images.adsttc.com/media/images/56a1/90b0/e58e/ceb1/5000/02c7/newsletter/shutterstock_143073025.jpg?1453428902" style="width: 700px">
 
-.footnote[Source: [geomarketing.com](http://www.geomarketing.com/chicago-skyline-day-high-res)]
+.footnote[Source: ArchDaily]
 
 ---
 

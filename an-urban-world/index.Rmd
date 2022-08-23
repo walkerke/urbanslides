@@ -1,7 +1,7 @@
 ---
 title: "An Urban World"
 subtitle: ""
-date: "August 20, 2020"
+date: "August 23, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -59,7 +59,7 @@ class: middle, inverse, center
 
 ## Is this a city?  
 
-<img src="http://i.telegraph.co.uk/multimedia/archive/02500/Leptis-3_2500348k.jpg" style="width: 700px">
+<img src="https://www.telegraph.co.uk/multimedia/archive/02500/Leptis-3_2500348k.jpg" style="width: 700px">
 
 .footnote[Source: [The Telegraph](http://www.telegraph.co.uk/culture/culturepicturegalleries/9909936/Roman-ruins-in-Libya-aerial-photographs-by-Jason-Hawkes.html)]
 
@@ -142,9 +142,9 @@ class: middle, center, inverse
 
 ## Racial segregation in Chicago
 
-<img src="img/chicago-race.PNG" style="width: 500px">
+<img src="img/chicago-race.PNG" style="width: 400px">
 
-.footnote[Source: https://demographics.virginia.edu/DotMap/]
+.footnote[Source: https://www.cnn.com/interactive/2021/us/census-race-ethnicity-map/]
 
 ---
 
