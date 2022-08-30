@@ -1,7 +1,7 @@
 ---
 title: "New York"
 subtitle: "Neighborhoods and demographic change"
-date: "September 1, 2020"
+date: "September 6, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -167,9 +167,9 @@ class: middle, center, inverse
 
 ## NYC in popular culture
 
-<img src="https://www.usmagazine.com/wp-content/uploads/sex-and-the-city-movie-54915ed0-42af-42af-bc5e-e2108a4fef53.jpg" style="width: 500px">
+<img src="https://hips.hearstapps.com/hmg-prod/images/actresses-kristin-davis-sarah-jessica-parker-cynthia-nixon-news-photo-76969298-1553712592.jpg" style="width: 500px">
 
-.footnote[Source: _US Magazine_]
+.footnote[Source: _Elle Magazine_]
 
 ---
 class: middle, center, inverse
@@ -190,7 +190,7 @@ class: middle, center, inverse
 
 ## The cultural significance of neighborhoods
 
-<img src="https://www.apollotheater.org/wp-content/uploads/2015/06/apollo-archive-feature.jpg" style="width: 650px">
+<img src="https://www.apollotheater.org/app/uploads/2015/06/apollo-archive-feature.jpg" style="width: 650px">
 
 .footnote[Source: [apollotheater.org](https://www.apollotheater.org/event/historic-tours/)]
 
