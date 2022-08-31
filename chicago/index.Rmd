@@ -165,7 +165,7 @@ class: middle, center, inverse
 
 ## Race and place in Chicago
 
-<img src="http://www.radicalcartography.net/chicagodots_race_big_2010.jpg" style="width: 400px">
+<img src="img/chicagodots_race_big_2010.jpg" style="width: 400px">
 
 .footnote[Source: [radicalcartography.net](http://www.radicalcartography.net/index.html?chicagodots)]
 ---
