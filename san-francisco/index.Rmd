@@ -1,7 +1,7 @@
 ---
 title: "The San Francisco Bay Area"
 subtitle: "Labor markets and real estate"
-date: "September 8, 2020"
+date: "September 13, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -84,7 +84,7 @@ class: middle, center, inverse
 
 ## Agglomeration economies
 
-<img src="https://transportgeography.org/wp-content/uploads/economies_agglomeration.png" style="width: 450px">
+<img src="https://i0.wp.com/transportgeography.org/wp-content/uploads/economies_agglomeration2.png" style="width: 450px">
 
 .footnote[Source: [_The Geography of Transport Systems_](https://transportgeography.org/?page_id=1559)]
 
@@ -175,7 +175,7 @@ class: middle, center, inverse
 
 ## Real estate in the Bay Area
 
-<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen src="https://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJtIjoiZXBmb3giLCJwIjoiZGVmYXVsdCIsInYiOiIzOTQ2NTYiLCJhbnZhY2siOiJhbnZhdG9fZXBmb3hfYXBwX3dlYl9wcm9kX2IzMzczMTY4ZTEyZjQyM2Y0MTUwNGYyMDcwMDAxODhkYWY4ODI1MWIiLCJwbHVnaW5zIjp7ImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjoiaHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej02NDB4NDgwJml1PS82Mzc5MDU2NC9rdHZ1L25ld3MmY2l1X3N6cz0zMDB4MjUwJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9dmFzdCZ2cG9zPXByZXJvbGwmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZ1cmw9W3JlZmVycmVyX3VybF0mY29ycmVsYXRvcj1bdGltZXN0YW1wXSZkZXNjcmlwdGlvbl91cmw9aHR0cCUzQSUyRiUyRnd3dy5rdHZ1LmNvbSUyRm5ld3MlMkZ0aGUtYnJlYWR0aC1hbmQtZGVwdGgtb2YtdGhlLWJheS1hcmVhLWhvdXNpbmctY3Jpc2lzIn19LCJyZWFsVGltZUFuYWx5dGljcyI6dHJ1ZX0sImh0bWw1Ijp0cnVlfQ%3D%3D"  width ="640" height="360"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJH4wSW_X5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
