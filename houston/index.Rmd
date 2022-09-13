@@ -1,7 +1,7 @@
 ---
 title: "Houston"
 subtitle: "Environmental management and the city"
-date: "September 15, 2020"
+date: "September 20, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
