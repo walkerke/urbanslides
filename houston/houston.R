@@ -2,12 +2,12 @@ library(tidycensus)
 library(tidyverse)
 library(extrafont)
 
-city18 <- get_acs(geography = "place", 
+city21 <- get_acs(geography = "place", 
                    variables = "B01003_001", 
                    survey = "acs1",
-                   year = 2018) %>%
+                   year = 2021) %>%
   filter(estimate > 500000) %>%
-  rename(estimate18 = estimate)
+  rename(estimate21 = estimate)
 
 city10 <- get_acs(geography = "place", 
                    variables = "B01003_001", 
@@ -17,8 +17,8 @@ city10 <- get_acs(geography = "place",
   select(GEOID, estimate10)
   
   
-cities <- inner_join(city18, city10, by = "GEOID") %>%
-  mutate(pctchange = round(100 * ((estimate18 - estimate10) / estimate10), 2)) %>%
+cities <- inner_join(city21, city10, by = "GEOID") %>%
+  mutate(pctchange = round(100 * ((estimate21 - estimate10) / estimate10), 2)) %>%
   filter(GEOID != "41980") %>%
   mutate(type = case_when(
     GEOID == "4835000" ~ "Houston", 
@@ -42,9 +42,9 @@ g1 <- ggplot(cities, aes(x = pctchange, y = reorder(NAME, pctchange),
   scale_color_manual(values = c("red", "#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "Percent change between 2010 and 2018", 
+  labs(x = "Percent change between 2010 and 2021", 
        y = "", 
-       title = "Municipal population change, 2010-2018", 
+       title = "Municipal population change, 2010-2021", 
        subtitle = "Cities with populations above 500,000", 
        caption = "Data acquired with the R tidycensus package. Chart by @kyle_e_walker.") + 
   theme(panel.grid.major.x = element_blank(), 
@@ -57,12 +57,12 @@ g1 <- ggplot(cities, aes(x = pctchange, y = reorder(NAME, pctchange),
 ggsave("houston/img/change.png", g1, width = 9, height = 6)
 
 
-metro18 <- get_acs(geography = "cbsa", 
+metro21 <- get_acs(geography = "cbsa", 
                    variables = "B01003_001", 
                    survey = "acs1",
-                   year = 2018) %>%
+                   year = 2021) %>%
   filter(estimate > 1500000) %>%
-  rename(estimate18 = estimate)
+  rename(estimate21 = estimate)
 
 metro13 <- get_acs(geography = "cbsa", 
                    variables = "B01003_001", 
@@ -80,8 +80,8 @@ metro13 <- get_acs(geography = "cbsa",
 #   
 # })
 
-metros <- inner_join(metro18, metro13, by = "GEOID") %>%
-  mutate(pctchange = round(100 * ((estimate18 - estimate13) / estimate13), 2)) %>%
+metros <- inner_join(metro21, metro13, by = "GEOID") %>%
+  mutate(pctchange = round(100 * ((estimate21 - estimate13) / estimate13), 2)) %>%
   filter(GEOID != "41980") %>%
   mutate(type = case_when(
     GEOID == "26420" ~ "Houston", 
@@ -106,9 +106,9 @@ g2 <- ggplot(metros, aes(x = pctchange, y = reorder(NAME, pctchange),
   scale_color_manual(values = c("red", "#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "Percent change between 2013 and 2018", 
+  labs(x = "Percent change between 2013 and 2021", 
        y = "", 
-       title = "Metropolitan population change, 2013-2018", 
+       title = "Metropolitan population change, 2013-2021", 
        subtitle = "Metro areas with populations above 1.5 million", 
        caption = "Data acquired with the R tidycensus package. Chart by @kyle_e_walker.") + 
   theme(panel.grid.major.x = element_blank(), 
