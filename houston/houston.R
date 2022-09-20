@@ -12,7 +12,7 @@ city21 <- get_acs(geography = "place",
 city10 <- get_acs(geography = "place", 
                    variables = "B01003_001", 
                    survey = "acs1", 
-                   year = 2010) %>%
+                   year = 2005) %>%
   rename(estimate10 = estimate) %>%
   select(GEOID, estimate10)
   

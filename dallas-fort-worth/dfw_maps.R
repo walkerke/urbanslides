@@ -26,12 +26,11 @@ p10 <- get_decennial(geography = "tract", variables = "P001001",
                      year = 2010) %>%
   mutate(year = "2010")
 
-p18 <- get_acs(geography = "tract", variables = "B01003_001", 
+p20 <- get_decennial(geography = "tract", variables = "P1_001N", 
                state = "TX", county = ctys, geometry = TRUE) %>%
-  rename(value = estimate) %>%
-  mutate(year = "2014-2018")
+  mutate(year = "2020")
 
-dfs <- list(p90, p00, p10, p18)
+dfs <- list(p90, p00, p10, p20)
 
 url <- "https://api.mapbox.com/styles/v1/kwalkertcu/cj0jov12u007n2sqppuxe3fvr/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia3dhbGtlcnRjdSIsImEiOiJMRk9JSmRvIn0.l1y2jHZ6IARHM_rA1-X45A"
 

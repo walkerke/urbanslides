@@ -1,7 +1,7 @@
 ---
 title: "Dallas-Fort Worth"
 subtitle: "Suburbanization and edge cities"
-date: "September 22, 2020"
+date: "September 27, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -100,7 +100,7 @@ class: middle, center, inverse
 
 ## Ideology and urban space
 
-<img src="http://www.mothersblog.gr/media/com_news/story/2016/04/08/35471/main/72d2e3f28c86d01d2d80af27a1cdfee3.jpg" style="width: 700px">
+<img src="https://chicagoganghistory.com/wp-content/uploads/2017/07/3b3e6d3fc7b3067f5a30afd139da02be.jpg" style="width: 700px">
 
 ---
 

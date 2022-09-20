@@ -89,10 +89,10 @@ place00 <- get_decennial(geography = "place", state = "TX",
   mutate(NAME = str_replace(NAME, " city.*", "")) %>%
   select(NAME, pop00 = value)
 
-place18 <- get_acs(geography = "place", state = "TX", 
-                   variables = "B01003_001", survey = "acs1") %>%
+place21 <- get_acs(geography = "place", state = "TX", 
+                   variables = "B01003_001", survey = "acs1", year = 2021) %>%
   mutate(NAME = str_replace(NAME, " city.*", "")) %>%
-  select(NAME, pop18 = estimate) %>%
+  select(NAME, pop21 = estimate) %>%
   inner_join(place00, by = "NAME")
 
 dfwp <- c("Allen", "Arlington", "Carrollton", "Dallas", "Denton", 
@@ -100,20 +100,20 @@ dfwp <- c("Allen", "Arlington", "Carrollton", "Dallas", "Denton",
          "Irving", "Lewisville", "McKinney", "Mansfield", 
          "Mesquite", "Plano", "Richardson")
 
-dfw <- filter(place18, NAME %in% dfwp)
+dfw <- filter(place21, NAME %in% dfwp)
 
 p <- ggplot(dfw) + 
-  geom_segment(aes(x = pop00, xend = pop18, 
-                   y = reorder(NAME, pop18), 
-                   yend = reorder(NAME, pop18))) + 
-  geom_point(aes(x = pop18, y = reorder(NAME, pop18), text = paste0("2018: ", pop18)), 
+  geom_segment(aes(x = pop00, xend = pop21, 
+                   y = reorder(NAME, pop21), 
+                   yend = reorder(NAME, pop21))) + 
+  geom_point(aes(x = pop21, y = reorder(NAME, pop21), text = paste0("2021: ", pop21)), 
              color = "navy", size = 3) + 
-  geom_point(aes(x = pop00, y = reorder(NAME, pop18), text = paste0("2000: ", pop00)), 
+  geom_point(aes(x = pop00, y = reorder(NAME, pop21), text = paste0("2000: ", pop00)), 
              color = "#90b4d2", size = 3) + 
   geom_text(data = data.frame(), aes(x = 1188580, y = "Dallas", label = "2000"), 
             color = "#90b4d2", hjust = 1, size = 3, fontface = "bold", 
             nudge_x = -80000) + 
-  geom_text(data = data.frame(), aes(x = 1317942, y = "Dallas", label = "2018"), 
+  geom_text(data = data.frame(), aes(x = 1317942, y = "Dallas", label = "2021"), 
             color = "navy", hjust = 0, size = 3, fontface = "bold", 
             nudge_x = 80000) + 
   scale_x_continuous(labels = scales::comma, expand = c(0.1, 0.1)) + 
@@ -126,7 +126,7 @@ p <- ggplot(dfw) +
 library(plotly)
 gg <- ggplotly(p, tooltip = "text")
 
-htmlwidgets::saveWidget(gg, "popchange.html")
+htmlwidgets::saveWidget(gg, "dallas-fort-worth/popchange.html")
   
 
 
