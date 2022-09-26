@@ -1,7 +1,7 @@
 ---
 title: "Detroit"
 subtitle: "Race and deindustrialization"
-date: "September 29, 2020"
+date: "October 4, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -49,9 +49,9 @@ options(htmltools.dir.version = FALSE)
 
 ## History of Detroit
 
-<img src="http://www.earlyamericanautomobiles.com/images/amer1549.jpg" style="width: 800px">
+<img src="https://www.mlive.com/resizer/3DONVrVpPlzVm9NdUFRI0-CcIaE=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.mlive.com/home/mlive-media/width2048/img/news/detroit_impact/photo/23978324-standard.jpg" style="width: 600px">
 
-.footnote[Source: [earlyamericanautomobiles.com](http://www.earlyamericanautomobiles.com/americanautomobiles19.htm)]
+.footnote[Source: [MLive.com](https://www.mlive.com/news/detroit/2018/01/historic_photos_fords_assembly.html)]
 
 ---
 
