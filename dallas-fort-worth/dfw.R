@@ -2,13 +2,14 @@ library(tidycensus)
 library(tidyverse)
 library(extrafont)
 
-metro18 <- get_acs(geography = "cbsa", 
+metro21 <- get_acs(geography = "cbsa", 
                    variables = "DP03_0019P", 
                    survey = "acs1", 
-                   summary_var = "B01003_001") %>%
+                   summary_var = "B01003_001",
+                   year = 2021) %>%
   filter(summary_est > 1500000) 
 
-metros <- metro18 %>%
+metros <- metro21 %>%
   mutate(type = ifelse(GEOID == "19100", "DFW", "Other")) %>%
   mutate(NAME = str_replace(NAME, "-.*", "")) %>%
   mutate(NAME = str_replace(NAME, ",.*|/.*", "")) %>%
@@ -28,7 +29,7 @@ d1 <- ggplot(metros, aes(x = estimate, y = reorder(NAME, estimate),
   scale_color_manual(values = c("navy", "#90b4d2"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "2018 1-year ACS estimate", 
+  labs(x = "2021 1-year ACS estimate", 
        y = "", 
        title = "Percent driving alone to work", 
        subtitle = "Metro areas with populations above 1.5 million", 
@@ -40,16 +41,17 @@ d1 <- ggplot(metros, aes(x = estimate, y = reorder(NAME, estimate),
         plot.caption = element_text(size = 7), 
         axis.text.y = element_text(color = color, face = face))
 
-ggsave("img/driving.png", d1, width = 11, height = 9)
+ggsave("dallas-fort-worth/img/driving.png", d1, width = 11, height = 9)
 
 
-metro18 <- get_acs(geography = "cbsa", 
+metro21 <- get_acs(geography = "cbsa", 
                    variables = "DP03_0024P", 
                    survey = "acs1", 
-                   summary_var = "B01003_001") %>%
+                   summary_var = "B01003_001",
+                   year = 2021) %>%
   filter(summary_est > 1500000) 
 
-metros <- metro18 %>%
+metros <- metro21 %>%
   mutate(type = ifelse(GEOID == "19100", "DFW", "Other")) %>%
   mutate(NAME = str_replace(NAME, "-.*", "")) %>%
   mutate(NAME = str_replace(NAME, ",.*|/.*", "")) %>%
@@ -69,7 +71,7 @@ ggplot(metros, aes(x = estimate, y = reorder(NAME, estimate),
   scale_color_manual(values = c("#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "2018 1-year ACS estimate", 
+  labs(x = "2021 1-year ACS estimate", 
        y = "", 
        title = "Percent working at home", 
        subtitle = "Metro areas with populations above 1.5 million", 
