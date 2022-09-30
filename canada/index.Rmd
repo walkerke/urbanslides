@@ -1,7 +1,7 @@
 ---
 title: "Vancouver and Montreal"
 subtitle: "Immigration and cultural diversity"
-date: "October 6, 2020"
+date: "October 11, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -124,7 +124,7 @@ class: middle, center, inverse
 
 ## Housing affordability in Vancouver
 
-<img src="https://financialpostcom.files.wordpress.com/2016/07/fp0705_vancouver_average_price.gif" style="width: 500px">
+<img src="https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2016/07/fp0705_vancouver_average_price.gif?w=620" style="width: 500px">
 
 .footnote[Source: [Financial Post](https://financialpost.com/personal-finance/mortgages-real-estate/vancouver-home-prices-head-even-higher-in-june-amid-record-sales?locale=en)]
 

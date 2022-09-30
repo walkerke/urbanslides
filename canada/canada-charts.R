@@ -7,12 +7,12 @@ options(cancensus.api_key = "CensusMapper_6293253518cbfcfc86b62e83f056f92f")
 
 # Montreal: CMA 24462
 
-View(list_census_vectors("CA16"))
+View(list_census_vectors("CA21"))
 
 # CMA
 # v_CA16_1
 
-pop <- get_census("CA16", level = "CMA", vectors = "v_CA16_1", 
+pop <- get_census("CA21", level = "CMA", vectors = "v_CA21_1", 
                   regions = list(C = "01"))
 
 pop <- arrange(pop, desc(Population)) 
@@ -28,7 +28,7 @@ ggplot(pop10, aes(x = pop, y = reorder(name, pop))) +
   geom_point(size = 4, color = "#90b4d2") + 
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = scales::comma, breaks = seq(0, 6000000, 1000000)) + 
-  labs(x = "Population, 2016", 
+  labs(x = "Population, 2021", 
        y = "", 
        title = "Largest metro areas in Canada", 
        caption = "Data acquired with the R cancensus package") + 
@@ -39,4 +39,4 @@ ggplot(pop10, aes(x = pop, y = reorder(name, pop))) +
         plot.caption = element_text(size = 7))
   
 
-ggsave("img/metros.png")
+ggsave("canada/img/metros.png")
