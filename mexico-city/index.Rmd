@@ -1,7 +1,7 @@
 ---
 title: "Mexico City"
 subtitle: "Migration and urban expansion"
-date: "October 13, 2020"
+date: "October 18, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
