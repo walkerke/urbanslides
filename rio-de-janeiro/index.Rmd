@@ -1,7 +1,7 @@
 ---
 title: "Rio de Janeiro"
 subtitle: "Mega-events and urban inequalities"
-date: "October 20, 2020"
+date: "October 25, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -106,9 +106,9 @@ class: middle, center, inverse
 
 ## Olympic infrastructure 
 
-<img src="https://riotimes-11af1.kxcdn.com/wp-content/uploads/2016/08/metro-line-4.jpg" style="width: 650px">
+<img src="https://d1c4d7gnm6as1q.cloudfront.net/Pictures/1024x536/5/9/6/14596_tn_br-rio_metro_line_4_train_in_station.jpg" style="width: 650px">
 
-.footnote[Source: The Rio Times]
+.footnote[Source: Railway Gazette]
 
 ---
 
