@@ -41,7 +41,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Mexico City 
 
-<img src="http://joelgehringer.com/blog/wp-content/uploads/2016/05/tenochtitlan.jpg" style="width: 725px">
+<img src="https://www.historycrunch.com/uploads/4/1/1/6/41169839/edited/tenochtitlan-picture.jpg" style="width: 600px">
 
 .footnote[Source: [joelgehringer.com](http://joelgehringer.com/blog/the-city-of-dreams/)/various]
 
