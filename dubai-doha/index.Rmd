@@ -1,7 +1,7 @@
 ---
 title: "Dubai & Doha"
 subtitle: "Natural resources and urban spectacle"
-date: "November 3, 2020"
+date: "November 8, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -123,9 +123,9 @@ class: middle, center, inverse
 
 ## Dubai
 
-<img src="https://www.skidubai.com/image/catalog/dubai-old-photo.jpg" style="width: 750px">
+<img src="https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/Ski-Dubai-cover-1.jpg">
 
-.footnote[Source: [Ski Dubai](https://www.skidubai.com/about-dubai/history.html)]
+.footnote[Source: Bayut]
 
 ---
 class: middle, center, inverse
@@ -136,7 +136,7 @@ class: middle, center, inverse
 
 ## Construction in Dubai
 
-<img src="http://www.arabianbusiness.com/sites/default/files/styles/full_img/public/images/2017/03/21/Dubai_construction.jpg" style="width: 650px">
+<img src="https://www.arabianbusiness.com/cloud/2021/09/15/sRTjrkzN-Dubai_construction-2.jpg" style="width: 650px">
 
 .footnote[Source: [Arabian Business/Bloomberg](http://www.arabianbusiness.com/uae-construction-companies-are-feeling-pain-673360.html)]
 
