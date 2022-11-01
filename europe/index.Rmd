@@ -172,9 +172,9 @@ class: middle, center, inverse
 
 ## Berlin
 
-<img src="http://shc.stanford.edu/sites/default/files/styles/220x160/public/news/berlinwall_bgate.jpg" style="width: 600px">
+<img src="https://i.natgeofe.com/n/ac9a3dcc-1a09-4589-a1ff-c202afea6b40/berlin-wall-reference-h-00000201268820_16x9.jpg" style="width: 600px">
 
-.footnote[Source: [Stanford Humanities Center](http://shc.stanford.edu/news/research/berlin-wall-and-cold-war)]
+.footnote[Source: National Geographic]
 
 ---
 class: middle, center, inverse
