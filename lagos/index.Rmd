@@ -1,7 +1,7 @@
 ---
 title: "Lagos"
 subtitle: "The African Megacity"
-date: "November 5, 2020"
+date: "November 15, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -86,9 +86,7 @@ class: middle, center, inverse
 
 ## Lagos
 
-<img src="https://www.treasury.gov/connect/blog/PublishingImages/LagosSkyline.JPG" style="width: 600px">
-
-<span class="footnote">Source: [US Department of the Treasury](http://www.treasury.gov/connect/blog/Pages/Africa-Surges-Forward.aspx)</span>
+<img src="https://pbs.twimg.com/media/Cs3O5vSWAAArFNt.jpg" style="width: 600px">
 
 ---
 
