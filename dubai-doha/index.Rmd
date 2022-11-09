@@ -165,6 +165,19 @@ class: middle, center, inverse
 
 ---
 
+## Urban spectacle in Saudi Arabia: NEOM
+
+<img src="https://neom.scene7.com/is/image/neom/hrh-announces-theline-designs-cover?wid=1920&hei=1080" style="width: 750px">
+
+.footnote[[Image source: NEOM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.neom.com%2Fen-us&psig=AOvVaw2A2hgQfIfepwUbEaUdzmC1&ust=1668034064062000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMirnqPVn_sCFQAAAAAdAAAAABAI)]
+
+---
+
+## NEOM: The Line
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0kz5vEqdaSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 class: middle, center, inverse
 
 ## Doha
@@ -238,7 +251,9 @@ class: middle, center, inverse
 
 ---
 
-## Labor migration and the World Cup
+## Labor migration and the World Cup 
+
+- Updated version released this week on ESPN+
 
 <iframe src="https://player.vimeo.com/video/298182999" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/298182999">E:60 Qatar</a> from <a href="https://vimeo.com/bluefoot">Bluefoot</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
