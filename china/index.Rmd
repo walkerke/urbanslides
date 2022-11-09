@@ -1,7 +1,7 @@
 ---
 title: "Shanghai & Hong Kong"
 subtitle: "'Open cities' and China's hybrid economy"
-date: "November 17, 2020"
+date: "December 6, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -35,7 +35,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Global cities
 
-<img src="https://www.kearney.com/documents/20152/4977718/FG-2019-Global-Cities-Report-03.png" style="width: 500px">
+<img src="https://www.kearney.com/documents/291362523/291367299/FG-2019-Global-Cities-Report-01.png/111e4547-1eb4-51d3-0dcd-4d729f3691c3?t=1608446324000" style="width: 450px">
 
 .footnote[Source: [A.T. Kearney](https://www.kearney.com/global-cities/2019)]
 
