@@ -1,7 +1,7 @@
 ---
 title: "Mumbai & Delhi"
 subtitle: "Resource access and the environment"
-date: "November 10, 2020"
+date: "November 29, 2022"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -49,9 +49,9 @@ class: middle, center, inverse
 
 ## "Sustainable" cities
 
-<img src="https://news.nationalgeographic.com/content/dam/news/2015/03/27/greenroofgallery/01greenroof.jpg" style="width: 450px">
+<img src="https://land8.com/wp-content/uploads/2015/03/Chicago_Green-Roof_c-Mark-Farina_104.jpg" style="width: 600px">
 
-.footnote[Source: [National Geographic](https://news.nationalgeographic.com/energy/2015/03/150328-green-roofs-france-buildings-energy/)]
+.footnote[Source: Land8]
 
 ---
 class: middle, center, inverse

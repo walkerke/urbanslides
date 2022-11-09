@@ -4,7 +4,7 @@
     <title>Mumbai &amp; Delhi</title>
     <meta charset="utf-8" />
     <meta name="author" content="GEOG 10023" />
-    <meta name="date" content="2020-11-10" />
+    <meta name="date" content="2022-11-29" />
     <script src="index_files/header-attrs/header-attrs.js"></script>
     <link href="index_files/remark-css/default.css" rel="stylesheet" />
     <link href="index_files/remark-css/default-fonts.css" rel="stylesheet" />
@@ -13,10 +13,18 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
+.title[
 # Mumbai &amp; Delhi
+]
+.subtitle[
 ## Resource access and the environment
+]
+.author[
 ### GEOG 10023
-### November 10, 2020
+]
+.date[
+### November 29, 2022
+]
 
 ---
 
@@ -59,9 +67,9 @@ class: middle, center, inverse
 
 ## "Sustainable" cities
 
-&lt;img src="https://news.nationalgeographic.com/content/dam/news/2015/03/27/greenroofgallery/01greenroof.jpg" style="width: 450px"&gt;
+&lt;img src="https://land8.com/wp-content/uploads/2015/03/Chicago_Green-Roof_c-Mark-Farina_104.jpg" style="width: 600px"&gt;
 
-.footnote[Source: [National Geographic](https://news.nationalgeographic.com/energy/2015/03/150328-green-roofs-france-buildings-energy/)]
+.footnote[Source: Land8]
 
 ---
 class: middle, center, inverse
@@ -318,6 +326,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable
