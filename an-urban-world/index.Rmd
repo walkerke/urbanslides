@@ -1,7 +1,7 @@
 ---
 title: "An Urban World"
 subtitle: ""
-date: "August 23, 2022"
+date: "August 24, 2023"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -15,7 +15,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Global urbanization
 
-[The History of Urbanization - Max Galka/Metrocosm.com](http://metrocosm.com/map-history-cities.html)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cW_cCaybHL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 class: center, middle, inverse
