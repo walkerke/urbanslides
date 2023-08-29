@@ -1,7 +1,7 @@
 ---
 title: "New York"
 subtitle: "Neighborhoods and demographic change"
-date: "September 6, 2022"
+date: "September 5, 2023"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -42,9 +42,9 @@ options(htmltools.dir.version = FALSE)
 
 * https://welikia.org/explore/mannahatta-map/
 
-<img src="http://culturenow.org/exhibitions_folder/images/mannahatta/big/1manahatta_tip_big.jpg" style="width: 400px">
+<img src="https://welikia.org/wp-content/themes/wp7bytetips/images/home_center_welikia.jpg" style="width: 700px">
 
-.footnote[Source: [culturenow.org](http://culturenow.org/exhibitions&exhibition=mannahatta)]
+.footnote[Source: [The Welikia Project](https://welikia.org/)]
 
 ---
 
@@ -104,9 +104,9 @@ class: middle, center, inverse
 
 ## The Lower Manhattan Expressway (LOMEX) plan
 
-<img src="https://untappedcities-wpengine.netdna-ssl.com/wp-content/uploads/2013/09/lower-manhattan-expressway-robert-moses-nyc-untapped-cities.jpg" style="width: 550px">
+<img src="https://sohobroadway.org/wp-content/uploads/2021/05/LOMEX-Lower-Manhattan-Expressway-Robert-Moses-NYC-e1622233414830.jpg" style="width: 400px">
 
-.footnote[Source: [untapped cities](https://untappedcities.com/2013/09/11/nyc-that-never-was-robert-moses-lower-manhattan-expressway-lomex/)]
+.footnote[Source: [sohobroadway.org](https://sohobroadway.org/planning-for-the-future-learning-from-lomex/)]
 
 ---
 class: middle, center, inverse
