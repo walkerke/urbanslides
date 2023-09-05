@@ -2,7 +2,7 @@ library(tidycensus)
 library(tidyverse)
 library(extrafont)
 
-# View(load_variables(2016, "acs1/profile", cache = TRUE))
+# View(load_variables(2021, "acs1/profile", cache = TRUE))
 
 info <- get_acs(geography = "metropolitan statistical area/micropolitan statistical area", 
                 variables = "DP03_0039P", 
@@ -20,7 +20,7 @@ ggplot(info, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2016 American Community Survey estimate", 
+  labs(x = "2021 American Community Survey estimate", 
        y = "", 
        title = "Percent employed in the information services industry", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -50,7 +50,7 @@ ggplot(prof, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2016 American Community Survey estimate", 
+  labs(x = "2021 American Community Survey estimate", 
        y = "", 
        title = "Percent employed in the professional services industry", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -81,7 +81,7 @@ ggplot(manuf, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2016 American Community Survey estimate", 
+  labs(x = "2021 American Community Survey estimate", 
        y = "", 
        title = "Percent employed in the manufacturing industry", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -103,7 +103,7 @@ library(sf)
 library(tidyverse)
 library(tigris)
 
-x <- load_variables(2016, "acs5", cache = TRUE)
+x <- load_variables(2021, "acs5", cache = TRUE)
 
 try <- get_acs(geography = "tract", 
                variables = c(artists = "C24050_026"), 

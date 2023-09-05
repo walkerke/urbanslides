@@ -48,7 +48,7 @@ sf <- leaflet() %>%
                                                   opacity = 1, bringToFront = TRUE, 
                                                   sendToBack = TRUE)) %>%
   addLegend(position = "bottomright", 
-            pal = pal, title = "Median home value (2016)", 
+            pal = pal, title = "Median home value (2021)", 
             values = bay_value$estimate)
 
 htmlwidgets::saveWidget(sf, "value.html")
@@ -70,9 +70,9 @@ ggplot(rent, aes(x = estimate, y = reorder(NAME, estimate))) +
                color = "#386890") + 
   geom_point(color = "#386890", size = 3) + 
   theme_minimal(base_family = "Verdana") + 
-  scale_x_continuous(labels = scales::dollar, 
+  scale_x_continuous(labels = scales::dollar_format(), 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2016 American Community Survey estimate", 
+  labs(x = "2021 American Community Survey estimate", 
        y = "", 
        title = "Median gross rent (dollars)", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -81,9 +81,10 @@ ggplot(rent, aes(x = estimate, y = reorder(NAME, estimate))) +
         panel.grid.minor.x = element_blank(),
         panel.grid.minor.y = element_blank(), 
         plot.title = element_text(face = "bold"), 
-        plot.caption = element_text(size = 7))
+        plot.caption = element_text(size = 7),
+        plot.margin = margin(r = 30))
 
-ggsave("img/rent.png", width = 9, height = 7)
+ggsave("img/rent.png", width = 9, height = 7, bg = "white")
 
 # value by metro
 
@@ -103,7 +104,7 @@ ggplot(value, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = scales::dollar, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2016 American Community Survey estimate", 
+  labs(x = "2021 American Community Survey estimate", 
        y = "", 
        title = "Median housing value (dollars)", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -112,14 +113,15 @@ ggplot(value, aes(x = estimate, y = reorder(NAME, estimate))) +
         panel.grid.minor.x = element_blank(),
         panel.grid.minor.y = element_blank(), 
         plot.title = element_text(face = "bold"), 
-        plot.caption = element_text(size = 7))
+        plot.caption = element_text(size = 7),
+        plot.margin = margin(r = 30))
 
-ggsave("img/value.png", width = 9, height = 7)
+ggsave("img/value.png", width = 9, height = 7, bg = "white")
 
 vars <- c(paste0)
 
 educ <- get_acs(geography = "metropolitan statistical area/micropolitan statistical area", 
-                 variables = "DP02_0067P", 
+                 variables = "DP02_0068P", 
                  summary_var = "B01003_001", 
                  survey = "acs1") %>%
   filter(summary_est > 1500000, !str_detect(NAME, "San Juan")) %>%
@@ -134,7 +136,7 @@ ggplot(educ, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) {paste0(x, "%")}, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2016 American Community Survey estimate", 
+  labs(x = "2021 American Community Survey estimate", 
        y = "", 
        title = "Percent age 25+ with at least a bachelor's degree", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
