@@ -130,7 +130,7 @@ class: middle, center, inverse
 
 ## Images of suburbia
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/y7f3dBf8k1Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o_Cgxs1cb04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 class: middle, center, inverse
@@ -151,7 +151,7 @@ class: middle, center, inverse
 
 <img src=img/fortune500.PNG style="width: 800px">
 
-.footnote[Source: [Fortune Magazine](http://fortune.com/fortune500/visualizations/)]
+.footnote[Source: [Fortune Magazine](https://fortune.com/franchise-list-page/visualize-the-fortune-500-2022/ß)]
 
 ---
 
