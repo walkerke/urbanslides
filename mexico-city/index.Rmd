@@ -122,6 +122,12 @@ class: middle, center, inverse
 
 ---
 
+## Mexicans in the United States
+
+<img src="https://personal.tcu.edu/kylewalker/wrg/mex-centam/assets/img/mex-hist.PNG" style="width: 800px">
+
+---
+
 ## Urban expansion in Mexico City
 
 [Animation from the Atlas of Urban Expansion](http://atlasofurbanexpansion.org/file-manager/userfiles/data_page/Animations/Mexico.mp4)
