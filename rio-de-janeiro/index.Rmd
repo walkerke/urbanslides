@@ -1,7 +1,7 @@
 ---
 title: "Rio de Janeiro"
 subtitle: "Mega-events and urban inequalities"
-date: "October 25, 2022"
+date: "October 24, 2023"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -87,9 +87,9 @@ options(htmltools.dir.version = FALSE)
 
 ## The 2016 Summer Olympics
 
-<img src="https://www.abc.net.au/news/image/7696882-3x2-940x627.jpg" style="width: 650px">
+<img src="img/rio-olympics.jpeg" style="width: 650px">
 
-.footnote[Source: ABC.net]
+.footnote[Source: Los Angeles Times]
 
 ---
 class: middle, center, inverse
@@ -120,7 +120,7 @@ class: middle, center, inverse
 
 ## Race in Brazil
 
-* [The Brazilian Racial Dot Map](http://patadata.org/maparacial/en.html)
+<img src="https://4.bp.blogspot.com/-FXNhdcwnrDo/Vme81LEs3lI/AAAAAAAAsiY/3uv4R2IhBO4/s1600/Brazil.jpg" style="width: 650px">
 
 ---
 
