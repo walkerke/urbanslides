@@ -1,7 +1,7 @@
 ---
 title: "Paris & Berlin"
 subtitle: "The European and (post-)Socialist City"
-date: "November 1, 2022"
+date: "October 31, 2023"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -147,7 +147,7 @@ class: middle, center, inverse
 
 ## _Les banlieues de Paris_
 
-* [Video: CNN World](https://www.cnn.com/videos/world/2017/04/12/france-election-banlieues-vote-bell-pkg.cnn)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BeHYZv8GnNI?si=Qq4MHbzMBynHqCN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 class: middle, center, inverse
