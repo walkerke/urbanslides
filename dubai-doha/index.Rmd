@@ -253,7 +253,7 @@ class: middle, center, inverse
 
 ## Labor migration and the World Cup 
 
-- Updated version released this week on ESPN+
+- Updated version available on ESPN+
 
 <iframe src="https://player.vimeo.com/video/298182999" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/298182999">E:60 Qatar</a> from <a href="https://vimeo.com/bluefoot">Bluefoot</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
