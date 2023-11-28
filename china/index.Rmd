@@ -1,7 +1,7 @@
 ---
 title: "Shanghai & Hong Kong"
 subtitle: "'Open cities' and China's hybrid economy"
-date: "December 6, 2022"
+date: "December 5, 2023"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -43,7 +43,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Global cities
 
-* [JLL Global 300](http://cities-research.jll.com/cities-research/Documents/cities_research/Comparison/Compare-300-Cities.html)
+* [JLL Global 300](https://www.us.jll.com/en/trends-and-insights/research/global/crc/city-sunburst-chart)
 
 ---
 
@@ -127,9 +127,9 @@ class: middle, center, inverse
 
 ## Hong Kong
 
-<img src="https://brightcove04pmdo-a.akamaihd.net/5104226627001/5104226627001_5222689739001_5212887501001-vs.jpg" style="width: 650px">
+<img src="https://media.timeout.com/images/105385557/image.jpg" style="width: 650px">
 
-.footnote[Source: [Lonely Planet](https://www.lonelyplanet.com/china/hong-kong)]
+.footnote[Source: TimeOut]
 
 ---
 
@@ -169,7 +169,7 @@ https://www.youtube.com/watch?v=meR2N4H30Yg
 
 ## Protests in Hong Kong
 
-* [Video from CNN](https://www.cnn.com/videos/world/2019/11/22/hong-kong-china-protests-timeline-lon-orig-bks.cnn)
+* [Video from Time](https://time.com/5606212/hong-kong-history-mass-demonstrations-protest/)
 
 <img src="https://api.time.com/wp-content/uploads/2019/06/hong-kong-protests-4.jpg?quality=85" style="width: 600px">
 
