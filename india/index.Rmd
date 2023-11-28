@@ -1,7 +1,7 @@
 ---
 title: "Mumbai & Delhi"
 subtitle: "Resource access and the environment"
-date: "November 29, 2022"
+date: "November 28, 2023"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -33,7 +33,7 @@ class: middle, center, inverse
 
 ## Environmental sustainability
 
-<img src="https://www.hnmagazine.com/wp-content/uploads/2017/11/clean-energy.jpg" style="width: 700px">
+<img src="https://cim.ac.cy/wp-content/uploads/2021/02/MONDO-VERDE.jpg" style="width: 450px">
 
 .footnote[Source: [Hispanic Network Magazine](https://www.hnmagazine.com/2017/11/move-toward-environmental-sustainability/)]
 
