@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Urban Studies"
 subtitle: ""
-date: "August 22, 2023"
+date: "August 20, 2024"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -95,9 +95,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Deindustrialization
 
-<img src="http://mediad.publicbroadcasting.net/p/michigan/files/styles/x_large/public/201511/20151119_PackardPlant_Gunner.jpg" style="width: 650px">
+<img src="https://www.detroitnews.com/gcdn/presto/2021/06/15/PDTN/c7134651-b323-4d71-a8d2-e2d64f6b1e6e-2021-0609-dg-packard0045.jpg" style="width: 650px">
 
-.footnote[Source: Michigan Radio]
+.footnote[Source: detroitnews.com]
 
 ---
 
