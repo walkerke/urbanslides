@@ -59,6 +59,6 @@ w1 <- leaflet() %>%
   addLegend(pal = pal, values = wchange$pctchange, 
             title = "Pop. change (%)") 
 
-htmlwidgets::saveWidget(w1, "wayne_change.html")
+htmlwidgets::saveWidget(w1, "detroit/wayne_change.html")
 
 
