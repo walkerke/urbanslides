@@ -102,9 +102,9 @@ class: middle, center, inverse
 
 ## "Chinatown" and "Little Italy"
 
-<img src="https://bcpassport.com/wp-content/uploads/vancouverchinatown.jpg" style="width: 600px">
+<img src="https://media.cntraveler.com/photos/61ae449cc7156ad156533c7a/16:9/w_2560,c_limit/Chinatown,%20Millennium%20Gate-%20Tourism%20Vancouver.Nelson%20Mouellic.jpg" style="width: 600px">
 
-.footnote[Source: [bcpassport.com](https://bcpassport.com/neighbourhoods/vancouver-chinatown/)]
+.footnote[Source: [Conde Nast Traveler](https://www.cntraveler.com/activities/vancouver/chinatown)]
 
 ---
 
