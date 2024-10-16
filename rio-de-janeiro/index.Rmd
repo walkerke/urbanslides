@@ -1,7 +1,7 @@
 ---
 title: "Rio de Janeiro"
 subtitle: "Mega-events and urban inequalities"
-date: "October 24, 2023"
+date: "October 25, 2024"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -55,9 +55,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Tourism and Rio de Janeiro
 
-<img src="http://www.jmnoticia.com.br/wp-content/uploads/2017/06/Carnaval-Rio-de-Janeiro.jpg" style="width: 700px">
+<img src="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/02/08/3f/rio-carnival.rend.hgtvcom.616.462.suffix/1491591582202.jpeg" style="width: 600px">
 
-.footnote[Source: [jmnoticia.com.br](http://www.jmnoticia.com.br/wp-content/uploads/2017/06/Carnaval-Rio-de-Janeiro.jpg)]
+.footnote[Source: The Travel Channel]
 
 ---
 
