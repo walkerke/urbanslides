@@ -1,7 +1,7 @@
 ---
 title: "Paris & Berlin"
 subtitle: "The European and (post-)Socialist City"
-date: "October 31, 2023"
+date: "October 31, 2024"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -258,7 +258,7 @@ class: middle, center, inverse
 
 ## Tour Montparnasse
 
-<img src="http://www.tour-montparnasse.fr/wp-content/uploads/2017/06/latourmontparnasse_header.jpg" style="width: 650px">
+<img src="https://tour-montparnasse.fr/wp-content/uploads/2024/08/Tour-Montparnasse-Paris.jpg" style="width: 500px">
 
 .footnote[Source: [tour-montparnasse.fr](http://www.tour-montparnasse.fr/en/the-tour-montparnasse/)]
 
