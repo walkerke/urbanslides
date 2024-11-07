@@ -17,8 +17,6 @@ options(htmltools.dir.version = FALSE)
 
 * The world's first cities
 
-* Cities and Islam
-
 * Natural resources and urban economies
 
 * Urban spectacle in the Middle East
