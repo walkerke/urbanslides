@@ -47,7 +47,7 @@ options(htmltools.dir.version = FALSE)
 
 .footnote[Source: [A.T. Kearney](https://www.kearney.com/service/global-business-policy-council/gcr/2024-full-report)]
 
---
+---
 
 ## Global cities
 
