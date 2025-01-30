@@ -1,7 +1,7 @@
 ---
 title: "New York"
 subtitle: "Neighborhoods and demographic change"
-date: "September 3, 2024"
+date: "January 30, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -147,15 +147,7 @@ class: middle, center, inverse
 
 ## NYC in popular culture
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/813Wx3D1ZeL._RI_.jpg" style="width: 600px">
-
-.footnote[Source: Amazon.com]
-
----
-
-## NYC in popular culture
-
-<img src="http://holysupermarket.com/wp-content/uploads/2017/09/6362009871505389111689071181_Friends-TV-show-on-NBC-canceled-no-season-11.jpg" style="width: 750px">
+<img src="https://m.media-amazon.com/images/I/81SnesJUN4L._AC_UF894,1000_QL80_.jpg" style="width: 400px">
 
 ---
 
