@@ -7,7 +7,8 @@ library(extrafont)
 info <- get_acs(geography = "metropolitan statistical area/micropolitan statistical area", 
                 variables = "DP03_0039P", 
                 summary_var = "B01003_001", 
-                survey = "acs1") %>%
+                survey = "acs1", 
+                year = 2023) %>%
   filter(summary_est > 1500000) %>%
   mutate(NAME = str_replace(NAME, "-.*", "")) %>%
   mutate(NAME = str_replace(NAME, ",.*|/.*", ""))
@@ -20,7 +21,7 @@ ggplot(info, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2021 American Community Survey estimate", 
+  labs(x = "2023 American Community Survey estimate", 
        y = "", 
        title = "Percent employed in the information services industry", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -50,7 +51,7 @@ ggplot(prof, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2021 American Community Survey estimate", 
+  labs(x = "2023 American Community Survey estimate", 
        y = "", 
        title = "Percent employed in the professional services industry", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -81,7 +82,7 @@ ggplot(manuf, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2021 American Community Survey estimate", 
+  labs(x = "2023 American Community Survey estimate", 
        y = "", 
        title = "Percent employed in the manufacturing industry", 
        subtitle = "Metropolitan areas with population above 1.5 million", 

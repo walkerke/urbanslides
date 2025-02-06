@@ -48,7 +48,7 @@ sf <- leaflet() %>%
                                                   opacity = 1, bringToFront = TRUE, 
                                                   sendToBack = TRUE)) %>%
   addLegend(position = "bottomright", 
-            pal = pal, title = "Median home value (2021)", 
+            pal = pal, title = "Median home value (2023)", 
             values = bay_value$estimate)
 
 htmlwidgets::saveWidget(sf, "value.html")
@@ -72,7 +72,7 @@ ggplot(rent, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = scales::dollar_format(), 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2021 American Community Survey estimate", 
+  labs(x = "2023 American Community Survey estimate", 
        y = "", 
        title = "Median gross rent (dollars)", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -104,7 +104,7 @@ ggplot(value, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = scales::dollar, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2021 American Community Survey estimate", 
+  labs(x = "2023 American Community Survey estimate", 
        y = "", 
        title = "Median housing value (dollars)", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
@@ -136,7 +136,7 @@ ggplot(educ, aes(x = estimate, y = reorder(NAME, estimate))) +
   theme_minimal(base_family = "Verdana") + 
   scale_x_continuous(labels = function(x) {paste0(x, "%")}, 
                      expand = c(0, 0, 0.02, 0)) + 
-  labs(x = "2021 American Community Survey estimate", 
+  labs(x = "2023 American Community Survey estimate", 
        y = "", 
        title = "Percent age 25+ with at least a bachelor's degree", 
        subtitle = "Metropolitan areas with population above 1.5 million", 
