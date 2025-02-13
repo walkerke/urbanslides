@@ -5,14 +5,14 @@ library(extrafont)
 city21 <- get_acs(geography = "place", 
                    variables = "B01003_001", 
                    survey = "acs1",
-                   year = 2021) %>%
+                   year = 2023) %>%
   filter(estimate > 500000) %>%
   rename(estimate21 = estimate)
 
 city10 <- get_acs(geography = "place", 
                    variables = "B01003_001", 
                    survey = "acs1", 
-                   year = 2005) %>%
+                   year = 2013) %>%
   rename(estimate10 = estimate) %>%
   select(GEOID, estimate10)
   
@@ -42,9 +42,9 @@ g1 <- ggplot(cities, aes(x = pctchange, y = reorder(NAME, pctchange),
   scale_color_manual(values = c("red", "#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "Percent change between 2010 and 2021", 
+  labs(x = "Percent change between 2013 and 2023", 
        y = "", 
-       title = "Municipal population change, 2010-2021", 
+       title = "Municipal population change, 2013-2023", 
        subtitle = "Cities with populations above 500,000", 
        caption = "Data acquired with the R tidycensus package. Chart by @kyle_e_walker.") + 
   theme(panel.grid.major.x = element_blank(), 
@@ -60,7 +60,7 @@ ggsave("houston/img/change.png", g1, width = 9, height = 6)
 metro21 <- get_acs(geography = "cbsa", 
                    variables = "B01003_001", 
                    survey = "acs1",
-                   year = 2021) %>%
+                   year = 2023) %>%
   filter(estimate > 1500000) %>%
   rename(estimate21 = estimate)
 
@@ -106,9 +106,9 @@ g2 <- ggplot(metros, aes(x = pctchange, y = reorder(NAME, pctchange),
   scale_color_manual(values = c("red", "#90b4d2", "navy"), guide = FALSE) + 
   scale_x_continuous(labels = function(x) { paste0(x, "%") }, 
                      expand = c(0.02, 0, 0.02, 0)) + 
-  labs(x = "Percent change between 2013 and 2021", 
+  labs(x = "Percent change between 2013 and 2023", 
        y = "", 
-       title = "Metropolitan population change, 2013-2021", 
+       title = "Metropolitan population change, 2013-2023", 
        subtitle = "Metro areas with populations above 1.5 million", 
        caption = "Data acquired with the R tidycensus package. Chart by @kyle_e_walker.") + 
   theme(panel.grid.major.x = element_blank(), 

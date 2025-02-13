@@ -1,7 +1,7 @@
 ---
 title: "Houston"
 subtitle: "Environmental management and the city"
-date: "September 17, 2024"
+date: "February 13, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -98,9 +98,9 @@ class: inverse, middle, center
 
 ## Flooding in Houston
 
-<img src="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/08/29/Investigative/Images/Harvey_38748-171b4.jpg" style="width: 550px">
+<img src="https://s.hdnux.com/photos/65/15/15/13947744/4/1920x0.jpg" style="width: 550px">
 
-.footnote[Source: [The Washington Post](https://www.washingtonpost.com/graphics/2017/investigations/harvey-urban-planning/?utm_term=.48535b9525bc)]
+.footnote[Source: _Houston Chronicle_]
 
 ---
 
