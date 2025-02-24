@@ -1,7 +1,7 @@
 ---
 title: "Dallas-Fort Worth"
 subtitle: "Suburbanization and edge cities"
-date: "September 24, 2024"
+date: "February 25, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -56,12 +56,24 @@ options(htmltools.dir.version = FALSE)
 ---
 class: middle, center, inverse
 
-## The American suburb
+## Where are the suburbs in DFW? 
+
+---
+
+## Urban growth in the Metroplex
+
+<iframe src="popchange.html" height = "500" width = "900" frameborder="0" scrolling="no"></iframe>
+
+---
+
+## Urban growth in the Metroplex
+
+<img src=img/map.gif style="width: 650px">
 
 ---
 class: middle, center, inverse
 
-## Where are the suburbs in DFW? 
+## The American suburb
 
 ---
 
@@ -78,18 +90,6 @@ class: middle, center, inverse
 <img src="http://levittownalive.com/images/home-collage/30-levittown-aerial.jpg" style="width: 800px">
 
 .footnote[Source: levittownalive.com]
-
----
-
-## Urban growth in the Metroplex
-
-<iframe src="popchange.html" height = "500" width = "900" frameborder="0" scrolling="no"></iframe>
-
----
-
-## Urban growth in the Metroplex
-
-<img src=img/map.gif style="width: 650px">
 
 ---
 class: middle, center, inverse
@@ -152,14 +152,6 @@ class: middle, center, inverse
 <img src=img/fortune500.PNG style="width: 800px">
 
 .footnote[Source: [Fortune Magazine](https://fortune.com/franchise-list-page/visualize-the-fortune-500-2022/)]
-
----
-
-## Jobs in DFW
-
-<img src=img/jobs.PNG style="width: 800px">
-
-.footnote[Source: [Robert Manduca, "Where Are The Jobs?"](http://www.robertmanduca.com/projects/jobs.html)]
 
 ---
 
