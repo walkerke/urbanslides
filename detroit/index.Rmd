@@ -1,7 +1,7 @@
 ---
 title: "Detroit"
 subtitle: "Race and deindustrialization"
-date: "October 1, 2024"
+date: "March 4, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -229,12 +229,6 @@ class: middle, center, inverse
 ## Population change in Detroit
 
 <iframe src="wayne_change.html" height = "500" width = "750" frameborder = "0" scrolling="no"></iframe>
-
----
-
-## Urban renewal
-
-* [Mapping the Motor City project](https://motorcitymapping.org/#t=overview&s=detroit&f=all)
 
 ---
 
