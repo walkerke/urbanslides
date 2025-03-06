@@ -1,7 +1,7 @@
 ---
 title: "Vancouver and Montreal"
 subtitle: "Immigration and cultural diversity"
-date: "October 8, 2024"
+date: "March 6, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -33,9 +33,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Vancouver
 
-<img src="https://academic.ubc.ca/sites/vpa.ubc.ca/files/images/vancouver_skyline-pres-ex.jpg" style="width: 800px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Concord_Pacific_Master_Plan_Area.jpg" style="width: 800px">
 
-.footnote[Source: [University of British Columbia](https://academic.ubc.ca/about-vancouver)]
+.footnote[Source: Wikipedia]
 
 ---
 
@@ -117,6 +117,8 @@ class: middle, center, inverse
 ## Immigration controversies in Vancouver
 
 * [Video: immigration and affordability](https://www.youtube.com/watch?v=uocULxOGrb4)
+
+* [Video: foreign housing purchase ban](https://www.youtube.com/watch?v=z7hf9m2iJfg)
 
 * [Video: immigration and language](https://www.cbc.ca/player/play/2658605906)
 
