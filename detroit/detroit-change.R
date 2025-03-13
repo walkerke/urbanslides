@@ -51,7 +51,7 @@ popup <- paste0("Population, 2006-10: ",
                 wchange$estimate16)
 
 w1 <- leaflet() %>%
-  addProviderTiles(providers$Stadia.StamenToner) %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%
   addPolygons(data = wchange, stroke = FALSE, smoothFactor = 0.2, 
               color = ~pal(pctchange), 
               fillOpacity = 0.8, 
