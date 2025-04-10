@@ -1,7 +1,7 @@
 ---
 title: "Dubai & Doha"
 subtitle: "Natural resources and urban spectacle"
-date: "November 7, 2024"
+date: "April 10, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -94,7 +94,7 @@ class: middle, center, inverse
 
 ## Wealth in the Middle East
 
-<iframe width='100%' height='500' frameborder='0' src='https://kwalkertcu.cartodb.com/viz/b788b5be-cd74-11e4-90ce-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+Map: https://rpubs.com/walkerdata/gdp-ppp
 
 ---
 class: middle, center, inverse
