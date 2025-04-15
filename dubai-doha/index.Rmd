@@ -247,15 +247,6 @@ class: middle, center, inverse
 
 ---
 
-## Labor migration and the World Cup 
-
-- Updated version available on ESPN+
-
-<iframe src="https://player.vimeo.com/video/298182999" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/298182999">E:60 Qatar</a> from <a href="https://vimeo.com/bluefoot">Bluefoot</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
----
-
 ## Human rights and Qatar
 
 <img src="https://secure.i.telegraph.co.uk/multimedia/archive/02691/fifaprotest2_2691541b.jpg" style="width: 550px">
@@ -263,6 +254,13 @@ class: middle, center, inverse
 .footnote[Source: [The Telegraph](https://www.telegraph.co.uk/sport/football/world-cup/10353367/Fifas-crunch-meeting-on-2022-World-Cup-in-Qatar-overshadowed-by-human-rights-storm.html)]
 
 ---
+
+## Labor migration and the World Cup 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeZLj3TPzc8?si=MgigzEkaYjyIv0E7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 
 class: middle, center, inverse

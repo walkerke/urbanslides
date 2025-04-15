@@ -7,28 +7,27 @@ library(extrafont)
 
 # idb_api_key("Your key goes here")
 
-male <- idb1('Qatar', 2018, sex = 'male') %>%
-  mutate(POP = POP * -1,
-         SEX = 'Male')
+male <- get_idb('Qatar', 2025, sex = 'male') %>%
+  mutate(pop = pop * -1,
+         sex = 'Male')
 
-female <- idb1('Qatar', 2018, sex = 'female') %>%
-  mutate(SEX = 'Female')
+female <- get_idb('Qatar', 2025, sex = 'female') %>%
+  mutate(sex = 'Female')
 
 qatar <- rbind(male, female) 
 
-g1 <- ggplot(qatar, aes(x = AGE, y = POP, fill = SEX, width = 1, frame = time)) +
+g1 <- ggplot(qatar, aes(x = age, y = pop, fill = sex, width = 1)) +
   coord_fixed() +
   coord_flip() +
-  geom_bar(data = subset(qatar, SEX == "Female"), stat = "identity", position = 'identity') +
-  geom_bar(data = subset(qatar, SEX == "Male"), stat = "identity", position = 'identity') +
+  geom_bar(data = subset(qatar, sex == "Female"), stat = "identity", position = 'identity') +
+  geom_bar(data = subset(qatar, sex == "Male"), stat = "identity", position = 'identity') +
   scale_y_continuous(breaks = seq(-50000, 50000, 25000),
                      labels = c('50k', '25k', '0', '25k', '50k'),
-                     limits = c(min(qatar$POP), max(qatar$POP))) +
+                     limits = c(min(qatar$pop), max(qatar$pop))) +
   theme_minimal(base_size = 14, base_family = "Tahoma") +
   scale_fill_manual(values = c('darkred', 'pink')) +
-  ggtitle('Population structure of Qatar, 2018') + 
-  ylab('Population') +
-  xlab('Age') +
+  ggtitle('Population structure of Qatar, 2025') + 
+  labs(y = "Age", x = "Population", fill = "Sex") + 
   theme(legend.position = "bottom", legend.title = element_blank()) +
   labs(caption = 'Chart by @kyle_e_walker | Data source: US Census Bureau IDB via the idbr R package') + 
   guides(fill = guide_legend(reverse = TRUE))
