@@ -59,7 +59,10 @@ options(htmltools.dir.version = FALSE)
 
 ## Urban form
 
-<img src=img/dallas-paris.PNG>
+<img src=img/dallas-paris-new.png>
+
+.footnote[Source: [MAPMIRROR](https://mapmirror.dunrae.com/)]
+
 
 ---
 
