@@ -19,6 +19,41 @@ il2 <- get_acs(
   year = 2023
 )
 
+mapboxgl(bounds = il1, config = list(basemap = list(theme = "monochrome"))) |> 
+  add_fill_layer(
+    id = "tracts",
+    source = il2,
+    min_zoom = 7,
+    fill_color = interpolate(
+      column = "estimate",
+      values = c(0, 30000, 60000, 90000, 120000, 250000),
+      stops = viridisLite::viridis(6),
+      na_color = "lightgrey"
+    ), 
+    fill_opacity = 1
+  ) |> 
+  add_fill_layer(
+    id = "counties",
+    source = il1,
+    max_zoom = 9,
+    fill_color = interpolate(
+      column = "estimate",
+      values = c(0, 30000, 60000, 90000, 120000, 250000),
+      stops = viridisLite::viridis(6)
+    ), 
+    fill_opacity = interpolate(
+      property = "zoom",
+      values = 7:9,
+      stops = c(1, 0.5, 0)
+    )
+  ) |> 
+  add_legend(
+    "Median household income",
+    values = c("$0k", "$30k", "$60k", "$120k", "$250k"),
+    colors = viridisLite::viridis(6)
+  ) |> 
+  add_fullscreen_control()
+
 
 pal1 <- colorNumeric("viridis", il1$estimate)
 
