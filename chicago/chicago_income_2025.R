@@ -1,20 +1,23 @@
 library(tidycensus)
-library(leaflet)
+library(mapgl)
 library(sf)
-library(viridis)
 options(tigris_use_cache = TRUE)
 
-il1 <- get_acs(geography = "county", 
-               variables = c(hhincome = "B19013_001"), 
-               state = "IL", 
-               geometry = TRUE, 
-               year = 2023) 
+il1 <- get_acs(
+  geography = "county",
+  variables = c(hhincome = "B19013_001"),
+  state = "IL",
+  geometry = TRUE,
+  year = 2023
+)
 
-il2 <- get_acs(geography = "tract", 
-               variables = c(hhincome = "B19013_001"), 
-               state = "IL", 
-               geometry = TRUE,
-               year = 2023) 
+il2 <- get_acs(
+  geography = "tract",
+  variables = c(hhincome = "B19013_001"),
+  state = "IL",
+  geometry = TRUE,
+  year = 2023
+)
 
 
 pal1 <- colorNumeric("viridis", il1$estimate)
@@ -30,18 +33,25 @@ palb <- colorBin("viridis", il2$estimate, bins = bins)
 
 l1 <- leaflet() %>%
   addProviderTiles(providers$CartoDB.Positron) %>%
-  addPolygons(data = il1, stroke = FALSE, smoothFactor = 0.2, 
-              color = ~pala(estimate), 
-              label = ~as.character(estimate), 
-              fillOpacity = 0.8, 
-              group = "Counties") %>%
-  addPolygons(data = il2, stroke = FALSE, smoothFactor = 0.2, 
-              color = ~pala(estimate), 
-              label = ~as.character(estimate), 
-              fillOpacity = 0.8, 
-              group = "Tracts") %>%
-  addLegend(pal = pala, values = il1$estimate, 
-            title = "Med. HH Income") %>%
+  addPolygons(
+    data = il1,
+    stroke = FALSE,
+    smoothFactor = 0.2,
+    color = ~ pala(estimate),
+    label = ~ as.character(estimate),
+    fillOpacity = 0.8,
+    group = "Counties"
+  ) %>%
+  addPolygons(
+    data = il2,
+    stroke = FALSE,
+    smoothFactor = 0.2,
+    color = ~ pala(estimate),
+    label = ~ as.character(estimate),
+    fillOpacity = 0.8,
+    group = "Tracts"
+  ) %>%
+  addLegend(pal = pala, values = il1$estimate, title = "Med. HH Income") %>%
   addLayersControl(overlayGroups = c("Tracts", "Counties")) %>%
   hideGroup("Tracts")
 
