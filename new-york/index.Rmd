@@ -1,7 +1,7 @@
 ---
 title: "New York"
 subtitle: "Neighborhoods and demographic change"
-date: "January 30, 2025"
+date: "September 2, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -40,9 +40,9 @@ options(htmltools.dir.version = FALSE)
 
 ## Early New York: _Mannahatta_ 
 
-* https://welikia.org/explore/mannahatta-map/
+* https://www.welikia.org/map-explorer
 
-<img src="https://welikia.org/wp-content/themes/wp7bytetips/images/home_center_welikia.jpg" style="width: 700px">
+<img src="https://www.welikia.org/_app/immutable/assets/manhattan_vertical_x2_9.ZoVTgUzP.png" style="width: 700px">
 
 .footnote[Source: [The Welikia Project](https://welikia.org/)]
 
@@ -50,7 +50,7 @@ options(htmltools.dir.version = FALSE)
 
 ## Early New York
 
-<img src="http://thegreatestgrid.mcny.org/greatest-grid/img/detail/1.1.4.jpg" style="widtht: 700px">
+<img src="http://thegreatestgrid.mcny.org/greatest-grid/img/detail/1.1.4.jpg" style="width: 700px">
 
 .footnote[Source: [Museum of the City of New York](http://thegreatestgrid.mcny.org/greatest-grid/18th-century-city/5#map)]
 ---
@@ -58,6 +58,9 @@ options(htmltools.dir.version = FALSE)
 ## The Commissioner's Plan of 1811
 
 * Interactive: http://thegreatestgrid.mcny.org/greatest-grid/interactive-1811-plan
+
+<img src="img/greatest-grid.png" style="width: 600px">
+
 
 ---
 
@@ -166,11 +169,9 @@ class: middle, center, inverse
 
 ## Crime rates in NYC
 
-* 2017: 290 homicides in NYC, lowest since 1950s; crime rate falling consistently for 27 straight years (New York Times)
+<img src="img/nyc-crime.png" style="width: 650px">
 
-<img src="img/crime.PNG" style="width: 750px">
-
-.footnote[Source: [Brennan Center for Justice, NYU](https://www.brennancenter.org/sites/default/files/analysis/What_Caused_The_Crime_Decline.pdf)]
+.footnote[Source: [Vital City NYC](https://www.vitalcitynyc.org/articles/the-state-of-crime-in-new-york-city-at-midyear-2024)]
 
 ---
 
