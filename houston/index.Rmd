@@ -45,6 +45,8 @@ options(htmltools.dir.version = FALSE)
 
 ## Houston and industry
 
+[Industry in Houston](https://fortune.com/franchise-list-page/visualize-the-fortune-500-2022/)
+
 <img src="https://s.hdnux.com/photos/33/33/62/7191689/9/920x920.jpg" style="width: 600px">
 
 .footnote[Source: [Houston Chronicle](https://www.houstonchronicle.com/business/columnists/tomlinson/article/Gasoline-prices-mean-big-break-for-Americans-but-5917427.php)]
