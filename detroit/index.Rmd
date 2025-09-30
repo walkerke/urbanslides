@@ -1,7 +1,7 @@
 ---
 title: "Detroit"
 subtitle: "Race and deindustrialization"
-date: "March 4, 2025"
+date: "September 30, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -49,7 +49,7 @@ options(htmltools.dir.version = FALSE)
 
 ## History of Detroit
 
-<img src="https://www.mlive.com/resizer/3DONVrVpPlzVm9NdUFRI0-CcIaE=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.mlive.com/home/mlive-media/width2048/img/news/detroit_impact/photo/23978324-standard.jpg" style="width: 600px">
+<img src="https://www.mlive.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.mlive.com%2Fhome%2Fmlive-media%2Fwidth2048%2Fimg%2Fnews%2Fdetroit_impact%2Fphoto%2F23978324-standard.jpg?auth=71cc26b2ccc34d64e1fb9ed390aea8505992789647b8b891c78ae5d520b0539b&width=1280&smart=true&quality=90" style="width: 600px">
 
 .footnote[Source: [MLive.com](https://www.mlive.com/news/detroit/2018/01/historic_photos_fords_assembly.html)]
 
@@ -146,9 +146,9 @@ Key terms:
 
 ## Racial segregation in Detroit
 
-<img src=img/detroit-racial.PNG style="width: 800px">
+<img src=img/detroit-census-dots.png style="width: 800px">
 
-.footnote[Source: [UVA/The Racial Dot Map](http://demographics.virginia.edu/DotMap/)]
+.footnote[Source: [Census Dots](https://www.censusdots.com/?map=12.25,42.3952,-83.1083)]
 
 ---
 
@@ -181,9 +181,9 @@ class: middle, center, inverse
 
 ## The automobile industry and Detroit
 
-<img src="https://i.kinja-img.com/gawker-media/image/upload/s--xmuUNeaq--/c_scale,fl_progressive,q_80,w_800/18dtuu07dvsfgjpg.jpg" style="width: 650px">
+<img src="https://wdet.org/wp-content/uploads/2023/05/Detroit-Grand-Prix-Renaissance-Center-scaled.jpg" style="width: 650px">
 
-.footnote[Source: [Jalopnik](https://jalopnik.com/5243287/gms-renaissance-center-hq-view-from-the-top)]
+.footnote[Source: WDET.org]
 
 ---
 
@@ -234,9 +234,9 @@ class: middle, center, inverse
 
 ## Urban renewal in Detroit
 
-<img src="https://www.gannett-cdn.com/presto/2018/12/12/PDTF/ae976e0b-ecc0-4ff0-9e2f-4c6a002f47a2-Monroe_Blocks_4_residential_building.jpg?width=1280" style="width: 575px">
+<img src="https://images.squarespace-cdn.com/content/v1/67053dd35c5d3c09db93724d/720abb7e-456a-4310-a882-2f4d6addda53/NFLDraft-CadillacSquareSite-20240426-001__1_.jpg?format=2500w" style="width: 575px">
 
-.footnote[Source: [_Detroit Free Press_](https://www.freep.com/picture-gallery/news/local/michigan/detroit/2018/12/12/monroe-blocks-project-downtown-detroit/2294522002/)]
+.footnote[Source: [Cadillac Square](https://www.developmentcadillacsquare.com/)]
 
 ---
 
