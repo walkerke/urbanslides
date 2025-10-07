@@ -1,7 +1,7 @@
 ---
 title: "Vancouver and Montreal"
 subtitle: "Immigration and cultural diversity"
-date: "March 6, 2025"
+date: "October 7, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -53,9 +53,11 @@ class: middle, center, inverse
 
 ## International migration
 
-* Nearly 46 million immigrants live in the United States -- about 1 in every 5 immigrants worldwide
+* About 3.7% of the world's population lives outside their country of birth (about 304 million people)
 
-* In 2013, the U.S. was around 14 percent foreign-born; Canada, 21 percent
+* 52 million immigrants live in the United States -- 17 percent of all international migrants worldwide
+
+* In 2024, the U.S. was around 15 percent foreign-born; Canada, 22 percent
 
 * [Mapping Immigrant America](http://personal.tcu.edu/kylewalker/immigrant-america)
 
@@ -81,9 +83,9 @@ class: middle, center, inverse
 
 ## Transnational migration in Canada
 
-* Both Toronto and Vancouver are set to become 'majority-minority' cities by 2031
+* Toronto is a "majority-minority" city; Vancouver is on track to reach this by 2031
 
-* Vancouver's ethnic Chinese population to double to 800,000 by 2031
+* Vancouver's ethnic Chinese population projected to reach 800,000 by 2031 (up from ~512,000 in 2021)
 
 * Richmond, BC: first majority-Chinese city outside Asia
 
@@ -182,7 +184,12 @@ class: middle, center, inverse
 
 ## Language and Quebec
 
-* Quebec: the __Official Language Act__
+* Quebec: the __Official Language Act__ stipulates French as the official language for:
+  - Services
+  - Commercial signage
+  - Business
+  - Instruction
+  - The legal system
 
 * The _Parti Québécois_ and _Bloc Québécois_
 
