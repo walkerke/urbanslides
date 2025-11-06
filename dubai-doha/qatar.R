@@ -27,7 +27,7 @@ g1 <- ggplot(qatar, aes(x = age, y = pop, fill = sex, width = 1)) +
   theme_minimal(base_size = 14, base_family = "Tahoma") +
   scale_fill_manual(values = c('darkred', 'pink')) +
   ggtitle('Population structure of Qatar, 2025') + 
-  labs(y = "Age", x = "Population", fill = "Sex") + 
+  labs(y = "Population", x = "Age", fill = "Sex") + 
   theme(legend.position = "bottom", legend.title = element_blank()) +
   labs(caption = 'Chart by @kyle_e_walker | Data source: US Census Bureau IDB via the idbr R package') + 
   guides(fill = guide_legend(reverse = TRUE))

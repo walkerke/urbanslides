@@ -1,7 +1,7 @@
 ---
 title: "Dubai & Doha"
 subtitle: "Natural resources and urban spectacle"
-date: "April 10, 2025"
+date: "November 5, 2025"
 author: "GEOG 10023"
 output: 
   xaringan::moon_reader: 
@@ -78,17 +78,16 @@ class: middle, center, inverse
 
 ---
 
-### Oil reserves by country, 2016 (billions of barrels)
+### Oil reserves by country
 
-<iframe src="oil_waffle.html" frameborder="0" height="500" width="800"></iframe>
+<img src=oil-proved-reserves.png style="width: 800px">
 
-.footnote[Source: [US EIA](http://www.eia.gov/beta/international/data/browser/#/?pa=0000000000000000000008&c=ruvvvvvfvtvnvv1urvvvvfvvvvvvfvvvou20evvvvvvvvvnvvuvo&ct=0&tl_id=5-A&vs=INTL.57-6-AFG-BB.A&ord=SA&cy=2014&vo=0&v=H&start=1980)]
 
 ---
 
-### Gas reserves by country, 2016 (trillions of cubic meters)
+### Gas reserves by country
 
-<iframe src="gas_waffle.html" frameborder="0" height="500" width="800"></iframe>
+<img src=natural-gas-proved-reserves.png style="width: 800px">
 
 ---
 
